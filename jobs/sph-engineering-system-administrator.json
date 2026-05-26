@@ -1,0 +1,18 @@
+{
+  "slug": "sph-engineering-system-administrator",
+  "title": "System Administrator",
+  "company": "SPH Engineering, SIA",
+  "companyUrl": "https://sphengineering.com",
+  "location": "Baloži",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500",
+  "stack": ["aws", "linux", "docker", "nginx", "grafana", "terraform", "ansible", "python", "git", "mikrotik"],
+  "summary": {
+    "lv": "SPH Engineering (Latvijas dronu programmatūras uzņēmums — UgCS, Drone Show Software, ATLAS — klienti 150+ valstīs) meklē System Administrator / DevOps inženieri, kas uzturēs AWS infrastruktūru, Linux serverus, Docker/Nginx, Grafana monitoringu un Terraform/Ansible konfigurāciju. Hibrīds darbs Baložos.",
+    "en": "SPH Engineering — Latvian drone software company (UgCS, Drone Show Software, ATLAS) with customers in 150+ countries — is hiring a System Administrator / DevOps Engineer to maintain AWS, Linux, Docker/Nginx, Grafana monitoring and Terraform/Ansible IaC. Hybrid role in Baloži."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1565790/sph-engineering-sia/system-administrator",
+  "postedAt": "2026-05-26"
+}
