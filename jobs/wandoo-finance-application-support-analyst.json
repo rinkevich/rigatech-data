@@ -1,0 +1,18 @@
+{
+  "slug": "wandoo-finance-application-support-analyst",
+  "title": "Application Support Analyst",
+  "company": "Wandoo Finance SIA",
+  "companyUrl": "http://www.wandoofinance.com",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–3000",
+  "stack": ["sql", "java", "groovy", "datadog", "elastic", "graylog", "jira"],
+  "summary": {
+    "lv": "Wandoo Finance — Latvijā bāzēta starptautiska fintech grupa ar operācijām Polijā, Spānijā, Rumānijā, Peru un Lietuvā — meklē Application Support analītiķi, kas izmeklēs un risinās 2./3. līmeņa atbalsta pieprasījumus ar SQL, sazināsies ar biznesa komandām un dokumentēs risinājumus.",
+    "en": "Wandoo Finance — a Latvia-headquartered global fintech operating in Poland, Spain, Romania, Peru and Lithuania — is hiring an Application Support Analyst to investigate and resolve 2nd/3rd-level tickets full-stack using SQL, coordinate with business teams and document fixes."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1579768/wandoo-finance-sia/application-support-analyst",
+  "postedAt": "2026-05-26"
+}
