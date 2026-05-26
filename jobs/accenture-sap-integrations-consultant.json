@@ -1,0 +1,30 @@
+{
+  "slug": "accenture-sap-integrations-consultant",
+  "title": "SAP Integrations Consultant",
+  "company": "Accenture",
+  "companyUrl": "https://www.accenture.com/lv-en/about/company/about-latvia",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–4700",
+  "stack": [
+    "sap",
+    "sap-pi",
+    "sap-po",
+    "sap-cpi",
+    "abap",
+    "xml",
+    "json",
+    "rest",
+    "odata",
+    "soap",
+    "javascript"
+  ],
+  "summary": {
+    "lv": "Accenture Rīgā meklē SAP Integrations Consultant, kas projektē un izstrādā integrācijas starp SAP un trešo pušu sistēmām, izmantojot SAP PO/PI, SAP CPI, IDocs, BAPIs un web tehnoloģijas (XML, JSON, REST, SOAP).",
+    "en": "Accenture in Riga is hiring an SAP Integrations Consultant to design and build integrations between SAP and third-party systems using SAP PO/PI, SAP CPI, IDocs, BAPIs and web technologies (XML, JSON, REST, SOAP)."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1584159/accenture/sap-integrations-consultant",
+  "postedAt": "2026-05-26"
+}
