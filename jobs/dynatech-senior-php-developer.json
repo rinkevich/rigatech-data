@@ -1,0 +1,31 @@
+{
+  "slug": "dynatech-senior-php-developer",
+  "title": "Senior PHP Developer",
+  "company": "Dyninno Technologies (Dynatech)",
+  "companyUrl": "https://dyninno.com/en/technologies/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3000–4000",
+  "stack": [
+    "php",
+    "symfony",
+    "laravel",
+    "mysql",
+    "redis",
+    "memcached",
+    "mariadb",
+    "elasticsearch",
+    "docker",
+    "kubernetes",
+    "linux",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "Dynatech (Dyninno grupa) Rīgā meklē Senior PHP izstrādātāju centrālajai CRM sistēmai, kas atbalsta Trevolution biznesa procesus globālā ceļojumu/avio biļešu nozarē, kā arī palīdz integrēt mūsdienu AI risinājumus backend servisos.",
+    "en": "Dynatech (Dyninno group) in Riga is hiring a Senior PHP Developer for its central CRM system supporting Trevolution's global travel/air-ticketing operations, also contributing to integrating modern AI capabilities into backend services."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1584240/dyninno-technologies-dynatech/senior-php-developer",
+  "postedAt": "2026-05-26"
+}
