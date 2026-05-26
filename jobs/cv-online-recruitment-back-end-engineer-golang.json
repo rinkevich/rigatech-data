@@ -1,0 +1,18 @@
+{
+  "slug": "cv-online-recruitment-back-end-engineer-golang",
+  "title": "Back-end Engineer (Golang)",
+  "company": "CV-Online Recruitment",
+  "companyUrl": "https://www.recruitment.lv",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–7000",
+  "stack": ["golang", "mysql", "kubernetes", "ci-cd"],
+  "summary": {
+    "lv": "Back-end inženiera (Golang) loma pie CV-Online Recruitment klienta, kas izstrādā kompleksu digitālu platformu biznesa procesu automatizācijai. Atbildība par backend servisu arhitektūru, integrācijām, MySQL datu plūsmām un cloud-native ekspluatāciju ar augstu uzticamību.",
+    "en": "Back-end Engineer (Golang) role for an undisclosed CV-Online Recruitment client building a long-term, technically complex platform that automates business processes. Owns backend service architecture, integrations, MySQL data flows, and cloud-native operations with strong reliability expectations."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1583727/cv-online-recruitment/back-end-engineer-golang",
+  "postedAt": "2026-05-26"
+}
