@@ -1,0 +1,18 @@
+{
+  "slug": "aerones-senior-fullstack-engineer",
+  "title": "Senior Fullstack Engineer",
+  "company": "Aerones Engineering",
+  "companyUrl": "https://aerones.com/lv/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–6000",
+  "stack": ["fullstack"],
+  "summary": {
+    "lv": "Aerones Engineering, vēja turbīnu robotizēto apkopju pakalpojumu sniedzējs pasaulē, meklē vecāko fullstack inženieri Rīgas komandai produkta priekšgala un aizmugures funkcionalitātes izstrādei.",
+    "en": "Aerones Engineering — the world's leading provider of robotic wind-turbine maintenance — is hiring a Senior Fullstack Engineer in Riga to build front-end and back-end product functionality end-to-end."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1585889/sia-aerones-engineering/senior-fullstack-engineer",
+  "postedAt": "2026-05-26"
+}
