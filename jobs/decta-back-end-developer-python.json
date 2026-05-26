@@ -1,0 +1,18 @@
+{
+  "slug": "decta-back-end-developer-python",
+  "title": "Back-End Developer (Python)",
+  "company": "Decta SIA",
+  "companyUrl": "http://www.decta.com",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–3500",
+  "stack": ["python", "asyncio", "fastapi", "pydantic", "poetry", "rabbitmq", "postgresql", "docker", "microservices", "rest"],
+  "summary": {
+    "lv": "DECTA, globāls maksājumu apstrādes uzņēmums, meklē Back-End Python izstrādātāju savai FinTech komandai Rīgā darbam ar mikroservisiem un maksājumu integrācijām.",
+    "en": "DECTA, a global payment processing company, is hiring a Python Back-End Developer for its Riga FinTech team to work on microservices and payment integrations."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1585555/decta-sia/back-end-developer-python",
+  "postedAt": "2026-05-26"
+}
