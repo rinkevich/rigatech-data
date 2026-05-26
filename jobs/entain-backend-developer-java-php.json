@@ -1,0 +1,18 @@
+{
+  "slug": "entain-backend-developer-java-php",
+  "title": "Backend Developer (Java/PHP)",
+  "company": "Entain NCE",
+  "companyUrl": "https://career.enlabs.com",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–4500",
+  "stack": ["java", "spring-boot", "php", "sql", "git", "rest"],
+  "summary": {
+    "lv": "Entain NCE — Rīgā bāzētā iGaming uzņēmuma Entain ziemeļu un centrālās Eiropas nodaļa (Optibet, Bwin, Klondaika, Ninja Casino) — meklē Backend izstrādātāju, kas izstrādās Java sistēmas un daļēji uzturēs PHP kodu bāzi, ieskaitot RESTful API saskarnes un SQL datubāzes.",
+    "en": "Entain NCE — the North/Central Europe iGaming arm of Entain (Optibet, Bwin, Klondaika, Ninja Casino) headquartered in Riga — is hiring a Backend Developer to build Java services and maintain existing PHP systems, designing RESTful APIs against SQL databases."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1585185/entain-nce/backend-developer-java-php",
+  "postedAt": "2026-05-26"
+}
