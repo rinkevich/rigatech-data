@@ -1,0 +1,18 @@
+{
+  "slug": "it-camp-it-sistemu-administrators",
+  "title": "IT sistēmu administrators",
+  "company": "IT Camp (Latvijas pārtikas ražotājs)",
+  "companyUrl": "https://www.itcamp.lv",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2800–3300",
+  "stack": ["windows", "mysql", "mssql", "linux", "active-directory", "office-365", "azure", "fortigate", "networking"],
+  "summary": {
+    "lv": "IT Camp aģentūras klients — viens no lielākajiem Latvijas pārtikas ražotājiem (kopš 1996. gada, sadarbojas ar Baltijas un globāliem mazumtirgotājiem) — meklē IT sistēmu administratoru ar 3+ gadu pieredzi, kas administrēs Windows/Linux serverus, MS SQL, AD/GPO, Office 365, Azure un Fortigate tīklu Rīgā.",
+    "en": "IT Camp's client — one of Latvia's largest food manufacturers (founded 1996, working with leading Baltic and global retailers) — is hiring an IT Systems Administrator with 3+ years' experience to run Windows/Linux servers, MS SQL, AD/GPO, Office 365, Azure and Fortigate networking in Riga."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1584561/it-camp/it-sistemu-administrators",
+  "postedAt": "2026-05-26"
+}
