@@ -1,0 +1,18 @@
+{
+  "slug": "mikrotikls-c-cpp-programmetajs-switching-bridging",
+  "title": "C/C++ programmētājs/-a (switching & bridging grupā)",
+  "company": "Mikrotīkls SIA",
+  "companyUrl": "https://mikrotik.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€4000–10000",
+  "stack": ["c", "c++", "networking", "switching", "bridging", "routeros"],
+  "summary": {
+    "lv": "Mikrotīkls meklē C/C++ programmētāju RouterOS switching un bridging grupai, kas izstrādās zema līmeņa datortīklu pārvades funkcionalitāti globāli izmantotām MikroTik iekārtām. Hibrīda darbs Rīgā.",
+    "en": "MikroTik is hiring a C/C++ Developer for the RouterOS switching & bridging team to build low-level data-plane functionality for globally deployed MikroTik networking devices. Hybrid role in Riga."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1584591/mikrotikls-sia/c-c-programmetajs-a-switching-un-bridging-grupa",
+  "postedAt": "2026-05-26"
+}
