@@ -1,0 +1,18 @@
+{
+  "slug": "ubiquiti-senior-back-end-engineer",
+  "title": "Senior Back-End Engineer",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "http://careers.ui.com",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–7000",
+  "stack": ["nodejs", "typescript", "postgresql", "sql", "git", "linux", "docker", "rust", "webrtc", "grpc", "go", "aws"],
+  "summary": {
+    "lv": "Ubiquiti meklē vecāko Back-End inženieri ar 3+ gadu pieredzi Node.js un TypeScript darbam ar mākoņpakalpojumiem un mērogojamām API.",
+    "en": "Ubiquiti is hiring a Senior Back-End Engineer with 3+ years of Node.js and TypeScript experience to work on cloud services and scalable APIs."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1580427/ubiquiti-latvia-sia/senior-back-end-engineer",
+  "postedAt": "2026-05-26"
+}
