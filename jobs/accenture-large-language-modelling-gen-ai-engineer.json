@@ -1,0 +1,18 @@
+{
+  "slug": "accenture-large-language-modelling-gen-ai-engineer",
+  "title": "Large Language Modelling/Gen AI engineer",
+  "company": "Accenture",
+  "companyUrl": "https://www.accenture.com/lv-en/about/company/about-latvia",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€2600–5000",
+  "stack": ["python", "fastapi", "flask", "langchain", "openai", "anthropic", "azure", "aws", "gcp", "rag", "vector-db", "ci-cd", "docker", "huggingface"],
+  "summary": {
+    "lv": "LLM/GenAI inženieris Accenture komandā strādā Fortune 500 klientu projektos — projektē, izstrādā un izvieto prototipus un produkcijas līmeņa LLM risinājumus, pārvalda CI/CD un MLOps konveijerus, sniedz tehnisku padomu klientiem. Sagaidām 3+ gadu Python pieredzi, hands-on LLM API (OpenAI, Anthropic, Gemini, Azure OpenAI) un RAG arhitektūras zināšanas.",
+    "en": "LLM/GenAI engineer at Accenture working with Fortune 500 clients to prototype, build, deploy and operate production LLM solutions, owning CI/CD and MLOps pipelines and advising clients on LLM adoption. Requires 3+ years Python, hands-on LLM APIs (OpenAI, Anthropic, Gemini, Azure OpenAI), and strong RAG and vector database experience."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1575347/accenture/large-language-modelling-gen-ai-engineer",
+  "postedAt": "2026-05-26"
+}
