@@ -1,0 +1,23 @@
+{
+  "slug": "sadales-tikls-sistemu-vadibas-inzenieris",
+  "title": "Sistēmu vadības inženieris/-e",
+  "company": "Sadales tīkls A/S",
+  "companyUrl": "https://sadalestikls.lv/lv/",
+  "location": "Daugavpils",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–2430",
+  "stack": [
+    "scada",
+    "iec-61850",
+    "prometheus",
+    "grafana"
+  ],
+  "summary": {
+    "lv": "Sadales tīkls A/S meklē Sistēmu vadības inženieri Daugavpilī vai Aizkrauklē, kas uztur dispečervadības sistēmas (SCADA) gala iekārtas (RTU), datu komunikāciju aparatūru un piedalās automātikas iekārtu darbos elektrotīklā.",
+    "en": "Sadales tīkls A/S is hiring a System Control Engineer in Daugavpils or Aizkraukle to maintain SCADA dispatcher control end-devices (RTUs), data-communication equipment and automation gear across the power grid."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1579227/sadales-tikls-a-s/sistemu-vadibas-inzenieris-e",
+  "postedAt": "2026-05-26"
+}
