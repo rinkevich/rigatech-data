@@ -1,0 +1,18 @@
+{
+  "slug": "fid-programmetajs",
+  "title": "Programmētājs/-a",
+  "company": "Finanšu izlūkošanas dienests",
+  "companyUrl": "https://www.fid.gov.lv/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2300–2600",
+  "stack": ["sql", "git", ".net", "python", "php"],
+  "summary": {
+    "lv": "Finanšu izlūkošanas dienests meklē programmētāju Rīgas centrā, lai izstrādātu un optimizētu datu integrācijas un apstrādes risinājumus, sadarbojoties ar gala lietotājiem un ārējiem izstrādātājiem. Darbs ar SQL, Git un .NET/Python/PHP.",
+    "en": "Latvia's Financial Intelligence Service (FID) is hiring a Programmer in central Riga to build and optimise data integration and processing solutions, working with end users and external developers across SQL, Git and .NET/Python/PHP."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1585150/eiro-personals-klients/programmetajs-a",
+  "postedAt": "2026-05-26"
+}
