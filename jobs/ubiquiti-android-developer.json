@@ -1,0 +1,18 @@
+{
+  "slug": "ubiquiti-android-developer",
+  "title": "Android Developer",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "http://careers.ui.com",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–6000",
+  "stack": ["android", "kotlin", "rxjava", "android-studio", "rest"],
+  "summary": {
+    "lv": "Ubiquiti Rīgas R&D meklē Android izstrādātāju ar 3+ gadu pieredzi Kotlin un RxJava, kurš izstrādās aplikācijas, ko izmanto miljoniem cilvēku.",
+    "en": "Ubiquiti's Riga R&D team is hiring an Android Developer with 3+ years of Kotlin and RxJava experience to build apps used by millions worldwide."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1580423/ubiquiti-latvia-sia/android-developer",
+  "postedAt": "2026-05-26"
+}
