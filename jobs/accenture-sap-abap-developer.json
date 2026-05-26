@@ -1,0 +1,18 @@
+{
+  "slug": "accenture-sap-abap-developer",
+  "title": "SAP Abap developer",
+  "company": "Accenture",
+  "companyUrl": "https://www.accenture.com/lv-en/about/company/about-latvia",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2300–4500",
+  "stack": ["sap", "abap"],
+  "summary": {
+    "lv": "Accenture, vadošs globāls konsultāciju, tehnoloģiju un operāciju uzņēmums ar 790,000 darbiniekiem pasaulē, meklē SAP ABAP izstrādātāju Rīgas birojam ar elastīgu darba laiku.",
+    "en": "Accenture — a leading global consulting, technology and operations company with 790,000 employees worldwide — is hiring a SAP ABAP Developer for its Riga office with flexible hours."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1570020/accenture/sap-abap-developer",
+  "postedAt": "2026-05-26"
+}
