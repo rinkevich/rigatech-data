@@ -1,0 +1,21 @@
+{
+  "slug": "2026-05-14-deep-tech-atelier-2026",
+  "title": {
+    "en": "Deep Tech Atelier 2026",
+    "lv": "Deep Tech Atelier 2026"
+  },
+  "date": "2026-05-14",
+  "endDate": "2026-05-15",
+  "location": "Rīga",
+  "venue": "Fantadroms",
+  "url": "https://deeptechatelier.com/",
+  "organizer": "Deep Tech Atelier",
+  "kind": "conference",
+  "techTags": ["deeptech", "medtech", "defence-tech", "biotech"],
+  "audienceTags": ["founders", "investors", "researchers", "entrepreneurs"],
+  "summary": {
+    "en": "Eighth edition of the Baltic's leading deep-tech conference. Two days of international speakers, startup pitch sessions and workshops focused on MedTech and Defence Tech — bringing together founders, scientists, investors and industry leaders in Riga.",
+    "lv": "Astotais izdevums Baltijas vadošajai zinātņietilpīgo tehnoloģiju konferencei. Divu dienu garumā uzstājas starptautiski runātāji, notiek jaunuzņēmumu pitch sesijas un praktiskas darbnīcas par MedTech un Defence Tech — pulcējot uzņēmējus, zinātniekus, investorus un nozares līderus Rīgā."
+  },
+  "image": "https://magic.labsoflatvia.com/media/2026/02/DTA_2026_visual-1024x587.png"
+}
