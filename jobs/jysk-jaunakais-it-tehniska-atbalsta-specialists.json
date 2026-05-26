@@ -1,0 +1,18 @@
+{
+  "slug": "jysk-jaunakais-it-tehniska-atbalsta-specialists",
+  "title": "Jaunākais IT tehniskā atbalsta speciālists",
+  "company": "JYSK Linnen'n Furniture, SIA",
+  "companyUrl": "http://www.jysk.lv",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€1800",
+  "stack": ["active-directory", "azure-ad", "entra", "it-support"],
+  "summary": {
+    "lv": "JYSK Baltijas centrālais birojs Rīgā meklē jaunāko IT tehniskā atbalsta speciālistu, kas uzstādīs un uzturēs datortehniku, administrēs MS AD/Entra kontus, risinās incidentus un dosies komandējumos uz veikaliem Igaunijā, Latvijā un Lietuvā.",
+    "en": "JYSK's Baltic head office in Riga is hiring a Junior IT Support Specialist to deploy and maintain end-user hardware, administer MS AD/Entra accounts, handle incidents and travel to stores across Estonia, Latvia and Lithuania."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1579627/jysk-linnen-n-furniture-sia/jaunakais-it-tehniska-atbalsta-specialists",
+  "postedAt": "2026-05-26"
+}
