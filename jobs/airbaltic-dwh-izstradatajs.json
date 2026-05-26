@@ -1,0 +1,18 @@
+{
+  "slug": "airbaltic-dwh-izstradatajs",
+  "title": "DWH Izstrādātājs/-a",
+  "company": "Air Baltic Corporation AS",
+  "companyUrl": "https://careers.airbaltic.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3700–4500",
+  "stack": ["sql", "data-warehouse"],
+  "summary": {
+    "lv": "airBaltic, Latvijas nacionālā aviokompānija un viens no Latvijas labākajiem darba devējiem aviācijā 10+ gadu garumā, meklē datu noliktavas (DWH) izstrādātāju Tehnikas ielas birojam pie Lidostas \"Rīga\".",
+    "en": "airBaltic — Latvia's national airline and one of Latvia's top aviation employers for 10+ years — is hiring a Data Warehouse (DWH) Developer for its Tehnikas street office at Riga Airport."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1569934/air-baltic-corporation-as/dwh-izstradatajs-a",
+  "postedAt": "2026-05-26"
+}
