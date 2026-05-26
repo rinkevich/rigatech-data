@@ -1,0 +1,18 @@
+{
+  "slug": "accenture-azure-data-engineer",
+  "title": "Azure Data Engineer",
+  "company": "Accenture",
+  "companyUrl": "https://www.accenture.com/lv-en/about/company/about-latvia",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2600–5200",
+  "stack": ["azure", "sql", "python", "pyspark", "etl", "delta-lake"],
+  "summary": {
+    "lv": "Azure Data Engineer Accenture komandā strādā ar uzņēmumu līmeņa datu platformām Azure mākonī — datu ievade, transformācija, modelēšana, migrācija un ETL procesu izstrāde. Sagaidām 3+ gadu pieredzi datu inženierijā ar Azure, SQL un Python/PySpark zināšanas.",
+    "en": "Azure Data Engineer at Accenture working with enterprise-grade data platforms in Azure — data ingestion, transformation, modeling, migration and ETL development. Requires 3+ years of data engineering on Azure, intermediate SQL and Python or PySpark."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1575350/accenture/azure-data-engineer",
+  "postedAt": "2026-05-26"
+}
