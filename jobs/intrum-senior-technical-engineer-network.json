@@ -1,0 +1,29 @@
+{
+  "slug": "intrum-senior-technical-engineer-network",
+  "title": "Senior Technical Engineer, Network",
+  "company": "Intrum Global Technologies",
+  "companyUrl": "https://www.intrum.com/igt/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–5200",
+  "stack": [
+    "cisco",
+    "meraki",
+    "fortigate",
+    "palo-alto",
+    "zscaler",
+    "azure",
+    "aws",
+    "voip",
+    "sip",
+    "itil"
+  ],
+  "summary": {
+    "lv": "Intrum Global Technologies Rīgā meklē Senior Technical Engineer (Network), kas uztur uzņēmuma tīkla stabilitāti, vada incidentu izmeklēšanu un strādā ar Cisco (Meraki, Catalyst, ACI, ASA), VeloCloud, Palo Alto un cloud tīklošanas tehnoloģijām.",
+    "en": "Intrum Global Technologies in Riga is hiring a Senior Network Engineer to keep enterprise networking reliable, lead complex incident investigations, and operate Cisco (Meraki, Catalyst, ACI, ASA), VeloCloud, Palo Alto and cloud-networking stacks."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1584360/intrum-global-technologies/senior-technical-engineer-network",
+  "postedAt": "2026-05-26"
+}
