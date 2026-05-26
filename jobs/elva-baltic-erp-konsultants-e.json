@@ -1,0 +1,18 @@
+{
+  "slug": "elva-baltic-erp-konsultants-e",
+  "title": "ERP konsultants/-e",
+  "company": "Elva Baltic SIA",
+  "companyUrl": "https://www.elva.lv/par-mums/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–3500",
+  "stack": ["dynamics-365", "business-central", "nav", "erp"],
+  "summary": {
+    "lv": "ERP konsultants ELVA komandā, kas ievieš Microsoft Dynamics 365 Business Central vai NAV risinājumus Baltijas klientiem. Sagaidām vismaz 2 gadu pieredzi ERP ieviešanā finanšu, iepirkumu, pārdošanas vai noliktavas/ražošanas jomās un teicamas latviešu valodas prasmes.",
+    "en": "ERP consultant at ELVA implementing Microsoft Dynamics 365 Business Central or NAV solutions for Baltic clients. Requires at least 2 years of ERP experience in finance, procurement, sales or warehouse/manufacturing domains and strong Latvian language skills."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1575356/elva-baltic-sia/erp-konsultants-e",
+  "postedAt": "2026-05-26"
+}
