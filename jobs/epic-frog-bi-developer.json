@@ -1,0 +1,18 @@
+{
+  "slug": "epic-frog-bi-developer",
+  "title": "BI Developer",
+  "company": "Epic Frog",
+  "companyUrl": "https://epicfrog.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–4500",
+  "stack": ["sql", "bi"],
+  "summary": {
+    "lv": "Epic Frog, Rīgas tehnoloģiju uzņēmums, meklē BI izstrādātāju savai analītikas un datu komandai.",
+    "en": "Epic Frog, a Riga-based tech company, is hiring a BI Developer for its analytics and data team."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1574809/epic-frog/bi-developer",
+  "postedAt": "2026-05-26"
+}
