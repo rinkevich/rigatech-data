@@ -1,0 +1,18 @@
+{
+  "slug": "discover-cars-senior-full-stack-javascript-engineer",
+  "title": "Senior Full Stack JavaScript Engineer",
+  "company": "Discover Cars",
+  "companyUrl": "http://www.discovercars.com",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–4500",
+  "stack": ["javascript", "node", "fullstack"],
+  "summary": {
+    "lv": "DiscoverCars.com — globāls auto nomas rezervāciju portāls ar 10 000+ lokācijām 145 valstīs un 2,5 miljoniem mēneša lietotāju — meklē vecāko Full Stack JavaScript inženieri hibrīda režīmā Rīgā.",
+    "en": "DiscoverCars.com — global online car-rental marketplace covering 10,000+ locations in 145 countries with 2.5M monthly customers — is hiring a Senior Full Stack JavaScript Engineer for hybrid work in Riga."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1574896/discover-cars/senior-full-stack-javascript-engineer",
+  "postedAt": "2026-05-26"
+}
