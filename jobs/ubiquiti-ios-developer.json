@@ -1,0 +1,18 @@
+{
+  "slug": "ubiquiti-ios-developer",
+  "title": "IOS developer",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "http://careers.ui.com",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–6000",
+  "stack": ["ios", "swift", "swiftui", "uikit", "combine", "rest", "websocket"],
+  "summary": {
+    "lv": "Ubiquiti Rīgas R&D meklē iOS izstrādātāju ar zināšanām Swift, SwiftUI un Apple dizaina principos, lai veidotu lietotnes plašai auditorijai.",
+    "en": "Ubiquiti's Riga R&D team is hiring an iOS developer skilled in Swift, SwiftUI and Apple's design principles to build apps used by millions."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1580424/ubiquiti-latvia-sia/ios-developer",
+  "postedAt": "2026-05-26"
+}
