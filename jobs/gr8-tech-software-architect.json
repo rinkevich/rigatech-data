@@ -1,0 +1,18 @@
+{
+  "slug": "gr8-tech-software-architect",
+  "title": "Software Architect",
+  "company": "GR8 Tech",
+  "companyUrl": "https://gr8.tech/career/",
+  "location": "Rīga",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "staff",
+  "salaryRange": "€6000–9000",
+  "stack": ["microservices", "kafka", "ddd", "cqrs", "event-driven", "aws", "azure", "kubernetes", "docker", "terraform", "sql", "nosql"],
+  "summary": {
+    "lv": "GR8 Tech (globāla iGaming platformas produkta uzņēmuma, kas apkalpo miljonus aktīvu spēlētāju) meklē Software Architect, kas projektēs izkliedētas sistēmas ar DDD, CQRS, EDA un Kafka, vadīs Kubernetes/Terraform infrastruktūru un mentorēs vecākos inženierus. Pilnībā attālināts darbs.",
+    "en": "GR8 Tech — a global iGaming platform product company serving millions of active players — is hiring a Software Architect to design distributed systems with DDD, CQRS, EDA and Kafka, lead Kubernetes/Terraform infrastructure and mentor senior engineers. Fully remote."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1579688/gr8-tech/software-architect",
+  "postedAt": "2026-05-26"
+}
