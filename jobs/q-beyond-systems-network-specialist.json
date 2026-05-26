@@ -1,0 +1,18 @@
+{
+  "slug": "q-beyond-systems-network-specialist",
+  "title": "Systems Network Specialist",
+  "company": "q.beyond AG",
+  "companyUrl": "https://qbeyond.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–4000",
+  "stack": ["fortinet", "vmware", "azure", "cisco", "netscaler", "sd-wan"],
+  "summary": {
+    "lv": "q.beyond AG, vācu IT pakalpojumu sniedzējs ar 1100 speciālistiem Vācijā, Latvijā, Spānijā un Indijā, meklē sistēmu un tīklu speciālistu Rīgas birojam darbam ar Fortinet, NetScaler, VMware un Azure tīkliem.",
+    "en": "q.beyond AG — a German IT service provider with 1,100 specialists across Germany, Latvia, Spain and India — is hiring a Systems Network Specialist in Riga to work with Fortinet, NetScaler, VMware and Azure networking products."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1575724/q-beyond/systems-network-specialist",
+  "postedAt": "2026-05-26"
+}
