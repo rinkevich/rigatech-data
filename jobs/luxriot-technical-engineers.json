@@ -1,0 +1,18 @@
+{
+  "slug": "luxriot-technical-engineers",
+  "title": "Technical Engineers",
+  "company": "Luxriot",
+  "companyUrl": "https://www.luxriot.com",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500",
+  "stack": ["networking", "windows", "ip-cameras", "video-codecs", "vpn"],
+  "summary": {
+    "lv": "Luxriot, kas izstrādā Evo operatīvās informācijas platformu video novērošanai un sistēmu integrācijai kritiskajās infrastruktūrās (transports, enerģētika, lidostas, militārā joma), meklē trīs tehniskos inženierus Rīgas komandai ar virzību uz tehnisko atbalstu, application engineering vai QA pēc strukturētas apmācības.",
+    "en": "Luxriot — developer of the Evo Operational Intelligence Platform used in critical infrastructure (transport, energy, airports, defence) for video surveillance and operations management — is hiring three Technical Engineers in Riga, with structured onboarding and tracks into Technical Support, Application Engineering or QA."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1566433/cv-online-recruitment/technical-engineers",
+  "postedAt": "2026-05-26"
+}
