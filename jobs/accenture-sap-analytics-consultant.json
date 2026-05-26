@@ -1,0 +1,18 @@
+{
+  "slug": "accenture-sap-analytics-consultant",
+  "title": "SAP Analytics Consultant",
+  "company": "Accenture",
+  "companyUrl": "https://www.accenture.com/lv-en/about/company/about-latvia",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–4500",
+  "stack": ["sap", "sap-analytics"],
+  "summary": {
+    "lv": "Accenture, vadošs globāls konsultāciju, tehnoloģiju un operāciju uzņēmums ar 790,000 darbiniekiem pasaulē, meklē SAP Analytics konsultantu Rīgas birojam.",
+    "en": "Accenture — a leading global consulting, technology and operations company with 790,000 employees worldwide — is hiring a SAP Analytics Consultant for its Riga office."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1570023/accenture/sap-analytics-consultant",
+  "postedAt": "2026-05-26"
+}
