@@ -1,0 +1,18 @@
+{
+  "slug": "accenture-genai-forward-deployed-engineer",
+  "title": "GenAi Forward deployed engineer",
+  "company": "Accenture",
+  "companyUrl": "https://www.accenture.com/lv-en/about/company/about-latvia",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€2500–5500",
+  "stack": ["genai", "github-copilot", "claude", "react", "node", "javascript"],
+  "summary": {
+    "lv": "Accenture meklē GenAI forward-deployed inženieri Rīgas birojam — lomu, kas vada GenAI transformācijas projektus klientiem, ieviešot GitHub Copilot un Claude kā noklusējuma rīkus visā SDLC. Prasa 5+ gadu pieredzi web izstrādē ar React/Node/Vue/Angular un 3+ gadu pieredzi komandu vadīšanā.",
+    "en": "Accenture is hiring a GenAI Forward Deployed Engineer in Riga to drive GenAI transformation for clients, embedding GitHub Copilot and Claude as default across the SDLC. Requires 5+ years of web development experience (React/Node/Vue/Angular) plus 3+ years leading teams."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1570013/accenture/genai-forward-deployed-engineer",
+  "postedAt": "2026-05-26"
+}
