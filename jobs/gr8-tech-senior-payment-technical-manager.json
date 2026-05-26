@@ -1,0 +1,28 @@
+{
+  "slug": "gr8-tech-senior-payment-technical-manager",
+  "title": "Senior Payment Technical Manager",
+  "company": "GR8 Tech",
+  "companyUrl": "https://gr8.tech/career/",
+  "location": "Rīga",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "json",
+    "xml",
+    "rest",
+    "sql",
+    "postgresql",
+    "git",
+    "ci-cd",
+    "postman",
+    "jira",
+    "confluence"
+  ],
+  "summary": {
+    "lv": "GR8 Tech (iGaming) attālināti meklē Senior Payment Technical Manager, kas konfigurē un uztur maksājumu metodes un MID, vada produkcijas palaišanas, sniedz L3 atbalstu un veido monitoringa paneļus apmaksu plūsmām.",
+    "en": "GR8 Tech (iGaming) is hiring a remote Senior Payment Technical Manager to configure and maintain payment methods and MIDs, coordinate production launches, provide L3 support, and build observability dashboards for payment flows."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1565275/gr8-tech/senior-payment-technical-manager",
+  "postedAt": "2026-05-26"
+}
