@@ -1,0 +1,18 @@
+{
+  "slug": "accenture-conversational-ai-engineer-chatbots-voicebots-genai-agents-rag",
+  "title": "Conversational AI Engineer (Chatbots · Voicebots · GenAI Agents · RAG)",
+  "company": "Accenture",
+  "companyUrl": "https://www.accenture.com/lv-en/about/company/about-latvia",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2300–4500",
+  "stack": ["typescript", "javascript", "python", "cognigy", "dialogflow", "watson", "rag", "azure", "docker", "ci-cd", "git", "rest-api"],
+  "summary": {
+    "lv": "Sarunvalodas AI inženieris Accenture komandā — projektēt un veidot uzņēmumu līmeņa chatbotus, voicebotus, GenAI aģentus un RAG sistēmas, izmantojot platformas Cognigy.AI, Dialogflow CX, Teneo vai Watson. Obligāta pieredze Azure mākoņpakalpojumos un sarunvalodas plūsmu projektēšanā.",
+    "en": "Conversational AI engineer at Accenture designing and building enterprise-grade chatbots, voicebots, GenAI agents and RAG systems on platforms like Cognigy.AI, Dialogflow CX, Teneo or Watson. Requires hands-on Azure experience and 2+ years of conversation flow design."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1575352/accenture/conversational-ai-engineer-chatbots-voicebots-genai-agents-rag",
+  "postedAt": "2026-05-26"
+}
