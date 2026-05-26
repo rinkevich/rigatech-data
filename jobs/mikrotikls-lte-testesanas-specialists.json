@@ -1,0 +1,18 @@
+{
+  "slug": "mikrotikls-lte-testesanas-specialists",
+  "title": "LTE testēšanas speciālists/-e",
+  "company": "Mikrotīkls SIA",
+  "companyUrl": "https://mikrotik.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–3200",
+  "stack": ["lte", "5g", "routeros", "linux", "python", "ruby", "networking"],
+  "summary": {
+    "lv": "Mikrotīkls (MikroTik RouterOS un RouterBOARD ražotājs) meklē LTE testēšanas speciālistu Rīgā, kas pētīs, testēs un integrēs jaunus LTE/5G modemus RouterOS, sadarbosies ar modemu ražotāju R&D un dokumentēs testa procedūras.",
+    "en": "MikroTik (maker of RouterOS and RouterBOARD networking gear) is hiring an LTE Test Specialist in Riga to research, test and integrate new LTE/5G modems into RouterOS, collaborating with modem vendor R&D and documenting test procedures."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1584866/mikrotikls-sia/lte-testesanas-specialists-e",
+  "postedAt": "2026-05-26"
+}
