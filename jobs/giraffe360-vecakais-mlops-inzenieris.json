@@ -1,0 +1,18 @@
+{
+  "slug": "giraffe360-vecakais-mlops-inzenieris",
+  "title": "Vecākais MLOps inženieris/-e",
+  "company": "Giraffe360",
+  "companyUrl": "https://www.giraffe360.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–6000",
+  "stack": ["mlops", "machine-learning"],
+  "summary": {
+    "lv": "Giraffe360, kas izstrādā mākslīgajā intelektā balstītu kameru un saturu nekustamo īpašumu nozarei, meklē vecāko MLOps inženieri Rīgas komandai produktu ML konveijeru un infrastruktūras uzturēšanai.",
+    "en": "Giraffe360 — building an AI-powered camera and content platform for real estate — is hiring a Senior MLOps Engineer in Riga to own the ML pipelines and infrastructure behind the product."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1576591/giraffe360-sia/vecakais-mlops-inzenieris-e",
+  "postedAt": "2026-05-26"
+}
