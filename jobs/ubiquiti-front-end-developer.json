@@ -1,0 +1,18 @@
+{
+  "slug": "ubiquiti-front-end-developer",
+  "title": "Front-End Developer",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "http://careers.ui.com",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–7000",
+  "stack": ["javascript", "typescript", "nodejs", "react", "git", "jira"],
+  "summary": {
+    "lv": "Ubiquiti Rīgas R&D komanda meklē Front-End izstrādātāju ar 3+ gadu pieredzi JavaScript, TypeScript un React, lai veidotu plaši izmantotus tīmekļa pakalpojumus un UI.",
+    "en": "Ubiquiti's Riga R&D team is looking for a Front-End Developer with 3+ years of JavaScript, TypeScript and React experience to build widely-used web services and UIs."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1570568/ubiquiti-latvia-sia/front-end-developer",
+  "postedAt": "2026-05-26"
+}
