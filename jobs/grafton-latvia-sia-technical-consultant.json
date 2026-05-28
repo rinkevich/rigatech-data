@@ -1,0 +1,23 @@
+{
+  "slug": "grafton-latvia-sia-technical-consultant",
+  "title": "Technical Consultant",
+  "company": "Grafton Latvia SIA",
+  "companyUrl": "https://www.grafton.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500",
+  "stack": [
+    "sql",
+    "saas",
+    "integrations",
+    "technical-consulting"
+  ],
+  "summary": {
+    "lv": "Grafton Latvia klients (strauji augošs SaaS uzņēmums) meklē Technical Consultant, kas konfigurēs un atbalstīs SaaS risinājumu klientiem un piedalīsies ieviešanas projektos.",
+    "en": "A Grafton Latvia client (a fast-growing SaaS company) is hiring a Technical Consultant to configure and support the SaaS product for customers and contribute to implementation projects."
+  },
+  "postedAt": "2026-05-27",
+  "applyUrl": "https://cv.lv/vacancy/1586829/grafton-latvia-sia/technical-consultant"
+}
