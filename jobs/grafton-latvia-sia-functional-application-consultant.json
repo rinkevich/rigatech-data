@@ -1,0 +1,23 @@
+{
+  "slug": "grafton-latvia-sia-functional-application-consultant",
+  "title": "Functional Application Consultant",
+  "company": "Grafton Latvia SIA",
+  "companyUrl": "https://www.grafton.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2600+",
+  "stack": [
+    "application-consulting",
+    "saas",
+    "sql",
+    "business-analysis"
+  ],
+  "summary": {
+    "lv": "Grafton Latvia klients meklē funkcionālo aplikāciju konsultantu, kas konfigurēs SaaS risinājumu klientiem un atbalstīs ieviešanas projektus.",
+    "en": "A Grafton Latvia client is hiring a Functional Application Consultant to configure the SaaS product for customers and support implementation projects."
+  },
+  "postedAt": "2026-05-27",
+  "applyUrl": "https://cv.lv/vacancy/1586687/grafton-latvia-sia/functional-application-consultant"
+}
