@@ -1,0 +1,23 @@
+{
+  "slug": "attistibas-finansu-institucija-altum-programmetaja-s",
+  "title": "Programmētāja/-s",
+  "company": "Attīstības finanšu institūcija Altum",
+  "companyUrl": "https://www.altum.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2400–3000",
+  "stack": [
+    "dotnet",
+    "sql",
+    "javascript",
+    "programming"
+  ],
+  "summary": {
+    "lv": "ALTUM (Latvijas attīstības finanšu institūcija) meklē programmētāju, kas izstrādās, uzturēs un attīstīs uzņēmuma informācijas sistēmas.",
+    "en": "ALTUM (Latvia's development finance institution) is hiring a Software Developer to build, maintain and grow its information systems."
+  },
+  "postedAt": "2026-05-20",
+  "applyUrl": "https://cv.lv/vacancy/1581615/attistibas-finansu-institucija-altum-as/programmetaja-s"
+}
