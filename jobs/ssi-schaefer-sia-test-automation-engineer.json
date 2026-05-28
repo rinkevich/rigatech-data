@@ -1,0 +1,24 @@
+{
+  "slug": "ssi-schaefer-sia-test-automation-engineer",
+  "title": "Test Automation Engineer",
+  "company": "SSI Schaefer SIA",
+  "companyUrl": "https://www.ssi-schaefer.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3200–3800",
+  "stack": [
+    "qa-automation",
+    "selenium",
+    "java",
+    "python",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "SSI Schaefer meklē Test Automation inženieri, kas izstrādās un uzturēs automatizētus testus intralogistikas programmatūras risinājumiem.",
+    "en": "SSI Schaefer is hiring a Test Automation Engineer to build and maintain automated tests for its intralogistics software solutions."
+  },
+  "postedAt": "2026-05-06",
+  "applyUrl": "https://cv.lv/vacancy/1571745/ssi-schaefer-sia/test-automation-engineer"
+}
