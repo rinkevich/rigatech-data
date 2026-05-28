@@ -1,0 +1,23 @@
+{
+  "slug": "magebit-junior-it-project-manager",
+  "title": "Junior IT Project Manager",
+  "company": "Magebit",
+  "companyUrl": "https://magebit.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€850–1100",
+  "stack": [
+    "agile",
+    "scrum",
+    "magento"
+  ],
+  "summary": {
+    "lv": "Magebit meklē Junior IT projektu vadītāju, kas pārvaldīs izstrādes plānu, koordinēs komandu un sadarbosies ar klientiem eCommerce produktu attīstībā. Sagaidām brīvas latviešu un angļu valodu prasmes.",
+    "en": "Magebit is hiring a Junior IT Project Manager to own delivery planning, coordinate the dev team and represent client needs across eCommerce product projects. Fluent Latvian and English required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1584110/magebit/junior-it-project-manager",
+  "postedAt": "2026-05-25",
+  "expiresAt": "2026-06-25"
+}
