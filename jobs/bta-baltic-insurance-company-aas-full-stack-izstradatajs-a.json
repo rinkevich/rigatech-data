@@ -1,0 +1,31 @@
+{
+  "slug": "bta-baltic-insurance-company-aas-full-stack-izstradatajs-a",
+  "title": "Full-Stack izstrādātājs/-a",
+  "company": "BTA Baltic Insurance Company AAS",
+  "companyUrl": "https://www.bta.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500+",
+  "stack": [
+    "java",
+    "spring-boot",
+    "react",
+    "typescript",
+    "javascript",
+    "postgresql",
+    "aws",
+    "azure",
+    "docker",
+    "terraform",
+    "cloudformation"
+  ],
+  "summary": {
+    "lv": "BTA meklē Full-Stack izstrādātāju ar Java/Spring Boot back-end pieredzi un React/TypeScript priekšgalā, kā arī pieredzi mākoņplatformās (AWS/Azure) un DevOps praksēs (Terraform, CloudFormation).",
+    "en": "BTA is hiring a Full-Stack Developer with Java/Spring Boot on the back-end, React/TypeScript on the front-end, and cloud (AWS/Azure) + DevOps (Terraform, CloudFormation) experience."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1582976/bta-baltic-insurance-company-aas/full-stack-izstradatajs-a",
+  "postedAt": "2026-05-21",
+  "expiresAt": "2026-06-21"
+}
