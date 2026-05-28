@@ -1,0 +1,23 @@
+{
+  "slug": "zabbix-sia-test-engineer",
+  "title": "Test Engineer",
+  "company": "ZABBIX SIA",
+  "companyUrl": "https://www.zabbix.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2900–3500",
+  "stack": [
+    "qa",
+    "testing",
+    "sql",
+    "linux"
+  ],
+  "summary": {
+    "lv": "Zabbix meklē Test inženieri, kas piedalīsies Zabbix monitoringa platformas kvalitātes nodrošināšanā.",
+    "en": "Zabbix is hiring a Test Engineer to ensure the quality of the Zabbix monitoring platform."
+  },
+  "postedAt": "2026-05-18",
+  "applyUrl": "https://cv.lv/vacancy/1579093/zabbix-sia/test-engineer"
+}
