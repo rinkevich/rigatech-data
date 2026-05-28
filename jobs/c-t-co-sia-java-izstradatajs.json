@@ -1,0 +1,25 @@
+{
+  "slug": "c-t-co-sia-java-izstradatajs",
+  "title": "Java izstrādātājs",
+  "company": "C.T.Co SIA",
+  "companyUrl": "https://ctco.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–5200",
+  "stack": [
+    "java",
+    "spring",
+    "spring-boot",
+    "sql",
+    "microservices",
+    "rest"
+  ],
+  "summary": {
+    "lv": "C.T.Co meklē Java izstrādātāju, kas daudzfunkcionālā komandā palīdzēs nodrošināt starptautisko klientu projektu izpildi.",
+    "en": "C.T.Co is hiring a Java Developer to join a cross-functional team and help deliver international client projects."
+  },
+  "postedAt": "2026-04-28",
+  "applyUrl": "https://cv.lv/vacancy/1566792/c-t-co-sia/java-izstradatajs"
+}
