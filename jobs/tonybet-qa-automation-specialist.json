@@ -1,0 +1,23 @@
+{
+  "slug": "tonybet-qa-automation-specialist",
+  "title": "QA Automation Specialist",
+  "company": "Tonybet",
+  "companyUrl": "https://www.tonybet.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€4500",
+  "stack": [
+    "qa-automation",
+    "selenium",
+    "python",
+    "javascript"
+  ],
+  "summary": {
+    "lv": "Tonybet meklē QA automatizācijas speciālistu, kas izstrādās un uzturēs automatizētus testus iGaming produktiem.",
+    "en": "Tonybet is hiring a QA Automation Specialist to build and maintain automated tests for its iGaming products."
+  },
+  "postedAt": "2026-05-13",
+  "applyUrl": "https://cv.lv/vacancy/1576488/tonybet/qa-automatizacijas-specialists-qa-automation-specialist-playwright-typescript"
+}
