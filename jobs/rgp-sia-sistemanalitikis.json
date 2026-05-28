@@ -1,0 +1,23 @@
+{
+  "slug": "rgp-sia-sistemanalitikis",
+  "title": "Sistēmanalītiķis",
+  "company": "RGP SIA",
+  "companyUrl": "https://www.rgp.lv/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€2800+",
+  "stack": [
+    "sql",
+    "business-analysis",
+    "system-analysis",
+    "requirements"
+  ],
+  "summary": {
+    "lv": "RGP meklē pieredzējušu biznesa/sistēmanalītiķi, kas pārvērtīs biznesa vajadzības skaidrās prasībās digitālo produktu attīstībai.",
+    "en": "RGP is hiring an experienced Business/Systems Analyst to translate business needs into clear requirements for digital product development."
+  },
+  "postedAt": "2026-05-05",
+  "applyUrl": "https://cv.lv/vacancy/1570350/rgp-sia/sistemanalitikis"
+}
