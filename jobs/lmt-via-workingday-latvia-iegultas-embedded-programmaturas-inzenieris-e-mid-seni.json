@@ -1,0 +1,24 @@
+{
+  "slug": "lmt-via-workingday-latvia-iegultas-embedded-programmaturas-inzenieris-e-mid-seni",
+  "title": "Iegultās (Embedded) programmatūras inženieris/-e Mid/Senior (LMT)",
+  "company": "LMT (via WorkingDay Latvia)",
+  "companyUrl": "https://www.lmt.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3300–4000",
+  "stack": [
+    "c",
+    "c++",
+    "embedded",
+    "linux",
+    "rtos"
+  ],
+  "summary": {
+    "lv": "LMT (caur WorkingDay Latvia) meklē iegulto programmatūras inženieri ar pieredzi C/C++ un embedded Linux/RTOS sistēmās.",
+    "en": "LMT (via WorkingDay Latvia) is hiring an Embedded Software Engineer with C/C++ and embedded Linux/RTOS experience."
+  },
+  "postedAt": "2026-05-07",
+  "applyUrl": "https://cv.lv/vacancy/1572154/workingday-latvia/iegultas-embedded-programmaturas-inzenieris-e-mid-senior"
+}
