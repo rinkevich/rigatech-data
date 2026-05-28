@@ -1,0 +1,26 @@
+{
+  "slug": "viapro-sia-full-stack-programmetajs-react-net-node-mssql",
+  "title": "Full-Stack programmētājs (REACT & .NET / NODE & MSSQL)",
+  "company": "viaPro SIA",
+  "companyUrl": "https://viapro.lv/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000+",
+  "stack": [
+    "react",
+    "dotnet",
+    "nodejs",
+    "mssql",
+    "epicor",
+    "erp"
+  ],
+  "summary": {
+    "lv": "viaPro (Epicor partneris, ERP risinājumi) meklē Full-Stack programmētāju darbam ar React priekšgalā un .NET vai Node + MSSQL aizmugursistēmā, izstrādājot biznesa vadības sistēmu un saistītos risinājumus procesu optimizācijai un integrācijai.",
+    "en": "viaPro, an Epicor partner specialising in ERP, is hiring a Full-Stack Developer to build the front-end in React and the back-end in .NET or Node + MSSQL for its business management platform and adjacent process-optimisation and integration solutions."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1573736/viapro-sia/full-stack-programmetajs-react-net-node-mssql",
+  "postedAt": "2026-05-08",
+  "expiresAt": "2026-06-08"
+}
