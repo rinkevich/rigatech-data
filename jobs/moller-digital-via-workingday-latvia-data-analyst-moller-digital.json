@@ -1,0 +1,23 @@
+{
+  "slug": "moller-digital-via-workingday-latvia-data-analyst-moller-digital",
+  "title": "Data Analyst (Moller Digital)",
+  "company": "Moller Digital (via WorkingDay Latvia)",
+  "companyUrl": "https://www.workingday.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–4500",
+  "stack": [
+    "sql",
+    "power-bi",
+    "python",
+    "data-analysis"
+  ],
+  "summary": {
+    "lv": "Moller Digital (caur WorkingDay Latvia) meklē datu analītiķi, kas izstrādās un uzturēs analītikas atskaites un paneļus.",
+    "en": "Moller Digital (via WorkingDay Latvia) is hiring a Data Analyst to build and maintain analytical reports and dashboards."
+  },
+  "postedAt": "2026-05-12",
+  "applyUrl": "https://cv.lv/vacancy/1575859/workingday-latvia/data-analyst-datu-analitikis-e"
+}
