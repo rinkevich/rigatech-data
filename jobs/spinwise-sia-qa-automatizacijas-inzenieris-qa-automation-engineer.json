@@ -1,0 +1,27 @@
+{
+  "slug": "spinwise-sia-qa-automatizacijas-inzenieris-qa-automation-engineer",
+  "title": "QA automatizācijas inženieris / QA Automation Engineer",
+  "company": "Spinwise SIA",
+  "companyUrl": "https://spinwise.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000+",
+  "stack": [
+    "playwright",
+    "appium",
+    "typescript",
+    "javascript",
+    "ios",
+    "android",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "Spinwise meklē QA automatizācijas inženieri ar 3+ gadu pieredzi, kas izstrādās automatizētus testus tīmekļa (Playwright), mobilo lietotņu (Appium) un API servisiem iGaming platformā.",
+    "en": "Spinwise is hiring a QA Automation Engineer with 3+ years of experience to build automated tests for web (Playwright), mobile (Appium) and API services on its iGaming platform."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1582036/suppline-sia/qa-automatizacijas-inzenieris-qa-automation-engineer",
+  "postedAt": "2026-05-20",
+  "expiresAt": "2026-06-20"
+}
