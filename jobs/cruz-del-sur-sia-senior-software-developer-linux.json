@@ -1,0 +1,25 @@
+{
+  "slug": "cruz-del-sur-sia-senior-software-developer-linux",
+  "title": "Senior Software Developer (Linux)",
+  "company": "Cruz del Sur SIA",
+  "companyUrl": "https://cruzdelsur.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–5000",
+  "stack": [
+    "c",
+    "c++",
+    "python",
+    "linux",
+    "embedded",
+    "networking"
+  ],
+  "summary": {
+    "lv": "Cruz del Sur (konsultāciju uzņēmums starptautiskam telekomunikāciju klientam) meklē Senior programmatūras izstrādātāju Linux vidē, kas piedalīsies metro un transporta tīkla iekārtu programmatūras izstrādē.",
+    "en": "Cruz del Sur (a consulting firm serving an international telecom client) is hiring a Senior Software Developer (Linux) to work on software for metro and transport network equipment."
+  },
+  "postedAt": "2026-05-05",
+  "applyUrl": "https://cv.lv/vacancy/1569915/cruz-del-sur-sia/senior-software-developer"
+}
