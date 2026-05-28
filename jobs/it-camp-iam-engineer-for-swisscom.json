@@ -1,0 +1,26 @@
+{
+  "slug": "it-camp-iam-engineer-for-swisscom",
+  "title": "IAM Engineer (for Swisscom)",
+  "company": "IT Camp",
+  "companyUrl": "https://www.itcamp.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–6500",
+  "stack": [
+    "iam",
+    "sailpoint",
+    "saviynt",
+    "active-directory",
+    "azure-ad",
+    "ldap",
+    "scim"
+  ],
+  "summary": {
+    "lv": "IT Camp partneris Swisscom meklē IAM inženieri, kas izstrādās un ieviesīs identitātes un piekļuves pārvaldības risinājumus telekomunikāciju vidē.",
+    "en": "IT Camp's partner Swisscom is hiring an IAM Engineer to design and deploy identity and access management solutions in a telecom environment."
+  },
+  "postedAt": "2026-05-13",
+  "applyUrl": "https://cv.lv/vacancy/1576384/it-camp/iam-engineer-for-swisscom"
+}
