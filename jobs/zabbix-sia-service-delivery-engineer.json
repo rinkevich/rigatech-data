@@ -1,0 +1,24 @@
+{
+  "slug": "zabbix-sia-service-delivery-engineer",
+  "title": "Service Delivery Engineer",
+  "company": "ZABBIX SIA",
+  "companyUrl": "https://www.zabbix.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–5000",
+  "stack": [
+    "zabbix",
+    "linux",
+    "monitoring",
+    "sql",
+    "networking"
+  ],
+  "summary": {
+    "lv": "Zabbix meklē Service Delivery inženieri, kas sniegs tehnisko atbalstu klientiem visā pasaulē, ieviesīs un konfigurēs Zabbix monitoringa risinājumus, kā arī gatavos tehnisko dokumentāciju.",
+    "en": "Zabbix is hiring a Service Delivery Engineer to provide technical support to international customers, implement and configure Zabbix monitoring deployments, and produce technical documentation."
+  },
+  "postedAt": "2026-05-27",
+  "applyUrl": "https://cv.lv/vacancy/1586544/zabbix-sia/service-delivery-engineer"
+}
