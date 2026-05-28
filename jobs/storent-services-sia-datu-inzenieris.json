@@ -1,0 +1,26 @@
+{
+  "slug": "storent-services-sia-datu-inzenieris",
+  "title": "Datu inženieris",
+  "company": "Storent Services SIA",
+  "companyUrl": "https://www.storent.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3200–4200",
+  "stack": [
+    "sql",
+    "etl",
+    "azure",
+    "azure-sql",
+    "data-factory",
+    "api"
+  ],
+  "summary": {
+    "lv": "Storent meklē datu inženieri iRMS platformas attīstībai, kas izstrādās un uzturēs datu migrācijas risinājumus (no dažādām sistēmām uz iRMS), datu transformācijas (ETL) un sistēmu integrācijas (API, datu apmaiņa).",
+    "en": "Storent is hiring a Data Engineer for its iRMS platform to design and operate data migration solutions (from various systems into iRMS), ETL transformations, and system integrations (API, data exchange)."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1582905/storent-sia/datu-inzenieris",
+  "postedAt": "2026-05-21",
+  "expiresAt": "2026-06-21"
+}
