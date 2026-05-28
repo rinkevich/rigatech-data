@@ -1,0 +1,25 @@
+{
+  "slug": "as-mapon-senior-full-stack-developer-php-react-tachogram",
+  "title": "Senior Full-Stack Developer (PHP & React) | Tachogram",
+  "company": "AS Mapon",
+  "companyUrl": "https://www.mapon.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–6000",
+  "stack": [
+    "php",
+    "react",
+    "mysql",
+    "javascript",
+    "typescript"
+  ],
+  "summary": {
+    "lv": "Mapon (Tachogram produkts, telematikas SaaS) meklē Senior Full-Stack izstrādātāju ar PHP un React prasmēm, kas piedalīsies B2B autoparku pārvaldības platformas izstrādē.",
+    "en": "Mapon (Tachogram product, a telematics SaaS) is hiring a Senior Full-Stack Developer skilled in PHP and React to build features for its B2B fleet management platform."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1573325/as-mapon/senior-full-stack-developer-php-react-tachogram",
+  "postedAt": "2026-05-08",
+  "expiresAt": "2026-06-08"
+}
