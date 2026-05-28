@@ -1,0 +1,23 @@
+{
+  "slug": "arvato-systems-latvia-sia-soc-analyst",
+  "title": "SOC Analyst",
+  "company": "Arvato Systems Latvia SIA",
+  "companyUrl": "https://www.arvato-systems.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–3700",
+  "stack": [
+    "soc",
+    "siem",
+    "cybersecurity",
+    "incident-response"
+  ],
+  "summary": {
+    "lv": "Arvato Systems meklē SOC analītiķi, kas veiks reālā laika drošības monitoringu, atklās un reaģēs uz drošības notikumiem un incidentiem.",
+    "en": "Arvato Systems is hiring a SOC Analyst to perform real-time proactive security monitoring, detection and response to security events and incidents."
+  },
+  "postedAt": "2026-04-29",
+  "applyUrl": "https://cv.lv/vacancy/1567080/arvato-systems-latvia-sia/soc-analyst"
+}
