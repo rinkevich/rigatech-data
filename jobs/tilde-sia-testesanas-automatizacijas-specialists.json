@@ -1,0 +1,24 @@
+{
+  "slug": "tilde-sia-testesanas-automatizacijas-specialists",
+  "title": "Testēšanas automatizācijas speciālists",
+  "company": "Tilde, SIA",
+  "companyUrl": "https://tilde.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–3000",
+  "stack": [
+    "c-sharp",
+    "dotnet",
+    "playwright",
+    "git",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "Tilde meklē testēšanas automatizācijas speciālistu, kas testēs produktus pēc testa scenārijiem, izveidos un uzturēs automatizētus testus, izmantojot izvēlētos testēšanas ietvarus.",
+    "en": "Tilde is hiring a Test Automation Specialist to run scripted tests, build and maintain automated tests using its chosen testing frameworks."
+  },
+  "postedAt": "2026-05-06",
+  "applyUrl": "https://cv.lv/vacancy/1571284/tilde-sia/testesanas-automatizacijas-specialists"
+}
