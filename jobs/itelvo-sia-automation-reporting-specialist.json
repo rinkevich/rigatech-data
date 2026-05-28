@@ -1,0 +1,24 @@
+{
+  "slug": "itelvo-sia-automation-reporting-specialist",
+  "title": "Automation & Reporting Specialist",
+  "company": "ITELVO SIA",
+  "companyUrl": "https://itelvo.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–4000",
+  "stack": [
+    "sql",
+    "power-bi",
+    "python",
+    "automation",
+    "reporting"
+  ],
+  "summary": {
+    "lv": "ITELVO (klientu atbalsta uzņēmums) meklē Automation & Reporting speciālistu, kas izstrādās atskaišu automatizāciju un datu pārskatus klientu atbalsta procesiem.",
+    "en": "ITELVO (a customer support company) is hiring an Automation & Reporting Specialist to build reporting automation and analytical dashboards for support operations."
+  },
+  "postedAt": "2026-05-06",
+  "applyUrl": "https://cv.lv/vacancy/1571469/itelvo-sia/automation-un-reporting-specialist"
+}
