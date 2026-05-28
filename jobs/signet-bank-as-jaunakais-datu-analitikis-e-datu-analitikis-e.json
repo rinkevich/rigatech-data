@@ -1,0 +1,26 @@
+{
+  "slug": "signet-bank-as-jaunakais-datu-analitikis-e-datu-analitikis-e",
+  "title": "Jaunākais datu analītiķis/-e / Datu analītiķis/-e",
+  "company": "Signet Bank AS",
+  "companyUrl": "https://signetbank.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€2200–2800",
+  "stack": [
+    "sql",
+    "oracle",
+    "excel",
+    "vba",
+    "aml",
+    "data-analysis"
+  ],
+  "summary": {
+    "lv": "Signet Bank meklē jaunāko datu analītiķi, kas uzturēs datu avotus AML/sankciju risku pārvaldības atskaitēm, identificēs nepilnības datos un sagatavos atskaites bankas risku novērtējumiem.",
+    "en": "Signet Bank is hiring a Junior Data Analyst to maintain data sources for AML/sanctions risk management reports, surface data gaps, and produce inputs for the bank's risk assessments."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1582640/signet-bank-as/jaunakais-datu-analitikis-e-datu-analitikis-e",
+  "postedAt": "2026-05-21",
+  "expiresAt": "2026-06-21"
+}
