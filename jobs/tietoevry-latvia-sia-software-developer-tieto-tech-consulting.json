@@ -1,0 +1,26 @@
+{
+  "slug": "tietoevry-latvia-sia-software-developer-tieto-tech-consulting",
+  "title": "Software Developer, Tieto Tech Consulting",
+  "company": "Tietoevry Latvia SIA",
+  "companyUrl": "https://www.tietoevry.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–3500",
+  "stack": [
+    "sql",
+    "dbt",
+    "aecorsoft",
+    "ms-ssis",
+    "pentaho",
+    "etl",
+    "data-engineering"
+  ],
+  "summary": {
+    "lv": "Tietoevry Tech Consulting meklē programmatūras izstrādātāju ar pieredzi datu iegūšanas un transformācijas rīkos (dbt, AecorSoft, MS SSIS, Pentaho DI) un SQL.",
+    "en": "Tietoevry Tech Consulting is hiring a Software Developer with experience in data extraction and transformation tools (dbt, AecorSoft, MS SSIS, Pentaho DI) and SQL."
+  },
+  "postedAt": "2026-05-27",
+  "applyUrl": "https://cv.lv/vacancy/1586445/tietoevry-latvia-sia/software-developer-tieto-tech-consulting"
+}
