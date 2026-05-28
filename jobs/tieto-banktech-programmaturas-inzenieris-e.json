@@ -1,0 +1,28 @@
+{
+  "slug": "tieto-banktech-programmaturas-inzenieris-e",
+  "title": "Programmatūras inženieris/-e",
+  "company": "Tieto Banktech",
+  "companyUrl": "https://www.tietoevry.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–4500",
+  "stack": [
+    "java",
+    "spring",
+    "spring-boot",
+    "kubernetes",
+    "aws",
+    "rest",
+    "openapi",
+    "agile",
+    "devops"
+  ],
+  "summary": {
+    "lv": "Tieto Banktech meklē programmatūras inženieri, kas izstrādās biznesa kritiskus pakalpojumus finanšu noziegumu novēršanai (Fraud Prevention) un piedalīsies DevOps kultūrā ar atbildību par izstrādāto risinājumu darbību.",
+    "en": "Tieto Banktech is hiring a Software Engineer to build business-critical services in the Fraud Prevention domain and participate in a DevOps culture with ownership of what they build."
+  },
+  "postedAt": "2026-05-20",
+  "applyUrl": "https://cv.lv/vacancy/1581744/tieto-banktech/programmaturas-inzenieris-e"
+}
