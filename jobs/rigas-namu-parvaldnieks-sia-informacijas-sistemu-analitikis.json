@@ -1,0 +1,24 @@
+{
+  "slug": "rigas-namu-parvaldnieks-sia-informacijas-sistemu-analitikis",
+  "title": "Informācijas sistēmu analītiķis",
+  "company": "Rīgas namu pārvaldnieks SIA",
+  "companyUrl": "https://www.rnparvaldnieks.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500",
+  "stack": [
+    "sql",
+    "power-query",
+    "system-analysis",
+    "business-analysis"
+  ],
+  "summary": {
+    "lv": "Rīgas namu pārvaldnieks meklē informācijas sistēmu analītiķi Tehnoloģiju un inovāciju pārvaldes digitālās transformācijas nodaļā, kas izstrādās prasību un tehniskās specifikācijas, atbalstīs izstrādātājus un testētājus un piedalīsies informācijas sistēmu ieviešanas projektos.",
+    "en": "Rīgas namu pārvaldnieks is hiring a Systems Analyst in the Technology & Innovation Management Digital Transformation department to author requirements and technical specs, support devs and testers, and contribute to information system rollouts."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1568313/rigas-namu-parvaldnieks-sia/informacijas-sistemu-analitikis",
+  "postedAt": "2026-04-30",
+  "expiresAt": "2026-05-30"
+}
