@@ -1,0 +1,25 @@
+{
+  "slug": "accenture-salesforce-marketing-cloud-developer",
+  "title": "Salesforce Marketing Cloud Developer",
+  "company": "Accenture",
+  "companyUrl": "https://www.accenture.com/lv-en/about/company/about-latvia",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–4500",
+  "stack": [
+    "salesforce",
+    "marketing-cloud",
+    "ampscript",
+    "sql",
+    "javascript"
+  ],
+  "summary": {
+    "lv": "Accenture meklē Salesforce Marketing Cloud izstrādātāju, kas projektēs un realizēs daudzkanālu klientu ceļojumus un kampaņas globālam ES projektam ar ilgtermiņa klientu.",
+    "en": "Accenture is hiring a Salesforce Marketing Cloud Developer to design and ship multi-channel customer journeys and campaigns for a global EU project with a long-term client."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1572439/accenture/salesforce-marketing-cloud-developer",
+  "postedAt": "2026-05-07",
+  "expiresAt": "2026-06-07"
+}
