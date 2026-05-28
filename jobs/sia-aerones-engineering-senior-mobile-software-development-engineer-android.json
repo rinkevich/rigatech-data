@@ -10,8 +10,9 @@
   "salaryRange": "€3000–5500",
   "stack": [
     "android",
+    "java",
     "kotlin",
-    "java"
+    "mobile"
   ],
   "summary": {
     "lv": "Aerones — vēja turbīnu robotizētās apkopes uzņēmums — meklē pieredzējušu Android izstrādātāju, kas piedalīsies robotikas vadības mobilo lietojumprogrammu izstrādē. Sagaidām pamatīgu Android/Kotlin pieredzi un patstāvīgu darba stilu.",
