@@ -1,0 +1,24 @@
+{
+  "slug": "tet-sia-datu-zinatnieks-ce",
+  "title": "Datu zinātnieks/-ce",
+  "company": "Tet SIA",
+  "companyUrl": "https://www.tet.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€1800–2500",
+  "stack": [
+    "python",
+    "sql",
+    "machine-learning",
+    "ai",
+    "llm"
+  ],
+  "summary": {
+    "lv": "Tet Mākslīgā intelekta attīstības daļa meklē datu zinātnieku, kas izstrādās datu zinātnes, mašīnmācīšanās un AI risinājumus Tet grupas biznesa vajadzībām.",
+    "en": "Tet's AI Development unit is hiring a Data Scientist to build data-science, machine-learning and AI solutions for Tet group's business needs."
+  },
+  "postedAt": "2026-04-29",
+  "applyUrl": "https://cv.lv/vacancy/1567677/tet-sia/datu-zinatnieks-ce"
+}
