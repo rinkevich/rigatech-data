@@ -1,0 +1,27 @@
+{
+  "slug": "scandi-commerce-accelerator-europe-sia-vecakais-datu-arhitekts",
+  "title": "Vecākais datu arhitekts",
+  "company": "Scandi Commerce Accelerator Europe SIA",
+  "companyUrl": "https://scandiweb.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4440–5040",
+  "stack": [
+    "data-architecture",
+    "sql",
+    "python",
+    "aws",
+    "airflow",
+    "ml",
+    "etl"
+  ],
+  "summary": {
+    "lv": "Scandi Commerce meklē pieredzējušu datu arhitektu, kas izstrādās visaptverošas datu platformas augstākā līmeņa daudzkanālu mazumtirdzniecības klientiem, izveidos MI lietojumam gatavas vides un piedalīsies piegādes procesos.",
+    "en": "Scandi Commerce is hiring a Senior Data Architect to design end-to-end data platforms for enterprise omnichannel retail clients, build AI-ready environments and contribute hands-on to delivery."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1583732/scandi-commerce-accelerator-europe-sia/vecakais-datu-arhitekts",
+  "postedAt": "2026-05-22",
+  "expiresAt": "2026-06-22"
+}
