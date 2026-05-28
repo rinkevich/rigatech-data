@@ -1,0 +1,25 @@
+{
+  "slug": "ubiquiti-latvia-sia-full-stack-developer",
+  "title": "Full-Stack Developer",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "https://www.ui.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–8000",
+  "stack": [
+    "javascript",
+    "typescript",
+    "react",
+    "nodejs",
+    "python",
+    "postgresql"
+  ],
+  "summary": {
+    "lv": "Ubiquiti meklē Full-Stack izstrādātāju ar 3+ gadu pieredzi, kas izstrādās modernas lietotāja saskarnes un atbalstošos backend pakalpojumus tīkla iekārtu pārvaldības produktiem.",
+    "en": "Ubiquiti is hiring a Full-Stack Developer with 3+ years of experience to build rich UIs and supporting backend services for its networking-equipment management products."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1568463/ubiquiti-latvia-sia/full-stack-developer",
+  "postedAt": "2026-04-30"
+}
