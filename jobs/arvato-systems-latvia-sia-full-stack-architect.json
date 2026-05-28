@@ -1,0 +1,25 @@
+{
+  "slug": "arvato-systems-latvia-sia-full-stack-architect",
+  "title": "Full-Stack Architect",
+  "company": "Arvato Systems Latvia SIA",
+  "companyUrl": "https://www.arvato-systems.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4800–6000",
+  "stack": [
+    "typo3",
+    "symfony",
+    "php",
+    "javascript",
+    "mysql",
+    "docker"
+  ],
+  "summary": {
+    "lv": "Arvato Systems meklē Full-Stack arhitektu, kas sniegs tehnisku vadību izstrādes komandām, definēs tīmekļa lietojumu un vietņu arhitektūru, kā arī sadarbosies ar projektu vadītājiem un klientiem prasību analīzē. Galvenās tehnoloģijas: TYPO3 un Symfony.",
+    "en": "Arvato Systems is hiring a Full-Stack Architect to provide technical leadership, define web application and website architecture, and partner with project managers and clients on requirements. Core stack: TYPO3 and Symfony."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1565159/arvato-systems-latvia-sia/full-stack-architect",
+  "postedAt": "2026-04-27"
+}
