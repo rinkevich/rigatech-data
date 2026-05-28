@@ -1,0 +1,24 @@
+{
+  "slug": "ubiquiti-inc-via-workingday-latvia-back-end-developer-ubiquiti",
+  "title": "Back-End Developer (Ubiquiti)",
+  "company": "Ubiquiti Inc. (via WorkingDay Latvia)",
+  "companyUrl": "https://www.ui.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–7000",
+  "stack": [
+    "nodejs",
+    "go",
+    "python",
+    "postgresql",
+    "aws"
+  ],
+  "summary": {
+    "lv": "Ubiquiti (caur WorkingDay Latvia) meklē Back-End izstrādātāju tīkla iekārtu pārvaldības produktu attīstībai.",
+    "en": "Ubiquiti (via WorkingDay Latvia) is hiring a Back-End Developer to grow its networking equipment management products."
+  },
+  "postedAt": "2026-05-08",
+  "applyUrl": "https://cv.lv/vacancy/1573774/workingday-latvia/back-end-developer-back-end-izstradatajs-a"
+}
