@@ -1,0 +1,26 @@
+{
+  "slug": "dati-group-sia-integration-developer",
+  "title": "Integration Developer",
+  "company": "DATI Group SIA",
+  "companyUrl": "https://datigroup.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–4000",
+  "stack": [
+    "python",
+    "typescript",
+    "llm",
+    "ai-agents",
+    "jenkins",
+    "openstack",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "DATI Group meklē Integration Developer, kas izstrādās LLM integrācijas ar reasoning un planning spējām, ieviesīs novērtēšanas un drošības kontroles, kā arī sadarbosies ar biznesa komandām, lai pārvērstu lietojuma gadījumus produktā.",
+    "en": "DATI Group is hiring an Integration Developer to build LLM integrations with reasoning and planning, implement evaluation, tracing and safety controls, and partner with business teams to take use cases from idea to production."
+  },
+  "postedAt": "2026-05-28",
+  "applyUrl": "https://cv.lv/vacancy/1584761/dati-group-sia/integration-developer"
+}
