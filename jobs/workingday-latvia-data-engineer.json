@@ -1,0 +1,24 @@
+{
+  "slug": "workingday-latvia-data-engineer",
+  "title": "Data Engineer",
+  "company": "WorkingDay Latvia",
+  "companyUrl": "https://www.workingday.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–5000",
+  "stack": [
+    "sql",
+    "python",
+    "etl",
+    "cloud",
+    "data-engineering"
+  ],
+  "summary": {
+    "lv": "WorkingDay Latvia klients meklē Data Engineer, kas projektēs un uzturēs datu plūsmas un platformu.",
+    "en": "A WorkingDay Latvia client is hiring a Data Engineer to design and maintain data pipelines and the underlying platform."
+  },
+  "postedAt": "2026-05-21",
+  "applyUrl": "https://cv.lv/vacancy/1582711/workingday-latvia/data-engineer-datu-inzenieris-e"
+}
