@@ -1,0 +1,25 @@
+{
+  "slug": "accenture-sap-insurance-functional-consultant",
+  "title": "SAP Insurance Functional Consultant",
+  "company": "Accenture",
+  "companyUrl": "https://www.accenture.com/lv-en/about/company/about-latvia",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–4500",
+  "stack": [
+    "sap",
+    "sap-fs-cd",
+    "sap-fs-pm",
+    "sap-fs-cm",
+    "sap-fs-rm"
+  ],
+  "summary": {
+    "lv": "Accenture meklē SAP funkcionālo konsultantu apdrošināšanas nozarei, kas projektēs un atbalstīs SAP risinājumus polišu pārvaldībā, prasību apstrādē, atlīdzību pārvaldībā un pārapdrošināšanā. Vajadzīga projektu ieviešanas pieredze SAP vidē.",
+    "en": "Accenture is hiring a SAP Functional Consultant for the insurance domain to design, configure and support SAP processes across Policy Management, Claims, Collections & Disbursements, and Reinsurance. Project-implementation expertise in SAP required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1578969/accenture/sap-insurance-functional-consultant",
+  "postedAt": "2026-05-18",
+  "expiresAt": "2026-06-18"
+}
