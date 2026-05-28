@@ -1,0 +1,29 @@
+{
+  "slug": "b2-impact-sia-vecakais-datu-un-analitikas-inzenieris",
+  "title": "Vecākais datu un analītikas inženieris",
+  "company": "B2 Impact SIA",
+  "companyUrl": "https://www.b2-impact.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3000–5000",
+  "stack": [
+    "sql",
+    "python",
+    "airflow",
+    "azure",
+    "aws",
+    "gcp",
+    "power-bi",
+    "tableau",
+    "etl"
+  ],
+  "summary": {
+    "lv": "B2 Impact meklē vecāko datu un analītikas inženieri, kas izstrādās un uzturēs mērogojamas datu sistēmas, ETL plūsmas un BI risinājumus, kā arī sniegs ieskatu biznesa lēmumu pieņemšanai. Vajadzīga pieredze ar SQL, Python un mākoņplatformām (Azure/AWS/GCP).",
+    "en": "B2 Impact is hiring a Senior Data & Analytics Engineer to design and maintain scalable data systems, ETL pipelines and BI solutions, and surface insights for business decisions. Requires experience with SQL, Python and a major cloud platform (Azure/AWS/GCP)."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1582575/b2-impact-sia/vecakais-datu-un-analitikas-inzenieris",
+  "postedAt": "2026-05-22",
+  "expiresAt": "2026-06-22"
+}
