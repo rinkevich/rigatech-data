@@ -1,0 +1,25 @@
+{
+  "slug": "redwire-defense-tech-riga-network-engineer",
+  "title": "Network Engineer",
+  "company": "Redwire Defense Tech Riga",
+  "companyUrl": "https://redwirespace.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–3500",
+  "stack": [
+    "networking",
+    "routing",
+    "switching",
+    "firewall",
+    "cloud"
+  ],
+  "summary": {
+    "lv": "Redwire Defense Tech Riga (kosmosa un aizsardzības tehnoloģiju uzņēmums) meklē tīkla inženieri, kas plānos, ieviesīs un administrēs tīkla infrastruktūru, pārvaldīs maršrutēšanu, switching un ugunsmūrus, kā arī nodrošinās tīkla drošību un L3 problēmu diagnostiku.",
+    "en": "Redwire Defense Tech Riga (a space & defense tech company) is hiring a Network Engineer to plan, deploy and operate network infrastructure, manage routing, switching and firewalls, and own L3 troubleshooting and network security."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1578506/redwire-defense-tech-riga/network-engineer",
+  "postedAt": "2026-05-15",
+  "expiresAt": "2026-06-15"
+}
