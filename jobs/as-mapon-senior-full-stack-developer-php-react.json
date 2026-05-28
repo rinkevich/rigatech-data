@@ -9,10 +9,10 @@
   "seniority": "senior",
   "salaryRange": "€3500–6000",
   "stack": [
+    "javascript",
+    "mysql",
     "php",
     "react",
-    "mysql",
-    "javascript",
     "typescript"
   ],
   "summary": {
