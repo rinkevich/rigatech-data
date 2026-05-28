@@ -1,0 +1,23 @@
+{
+  "slug": "jet-finance-llp-bi-analitikis",
+  "title": "BI analītiķis",
+  "company": "Jet Finance LLP",
+  "companyUrl": "https://jetfinance.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–3000",
+  "stack": [
+    "power-bi",
+    "sql",
+    "etl",
+    "data-engineering"
+  ],
+  "summary": {
+    "lv": "Jet Finance (fintech) meklē BI analītiķi, kas izstrādās un uzturēs Power BI atskaites un paneļus, kā arī sadarbosies ar Data Engineering komandu ETL procesu un datu pārvaldībā.",
+    "en": "Jet Finance, a fintech, is hiring a BI Analyst to build and maintain Power BI reports and dashboards, and partner with Data Engineering on ETL processes and data management."
+  },
+  "postedAt": "2026-05-20",
+  "applyUrl": "https://cv.lv/vacancy/1581462/jet-finance-llp-fintech/bi-analitikis"
+}
