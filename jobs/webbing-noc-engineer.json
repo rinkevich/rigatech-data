@@ -1,0 +1,24 @@
+{
+  "slug": "webbing-noc-engineer",
+  "title": "NOC Engineer",
+  "company": "Webbing",
+  "companyUrl": "https://webbing.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€1900–2100",
+  "stack": [
+    "networking",
+    "noc",
+    "linux",
+    "monitoring",
+    "telecommunications"
+  ],
+  "summary": {
+    "lv": "Webbing meklē NOC inženieri, kas apstrādās, atrisinās un eskalēs klientu un tīkla saistītus incidentus globāla telekomunikāciju pakalpojumu sniedzēja vidē.",
+    "en": "Webbing is hiring a NOC Engineer to handle, troubleshoot and escalate customer and network incidents in a global telecom-services environment."
+  },
+  "postedAt": "2026-04-29",
+  "applyUrl": "https://cv.lv/vacancy/1567320/webbing/noc-engineer"
+}
