@@ -1,0 +1,23 @@
+{
+  "slug": "rigas-digitala-agentura-jaunakais-drosibas-administrators",
+  "title": "Jaunākais drošības administrators",
+  "company": "Rīgas Digitālā Aģentūra",
+  "companyUrl": "https://rda.riga.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€1600–2000",
+  "stack": [
+    "dlp",
+    "data-security",
+    "cybersecurity"
+  ],
+  "summary": {
+    "lv": "Rīgas Digitālā Aģentūra meklē jaunāko drošības administratoru, kas pārvaldīs datu noplūdes novēršanas procesus un risinājumus, veiks datu klasifikāciju un analizēs ar datu drošību saistītus riskus.",
+    "en": "Riga Digital Agency is hiring a Junior Security Administrator to run data leak prevention processes and tooling, perform data classification and analyse data-security risks."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1583468/rigas-valstspilsetas-pasvaldibas-agentura-rigas-digitala-agentura/jaunakais-drosibas-administrators",
+  "postedAt": "2026-05-22",
+  "expiresAt": "2026-06-12"
+}
