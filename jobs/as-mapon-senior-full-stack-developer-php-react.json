@@ -1,0 +1,25 @@
+{
+  "slug": "as-mapon-senior-full-stack-developer-php-react",
+  "title": "Senior Full-Stack Developer (PHP & React)",
+  "company": "AS Mapon",
+  "companyUrl": "https://www.mapon.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–6000",
+  "stack": [
+    "php",
+    "react",
+    "mysql",
+    "javascript",
+    "typescript"
+  ],
+  "summary": {
+    "lv": "Mapon meklē Senior Full-Stack izstrādātāju ar PHP un React prasmēm, kas piedalīsies autoparku pārvaldības un telematikas platformas attīstībā Eiropas tirgum.",
+    "en": "Mapon is hiring a Senior Full-Stack Developer skilled in PHP and React to grow its B2B fleet management and telematics platform across the European market."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1573319/as-mapon/senior-full-stack-developer-php-react",
+  "postedAt": "2026-05-08",
+  "expiresAt": "2026-06-08"
+}
