@@ -1,0 +1,26 @@
+{
+  "slug": "storent-services-sia-datu-analitikis",
+  "title": "Datu analītiķis",
+  "company": "Storent Services SIA",
+  "companyUrl": "https://www.storent.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–3500",
+  "stack": [
+    "sql",
+    "excel",
+    "power-bi",
+    "qlikview",
+    "erp",
+    "data-analysis"
+  ],
+  "summary": {
+    "lv": "Storent Europe meklē datu analītiķi ar 3+ gadu pieredzi datu/finanšu analīzē, kas apkopos datus no ERP un MS Dynamics 365 sistēmām, sagatavos KPI atskaites un palīdzēs biznesa lēmumu pieņemšanā.",
+    "en": "Storent Europe is hiring a Data Analyst with 3+ years of data/finance analytics experience to consolidate data from ERP and MS Dynamics 365, build KPI reports and support business decision-making."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1582907/storent-sia/datu-analitikis",
+  "postedAt": "2026-05-21",
+  "expiresAt": "2026-06-21"
+}
