@@ -1,0 +1,24 @@
+{
+  "slug": "atea-global-services-software-developer",
+  "title": "Software Developer",
+  "company": "Atea Global Services",
+  "companyUrl": "https://www.atea.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–4500",
+  "stack": [
+    "dotnet",
+    "c-sharp",
+    "sql",
+    "javascript",
+    "azure"
+  ],
+  "summary": {
+    "lv": "Atea Global Services meklē programmatūras izstrādātāju Rīgas birojā ar hibrīda darba iespēju pēc pārbaudes laika.",
+    "en": "Atea Global Services is hiring a Software Developer at its Riga office, with hybrid flexibility after probation."
+  },
+  "postedAt": "2026-04-27",
+  "applyUrl": "https://cv.lv/vacancy/1565102/atea-global-services/software-developer"
+}
