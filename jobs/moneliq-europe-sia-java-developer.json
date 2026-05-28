@@ -1,0 +1,24 @@
+{
+  "slug": "moneliq-europe-sia-java-developer",
+  "title": "JAVA Developer",
+  "company": "MONELIQ EUROPE SIA",
+  "companyUrl": "https://moneliq.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–4500",
+  "stack": [
+    "java",
+    "spring-boot",
+    "sql",
+    "microservices",
+    "fintech"
+  ],
+  "summary": {
+    "lv": "Moneliq Europe meklē Java izstrādātāju, kas piedalīsies fintech produkta izstrādē — back-end pakalpojumu, integrāciju un automatizācijas izveidē.",
+    "en": "Moneliq Europe is hiring a Java Developer to build a fintech product — back-end services, integrations and automation."
+  },
+  "postedAt": "2026-05-06",
+  "applyUrl": "https://cv.lv/vacancy/1571363/moneliq-europe-sia/java-developer"
+}
