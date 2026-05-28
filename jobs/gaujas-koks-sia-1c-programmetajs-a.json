@@ -1,0 +1,26 @@
+{
+  "slug": "gaujas-koks-sia-1c-programmetajs-a",
+  "title": "1C Programmētājs/-a",
+  "company": "Gaujas Koks SIA",
+  "companyUrl": "https://gaujaskoks.lv/",
+  "location": "Vangaži",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–4500",
+  "stack": [
+    "1c-enterprise",
+    "sql",
+    "ms-sql",
+    "http",
+    "xml",
+    "json",
+    "soap"
+  ],
+  "summary": {
+    "lv": "Gaujas Koks (ražošanas uzņēmums Vangažos) meklē 1C programmētāju, kas uzturēs 1C 8 datubāzi, izstrādās moduļus, atskaites un integrācijas ar ārējiem pakalpojumiem.",
+    "en": "Gaujas Koks (a manufacturing company in Vangaži) is hiring a 1C Programmer to maintain the 1C 8 database, build modules, reports and integrations with external services."
+  },
+  "postedAt": "2026-05-18",
+  "applyUrl": "https://cv.lv/vacancy/1579091/gaujas-koks-sia/1c-programmetajs-a"
+}
