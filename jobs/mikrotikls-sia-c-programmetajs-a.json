@@ -1,0 +1,25 @@
+{
+  "slug": "mikrotikls-sia-c-programmetajs-a",
+  "title": "C programmētājs/-a",
+  "company": "Mikrotīkls SIA",
+  "companyUrl": "https://mikrotik.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–10000",
+  "stack": [
+    "c",
+    "linux",
+    "kernel",
+    "drivers",
+    "networking"
+  ],
+  "summary": {
+    "lv": "MikroTik meklē C programmētāju ar pieredzi Linux/Unix/BSD kodola programmēšanā. Galvenie uzdevumi: Linux kodola tīkla apakšsistēmas izstrāde un uzturēšana, kodola draiveru izstrāde un portēšana.",
+    "en": "MikroTik is hiring a C Programmer with Linux/Unix/BSD kernel programming experience. Core work: developing and maintaining the Linux kernel networking subsystem and writing/porting kernel drivers."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1578156/mikrotikls-sia/c-programmetajs-a",
+  "postedAt": "2026-05-15",
+  "expiresAt": "2026-06-15"
+}
