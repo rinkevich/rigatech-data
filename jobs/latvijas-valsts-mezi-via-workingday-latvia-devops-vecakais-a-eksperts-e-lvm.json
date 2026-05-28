@@ -1,0 +1,25 @@
+{
+  "slug": "latvijas-valsts-mezi-via-workingday-latvia-devops-vecakais-a-eksperts-e-lvm",
+  "title": "DevOps vecākais/-ā eksperts/-e (LVM)",
+  "company": "Latvijas valsts meži (via WorkingDay Latvia)",
+  "companyUrl": "https://www.lvm.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–5600",
+  "stack": [
+    "docker",
+    "kubernetes",
+    "ci-cd",
+    "linux",
+    "ansible",
+    "terraform"
+  ],
+  "summary": {
+    "lv": "Latvijas valsts meži (caur WorkingDay Latvia) meklē DevOps vecāko ekspertu, kas pārvaldīs CI/CD plūsmas un infrastruktūru.",
+    "en": "Latvian State Forests (via WorkingDay Latvia) is hiring a Senior DevOps Expert to operate CI/CD pipelines and infrastructure."
+  },
+  "postedAt": "2026-05-08",
+  "applyUrl": "https://cv.lv/vacancy/1573626/workingday-latvia/devops-vecakais-a-eksperts-e"
+}
