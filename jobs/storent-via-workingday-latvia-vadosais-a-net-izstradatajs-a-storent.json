@@ -1,0 +1,24 @@
+{
+  "slug": "storent-via-workingday-latvia-vadosais-a-net-izstradatajs-a-storent",
+  "title": "Vadošais/-ā .NET izstrādātājs/-a (Storent)",
+  "company": "Storent (via WorkingDay Latvia)",
+  "companyUrl": "https://www.storent.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "lead",
+  "salaryRange": "€5000–7000",
+  "stack": [
+    "dotnet",
+    "c-sharp",
+    "azure",
+    "sql-server",
+    "architecture"
+  ],
+  "summary": {
+    "lv": "Storent (caur WorkingDay Latvia) meklē vadošo .NET izstrādātāju iRMS platformas attīstībai.",
+    "en": "Storent (via WorkingDay Latvia) is hiring a Lead .NET Developer for its iRMS platform development."
+  },
+  "postedAt": "2026-05-21",
+  "applyUrl": "https://cv.lv/vacancy/1582356/workingday-latvia/vadosais-a-net-izstradatajs-a"
+}
