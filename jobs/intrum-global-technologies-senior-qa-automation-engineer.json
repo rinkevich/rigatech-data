@@ -1,0 +1,26 @@
+{
+  "slug": "intrum-global-technologies-senior-qa-automation-engineer",
+  "title": "Senior QA Automation Engineer",
+  "company": "Intrum Global Technologies",
+  "companyUrl": "https://www.intrum.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3600–5400",
+  "stack": [
+    "qa-automation",
+    "selenium",
+    "playwright",
+    "javascript",
+    "python",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "Intrum meklē Senior QA Automation inženieri, kas vadīs testu plānošanu un kvalitātes stratēģiju produkta domēniem, izveidos uzturamus un mērogojamus automatizācijas ietvarus un mentorēs vidējā un junior līmeņa QA inženierus.",
+    "en": "Intrum is hiring a Senior QA Automation Engineer to lead test planning and quality strategy for product domains, build maintainable and scalable automation frameworks, and coach mid-level and junior QA engineers."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1582402/intrum-global-technologies/senior-qa-automation-engineer",
+  "postedAt": "2026-05-21",
+  "expiresAt": "2026-06-21"
+}
