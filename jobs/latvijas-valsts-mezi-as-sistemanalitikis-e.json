@@ -1,0 +1,27 @@
+{
+  "slug": "latvijas-valsts-mezi-as-sistemanalitikis-e",
+  "title": "Sistēmanalītiķis/-e",
+  "company": "Latvijas valsts meži AS",
+  "companyUrl": "https://www.lvm.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2800–3300",
+  "stack": [
+    "sql",
+    "oracle",
+    "postgresql",
+    "ms-sql",
+    "etl",
+    "rest-api",
+    "system-analysis"
+  ],
+  "summary": {
+    "lv": "Latvijas valsts meži GEO izstrādes komandai meklē sistēmanalītiķi ar vismaz 2 gadu pieredzi, kas analizēs prasības, izstrādās funkcionālās un nefunkcionālās specifikācijas un reproducēs lietotāju kļūdas.",
+    "en": "Latvian State Forests' GEO development team is hiring a Systems Analyst with at least 2 years of experience to analyse requirements, author functional and non-functional specs, and reproduce user-reported bugs."
+  },
+  "postedAt": "2026-05-19",
+  "expiresAt": "2026-06-01",
+  "applyUrl": "https://cv.lv/vacancy/1580444/latvijas-valsts-mezi-as/sistemanalitikis-e"
+}
