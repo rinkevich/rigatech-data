@@ -1,0 +1,24 @@
+{
+  "slug": "nutrameg-sia-qa-automation-engineer",
+  "title": "QA Automation Engineer",
+  "company": "Nutrameg SIA",
+  "companyUrl": "https://nutrameg.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2800–4000",
+  "stack": [
+    "qa-automation",
+    "ai",
+    "python",
+    "selenium",
+    "playwright"
+  ],
+  "summary": {
+    "lv": "Nutrameg meklē QA Automation inženieri, kas izmantos AI rīkus, lai projektētu un ieviestu automatizētus testēšanas procesus un uzlabotu produkta kvalitāti.",
+    "en": "Nutrameg is hiring a QA Automation Engineer to use AI tools to design and implement automated testing processes and improve product quality."
+  },
+  "postedAt": "2026-04-28",
+  "applyUrl": "https://cv.lv/vacancy/1566140/nutrameg-sia/qa-automation-engineer"
+}
