@@ -1,0 +1,26 @@
+{
+  "slug": "as-mapon-lead-qa-automation-engineer",
+  "title": "Lead QA Automation Engineer",
+  "company": "AS Mapon",
+  "companyUrl": "https://www.mapon.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "lead",
+  "salaryRange": "€3800–5000",
+  "stack": [
+    "qa-automation",
+    "selenium",
+    "cypress",
+    "javascript",
+    "python",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "Mapon (telematikas un autoparka pārvaldības SaaS) meklē Lead QA Automation inženieri, kas vadīs testēšanas automatizācijas stratēģiju, mentorēs komandu un iebūvēs kvalitāti CI/CD procesos visā produkta dzīves ciklā.",
+    "en": "Mapon (a telematics and fleet management SaaS) is hiring a Lead QA Automation Engineer to drive test automation strategy, mentor the team, and embed quality across the CI/CD pipeline and full product lifecycle."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1573849/as-mapon/lead-qa-automation-engineer",
+  "postedAt": "2026-05-08",
+  "expiresAt": "2026-06-08"
+}
