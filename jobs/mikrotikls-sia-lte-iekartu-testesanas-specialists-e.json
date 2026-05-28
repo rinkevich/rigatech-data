@@ -1,0 +1,24 @@
+{
+  "slug": "mikrotikls-sia-lte-iekartu-testesanas-specialists-e",
+  "title": "LTE iekārtu testēšanas speciālists/-e",
+  "company": "Mikrotīkls SIA",
+  "companyUrl": "https://mikrotik.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–3200",
+  "stack": [
+    "lte",
+    "5g",
+    "routeros",
+    "networking",
+    "testing"
+  ],
+  "summary": {
+    "lv": "MikroTik meklē LTE iekārtu testēšanas speciālistu, kas veiks jaunu LTE/5G modemu izpēti, testēšanu un integrāciju RouterOS, kā arī R&D testus.",
+    "en": "MikroTik is hiring an LTE Equipment Testing Specialist to research, test and integrate new LTE/5G modems into RouterOS and run R&D testing."
+  },
+  "postedAt": "2026-05-27",
+  "applyUrl": "https://cv.lv/vacancy/1586956/mikrotikls-sia/lte-iekartu-testesanas-specialists-e"
+}
