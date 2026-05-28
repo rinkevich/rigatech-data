@@ -1,0 +1,25 @@
+{
+  "slug": "zabbix-sia-backend-developer",
+  "title": "Backend Developer",
+  "company": "ZABBIX SIA",
+  "companyUrl": "https://www.zabbix.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–5100",
+  "stack": [
+    "c",
+    "go",
+    "sql",
+    "postgresql",
+    "mysql",
+    "linux"
+  ],
+  "summary": {
+    "lv": "Zabbix meklē Backend izstrādātāju, kas piedalīsies Zabbix monitoringa platformas attīstībā — C/Go programmēšana, datu bāzes integrācijas un Linux vide.",
+    "en": "Zabbix is hiring a Backend Developer to grow the Zabbix monitoring platform — C/Go programming, database integrations and a Linux environment."
+  },
+  "postedAt": "2026-05-20",
+  "applyUrl": "https://cv.lv/vacancy/1581334/zabbix-sia/backend-developer"
+}
