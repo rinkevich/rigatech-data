@@ -1,0 +1,26 @@
+{
+  "slug": "ubiquiti-latvia-sia-it-administrator-network-systems",
+  "title": "IT Administrator (Network & Systems)",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "https://www.ui.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–3000",
+  "stack": [
+    "networking",
+    "routing",
+    "switching",
+    "vlan",
+    "linux",
+    "windows-server"
+  ],
+  "summary": {
+    "lv": "Ubiquiti meklē IT administratoru, kas pārvaldīs tīkla infrastruktūru (switching, routing, VLAN), uzraudzīs sistēmu veiktspēju un ieviesīs IT drošības labākās prakses lokālajos tīklos, serveros un galiekārtās.",
+    "en": "Ubiquiti is hiring an IT Administrator to manage network infrastructure (switching, routing, VLANs), monitor system performance, and enforce IT security best practices across local networks, servers and endpoints."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1573530/ubiquiti-latvia-sia/it-administrator-network-systems",
+  "postedAt": "2026-05-08",
+  "expiresAt": "2026-06-08"
+}
