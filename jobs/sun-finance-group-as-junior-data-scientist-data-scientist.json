@@ -1,0 +1,25 @@
+{
+  "slug": "sun-finance-group-as-junior-data-scientist-data-scientist",
+  "title": "Junior Data Scientist / Data Scientist",
+  "company": "Sun Finance Group AS",
+  "companyUrl": "https://sunfinance.group/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€2400–3600",
+  "stack": [
+    "python",
+    "sql",
+    "machine-learning",
+    "statistics",
+    "credit-risk"
+  ],
+  "summary": {
+    "lv": "Sun Finance meklē Junior Data Scientist, kas piedalīsies kredītrisku un klientu uzvedības modeļu izstrādē, izmantojot Python un SQL, lai uzlabotu fintech produktu lēmumu pieņemšanu.",
+    "en": "Sun Finance is hiring a Junior Data Scientist to help build credit-risk and customer-behaviour models in Python and SQL, sharpening decisioning across its fintech products."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1583610/sun-finance-group-as/junior-data-scientist-data-scientist",
+  "postedAt": "2026-05-22",
+  "expiresAt": "2026-06-22"
+}
