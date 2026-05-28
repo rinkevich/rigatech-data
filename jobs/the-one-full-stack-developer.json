@@ -1,0 +1,29 @@
+{
+  "slug": "the-one-full-stack-developer",
+  "title": "Full Stack Developer",
+  "company": "The One",
+  "companyUrl": "https://theonefactor.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–4000",
+  "stack": [
+    "typescript",
+    "react",
+    "vue",
+    "nodejs",
+    "python",
+    "postgresql",
+    "mysql",
+    "docker",
+    "kubernetes",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "Octella (starptautisks VoIP un telekomunikāciju uzņēmums) meklē Full-Stack inženieri, kas izstrādās moderniem frontend ietvariem (React/Vue) saskarni un atbalstīs backend pakalpojumus, datu bāzes un ieviešanas procesus.",
+    "en": "Octella, an international VoIP and telecommunications company, is hiring a Full-Stack Engineer to build modern frontends (React/Vue) and contribute to back-end services, databases and deployment processes."
+  },
+  "postedAt": "2026-05-19",
+  "applyUrl": "https://cv.lv/vacancy/1581081/the-one/full-stack-developer"
+}
