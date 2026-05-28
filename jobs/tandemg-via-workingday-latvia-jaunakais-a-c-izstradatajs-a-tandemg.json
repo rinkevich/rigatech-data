@@ -1,0 +1,22 @@
+{
+  "slug": "tandemg-via-workingday-latvia-jaunakais-a-c-izstradatajs-a-tandemg",
+  "title": "Jaunākais/-ā C++ izstrādātājs/-a (TandemG)",
+  "company": "TandemG (via WorkingDay Latvia)",
+  "companyUrl": "https://www.workingday.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€2000–2500",
+  "stack": [
+    "c++",
+    "linux",
+    "embedded"
+  ],
+  "summary": {
+    "lv": "TandemG (caur WorkingDay Latvia) meklē Junior C++ izstrādātāju, kas piedalīsies iegulto sistēmu programmatūras izstrādē.",
+    "en": "TandemG (via WorkingDay Latvia) is hiring a Junior C++ Developer to contribute to embedded systems software development."
+  },
+  "postedAt": "2026-05-19",
+  "applyUrl": "https://cv.lv/vacancy/1580735/workingday-latvia/jaunakais-a-c-izstradatajs-a"
+}
