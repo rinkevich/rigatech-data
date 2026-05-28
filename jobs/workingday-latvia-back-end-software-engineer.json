@@ -1,0 +1,24 @@
+{
+  "slug": "workingday-latvia-back-end-software-engineer",
+  "title": "Back-End Software Engineer",
+  "company": "WorkingDay Latvia",
+  "companyUrl": "https://www.workingday.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€5400–6000",
+  "stack": [
+    "backend",
+    "golang",
+    "java",
+    "microservices",
+    "sql"
+  ],
+  "summary": {
+    "lv": "WorkingDay Latvia klients meklē Back-End programmatūras inženieri (vakance, iespējams, slēgta).",
+    "en": "A WorkingDay Latvia client is hiring a Back-End Software Engineer (this listing may have closed)."
+  },
+  "postedAt": "2026-05-14",
+  "applyUrl": "https://cv.lv/vacancy/1577534/workingday-latvia/back-end-software-engineer-back-end-programmaturas-izstradatajs-a"
+}
