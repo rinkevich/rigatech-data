@@ -1,0 +1,25 @@
+{
+  "slug": "btcbit-sp-z-o-o-senior-system-administrator",
+  "title": "Senior System Administrator",
+  "company": "BTCBIT Sp. z o.o.",
+  "companyUrl": "https://btcbit.net/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3000–4000",
+  "stack": [
+    "linux",
+    "windows-server",
+    "aws",
+    "networking",
+    "security",
+    "virtualization"
+  ],
+  "summary": {
+    "lv": "BTCBIT (regulēta kriptovalūtu apmaiņa) meklē Senior sistēmu administratoru, kas pārvaldīs platformas infrastruktūru un drošību.",
+    "en": "BTCBIT (a regulated cryptocurrency exchange) is hiring a Senior System Administrator to manage the platform's infrastructure and security."
+  },
+  "postedAt": "2026-04-30",
+  "applyUrl": "https://cv.lv/vacancy/1568550/btcbit-sp-z-o-o/senior-system-administrator"
+}
