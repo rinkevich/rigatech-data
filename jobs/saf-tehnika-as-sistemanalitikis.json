@@ -1,0 +1,23 @@
+{
+  "slug": "saf-tehnika-as-sistemanalitikis",
+  "title": "Sistēmanalītiķis",
+  "company": "SAF TEHNIKA AS",
+  "companyUrl": "https://www.aranet.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2300–3200",
+  "stack": [
+    "iot",
+    "system-analysis",
+    "ux"
+  ],
+  "summary": {
+    "lv": "SAF Tehnika meklē sistēmanalītiķi Aranet IoT platformas komandai. Galvenie uzdevumi: prasību apkopošana un analīze, lietotāju pieredzes stāstu rakstīšana, prasību specifikāciju un risinājumu lietojumu gadījumu izstrāde, sadarbība ar UX, izstrādes un testēšanas komandām.",
+    "en": "SAF Tehnika is hiring a Systems Analyst for the Aranet IoT platform team. The role gathers and analyses requirements, writes user stories and acceptance criteria, drafts specifications and use cases, and partners with UX, dev and QA teams."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1574230/saf-tehnika-as/sistemanalitikis",
+  "postedAt": "2026-05-11",
+  "expiresAt": "2026-06-11"
+}
