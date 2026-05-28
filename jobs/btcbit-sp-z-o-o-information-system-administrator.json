@@ -1,0 +1,23 @@
+{
+  "slug": "btcbit-sp-z-o-o-information-system-administrator",
+  "title": "Information System Administrator",
+  "company": "BTCBIT Sp. z o.o.",
+  "companyUrl": "https://btcbit.net/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2200–2700",
+  "stack": [
+    "linux",
+    "windows-server",
+    "networking",
+    "security"
+  ],
+  "summary": {
+    "lv": "BTCBIT (regulēta kriptovalūtu apmaiņa) meklē Informācijas sistēmu administratoru, kas pārvaldīs IT sistēmas un atbalstīs platformas drošību.",
+    "en": "BTCBIT (a regulated cryptocurrency exchange) is hiring an Information System Administrator to manage IT systems and support platform security."
+  },
+  "postedAt": "2026-04-29",
+  "applyUrl": "https://cv.lv/vacancy/1567717/btcbit-sp-z-o-o/information-system-administrator"
+}
