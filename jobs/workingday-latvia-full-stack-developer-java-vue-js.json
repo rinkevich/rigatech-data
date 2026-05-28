@@ -1,0 +1,24 @@
+{
+  "slug": "workingday-latvia-full-stack-developer-java-vue-js",
+  "title": "Full-Stack Developer (Java, Vue.js)",
+  "company": "WorkingDay Latvia",
+  "companyUrl": "https://www.workingday.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–4500",
+  "stack": [
+    "java",
+    "spring-boot",
+    "vuejs",
+    "javascript",
+    "sql"
+  ],
+  "summary": {
+    "lv": "WorkingDay Latvia klients meklē Full-Stack izstrādātāju ar Java un Vue.js prasmēm.",
+    "en": "A WorkingDay Latvia client is hiring a Full-Stack Developer skilled in Java and Vue.js."
+  },
+  "postedAt": "2026-05-22",
+  "applyUrl": "https://cv.lv/vacancy/1583249/workingday-latvia/full-stack-developer-full-stack-izstradatajs-a-java-vue-js"
+}
