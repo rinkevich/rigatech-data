@@ -1,0 +1,25 @@
+{
+  "slug": "dyninno-technologies-dynatech-application-security-engineer",
+  "title": "Application Security Engineer",
+  "company": "Dyninno Technologies (Dynatech)",
+  "companyUrl": "https://www.dynatech.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€5000",
+  "stack": [
+    "application-security",
+    "sast",
+    "dast",
+    "owasp",
+    "penetration-testing",
+    "sdlc"
+  ],
+  "summary": {
+    "lv": "Dynatech meklē Application Security inženieri, kas sadarbosies ar izstrādes komandām, lai iekļautu drošību izstrādes procesā, automatizētu drošības testus un uzraudzītu lietojumprogrammu drošību.",
+    "en": "Dynatech is hiring an Application Security Engineer to embed security in the SDLC, automate security testing and monitor application security."
+  },
+  "postedAt": "2026-05-05",
+  "applyUrl": "https://cv.lv/vacancy/1570167/dyninno-technologies-dynatech/application-security-engineer"
+}
