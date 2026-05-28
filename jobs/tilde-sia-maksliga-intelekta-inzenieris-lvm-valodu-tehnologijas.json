@@ -1,0 +1,25 @@
+{
+  "slug": "tilde-sia-maksliga-intelekta-inzenieris-lvm-valodu-tehnologijas",
+  "title": "Mākslīgā intelekta inženieris (LVM/valodu tehnoloģijas)",
+  "company": "Tilde, SIA",
+  "companyUrl": "https://tilde.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–4500",
+  "stack": [
+    "python",
+    "pytorch",
+    "llm",
+    "nlp",
+    "linux",
+    "machine-learning"
+  ],
+  "summary": {
+    "lv": "Tilde meklē mākslīgā intelekta inženieri valodu tehnoloģijām (LVM), kas analizēs datu kopas LVM apmācībai, izstrādās un ieviesīs LVM balstītas valodu tehnoloģijas un sadarbosies ar starpdisciplinārām komandām produkta integrācijā.",
+    "en": "Tilde is hiring an AI Engineer for language technologies (LLMs) to analyse datasets for LLM training, build and deploy LLM-driven language tech and partner with cross-functional teams to ship features."
+  },
+  "postedAt": "2026-05-06",
+  "applyUrl": "https://cv.lv/vacancy/1571258/tilde-sia/maksliga-intelekta-inzenieris-lvm-valodu-tehnologijas"
+}
