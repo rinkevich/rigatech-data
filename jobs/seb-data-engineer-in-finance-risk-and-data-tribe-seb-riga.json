@@ -1,0 +1,24 @@
+{
+  "slug": "seb-data-engineer-in-finance-risk-and-data-tribe-seb-riga",
+  "title": "Data Engineer in Finance, Risk and Data Tribe | SEB, Riga",
+  "company": "SEB",
+  "companyUrl": "https://www.seb.lv/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2750–4000",
+  "stack": [
+    "sql",
+    "python",
+    "etl",
+    "azure",
+    "data-warehouse"
+  ],
+  "summary": {
+    "lv": "SEB Finance, Risk and Data Tribe meklē Data Engineer, kas izstrādās un uzturēs datu platformu finanšu un risku datiem, ETL plūsmas un datu modeļus.",
+    "en": "SEB's Finance, Risk and Data Tribe is hiring a Data Engineer to build and maintain the data platform for finance & risk data — ETL pipelines and data models."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1581995/seb/data-engineer-datu-inzenieris-e-in-finance-risk-and-data-tribe-vai-seb-riga",
+  "postedAt": "2026-05-20"
+}
