@@ -1,0 +1,28 @@
+{
+  "slug": "magebit-junior-web-developer",
+  "title": "Junior Web Developer",
+  "company": "Magebit",
+  "companyUrl": "https://magebit.com/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€850–1100",
+  "stack": [
+    "html",
+    "css",
+    "javascript",
+    "php",
+    "git",
+    "magento",
+    "shopify",
+    "wordpress"
+  ],
+  "summary": {
+    "lv": "Magebit meklē Junior Web izstrādātāju darbam ar Magento, Shopify un WordPress eCommerce projektiem. Sākumā nodrošināta strukturēta apmācība un pieredzējušu kolēģu mentorings.",
+    "en": "Magebit is hiring a Junior Web Developer to work on Magento, Shopify and WordPress eCommerce projects, with structured onboarding and mentorship from experienced developers."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1584113/magebit/junior-web-developer",
+  "postedAt": "2026-05-25",
+  "expiresAt": "2026-06-25"
+}
