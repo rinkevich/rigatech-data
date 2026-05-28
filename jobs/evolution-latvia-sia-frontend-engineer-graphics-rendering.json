@@ -1,0 +1,26 @@
+{
+  "slug": "evolution-latvia-sia-frontend-engineer-graphics-rendering",
+  "title": "Frontend Engineer - Graphics & Rendering",
+  "company": "Evolution Latvia SIA",
+  "companyUrl": "https://www.evolution.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4500–8000",
+  "stack": [
+    "javascript",
+    "typescript",
+    "webgl",
+    "canvas",
+    "react",
+    "html",
+    "css"
+  ],
+  "summary": {
+    "lv": "Evolution meklē Frontend inženieri grafikai un renderēšanai, kas izstrādās ar grafiku bagātas, reālā laika kazino spēles tīmeklim, ko vienlaikus spēlē simtiem tūkstošu spēlētāju mobilajos un darbvirsmas pārlūkos.",
+    "en": "Evolution is hiring a Frontend Engineer focused on graphics and rendering to build graphics-rich real-time casino games for hundreds of thousands of concurrent players across mobile and desktop browsers."
+  },
+  "postedAt": "2026-05-13",
+  "applyUrl": "https://cv.lv/vacancy/1576982/evolution-latvia-sia/frontend-engineer-graphics-un-rendering-frontend-izstradatajs-grafika-un-renderesana"
+}
