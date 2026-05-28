@@ -1,0 +1,24 @@
+{
+  "slug": "x-infotech-sia-devops-engineer",
+  "title": "DevOps Engineer",
+  "company": "X INFOTECH SIA",
+  "companyUrl": "https://x-infotech.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€1800–5000",
+  "stack": [
+    "docker",
+    "kubernetes",
+    "ci-cd",
+    "linux",
+    "ansible"
+  ],
+  "summary": {
+    "lv": "X Infotech meklē DevOps inženieri, kas pārvaldīs CI/CD plūsmas, konteinerizāciju un infrastruktūru identitātes pārvaldības produktiem.",
+    "en": "X Infotech is hiring a DevOps Engineer to manage CI/CD pipelines, container platforms and infrastructure for identity-management products."
+  },
+  "postedAt": "2026-05-19",
+  "applyUrl": "https://cv.lv/vacancy/1579125/x-infotech-sia/devops-engineer"
+}
