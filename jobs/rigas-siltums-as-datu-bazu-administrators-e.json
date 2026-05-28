@@ -1,0 +1,23 @@
+{
+  "slug": "rigas-siltums-as-datu-bazu-administrators-e",
+  "title": "Datu bāzu administrators/-e",
+  "company": "Rīgas Siltums AS",
+  "companyUrl": "https://www.rs.lv/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2430–3000",
+  "stack": [
+    "oracle",
+    "sql",
+    "pl-sql",
+    "database-administration"
+  ],
+  "summary": {
+    "lv": "Rīgas Siltums meklē datu bāzu administratoru Digitālo risinājumu departamentam, kas izstrādās un uzturēs Oracle datu bāzu arhitektūru, definēs piekļuves principus un drošības politikas, kā arī backup/recovery politikas.",
+    "en": "Rīgas Siltums is hiring a Database Administrator for the Digital Solutions department to design and maintain Oracle database architecture, define access principles and security policies, and own backup/recovery."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1568201/rigas-siltums-as/datu-bazu-administrators-e",
+  "postedAt": "2026-04-30"
+}
