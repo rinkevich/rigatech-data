@@ -1,0 +1,24 @@
+{
+  "slug": "via-sms-group-datu-zinatnieks",
+  "title": "Datu zinātnieks",
+  "company": "VIA SMS Group",
+  "companyUrl": "https://www.viasms.eu/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3300–3500",
+  "stack": [
+    "python",
+    "sql",
+    "machine-learning",
+    "credit-risk",
+    "statistics"
+  ],
+  "summary": {
+    "lv": "VIA SMS Group meklē datu zinātnieku, kas izstrādās modeļus reālu finanšu lēmumu atbalstam — kredītriska novērtēšanai un klientu uzvedības analīzei.",
+    "en": "VIA SMS Group is hiring a Data Scientist to build models that support real financial decisions — credit-risk scoring and customer behaviour analysis."
+  },
+  "postedAt": "2026-05-07",
+  "applyUrl": "https://cv.lv/vacancy/1572162/via-sms-group/datu-zinatnieks"
+}
