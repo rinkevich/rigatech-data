@@ -1,0 +1,28 @@
+{
+  "slug": "rigas-mezi-it-administrators-e",
+  "title": "IT administrators/-e",
+  "company": "Rīgas meži",
+  "companyUrl": "https://rigasmezi.lv",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–2400",
+  "stack": [
+    "windows-server",
+    "active-directory",
+    "office-365",
+    "vmware",
+    "bitlocker",
+    "linux",
+    "mssql",
+    "postgresql"
+  ],
+  "summary": {
+    "lv": "SIA \"Rīgas meži\" meklē IT administratoru, kas uzturēs un administrēs IT infrastruktūru (datortehniku, serverus, tīkla iekārtas), veiks IS drošības notikumu monitoringu un incidentu izmeklēšanu, kā arī sniegs atbalstu IT lietotājiem. Nepieciešama vismaz 2 gadu pieredze un zināšanas Windows Server, Active Directory un VMware.",
+    "en": "Rīgas meži is hiring an IT administrator to maintain and administer IT infrastructure (workstations, servers, network equipment), monitor information-security events and investigate incidents, and provide IT user support. At least 2 years of experience and knowledge of Windows Server, Active Directory and VMware are required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1588661/rigas-mezi/it-administrators-e",
+  "postedAt": "2026-05-29",
+  "expiresAt": "2026-06-15"
+}
