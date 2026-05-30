@@ -1,0 +1,24 @@
+{
+  "slug": "bigbank-as-latvijas-filiale-database-administrator-postgresql",
+  "title": "Database Administrator (PostgreSQL)",
+  "company": "BIGBANK AS Latvijas filiāle",
+  "companyUrl": "https://cv.lv/lv/search/employer/bigbank-as-latvijas-filiale?employerId=28904",
+  "location": "Marijas iela 2A, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "postgresql",
+    "linux",
+    "mongodb",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "Bigbank meklē pieredzējušu PostgreSQL datu bāzu administratoru, kas nodrošinās banku platformas datu bāzu veiktspēju, mērogojamību un pieejamību deviņos Eiropas tirgos.",
+    "en": "Bigbank seeks an experienced PostgreSQL database administrator to ensure the performance, scalability and availability of the bank's database platform across nine European markets."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1588894/bigbank-as-latvijas-filiale/database-administrator-postgresql",
+  "postedAt": "2026-05-29",
+  "salaryRange": "€4000–8000",
+  "expiresAt": "2026-06-15"
+}
