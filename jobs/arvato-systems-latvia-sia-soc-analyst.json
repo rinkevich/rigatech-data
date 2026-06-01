@@ -1,0 +1,27 @@
+{
+  "slug": "arvato-systems-latvia-sia-soc-analyst",
+  "title": "SOC Analyst",
+  "company": "Arvato Systems Latvia SIA",
+  "companyUrl": "https://www.arvato-systems.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–3700",
+  "stack": [
+    "siem",
+    "splunk",
+    "microsoft-sentinel",
+    "microsoft-defender",
+    "azure",
+    "edr",
+    "mitre-attack"
+  ],
+  "summary": {
+    "lv": "Arvato Systems meklē SOC analītiķi, kas veiks reāllaika drošības monitoringu, incidentu analīzi un eskalāciju, izmantojot SIEM, Splunk, Microsoft Sentinel/Defender un Azure, balstoties uz MITRE ATT&CK ietvaru.",
+    "en": "Arvato Systems is hiring a SOC Analyst to perform real-time security monitoring, incident analysis and escalation using SIEM, Splunk, Microsoft Sentinel/Defender and Azure, grounded in the MITRE ATT&CK framework."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1589188/arvato-systems-latvia-sia/soc-analyst",
+  "postedAt": "2026-06-01",
+  "expiresAt": "2026-07-01"
+}
