@@ -1,0 +1,27 @@
+{
+  "slug": "zabbix-sia-c-developer-mid-senior",
+  "title": "C Developer (mid-senior)",
+  "company": "ZABBIX SIA",
+  "companyUrl": "https://www.zabbix.com/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2400–5000",
+  "stack": [
+    "c",
+    "unix",
+    "windows",
+    "mysql",
+    "postgresql",
+    "oracle",
+    "sqlite"
+  ],
+  "summary": {
+    "lv": "Zabbix meklē C izstrādātāju (mid-senior), kas rakstīs kvalitatīvu, uzturamu kodu, attīstīs Zabbix monitoringa programmatūru, veiks koda pārskatīšanu un mentorēs junior izstrādātājus C/Unix/Windows vidē ar SQL datu bāzēm.",
+    "en": "Zabbix is hiring a mid-senior C Developer to write high-quality, maintainable code, advance the Zabbix monitoring software, perform code reviews and mentor junior developers across C/Unix/Windows with SQL databases."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1589250/zabbix-sia/c-developer-mid-senior",
+  "postedAt": "2026-06-01",
+  "expiresAt": "2026-07-01"
+}
