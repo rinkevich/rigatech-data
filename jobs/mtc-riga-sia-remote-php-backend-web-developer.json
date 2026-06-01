@@ -1,0 +1,28 @@
+{
+  "slug": "mtc-riga-sia-remote-php-backend-web-developer",
+  "title": "Remote PHP Backend Web Developer",
+  "company": "\"mtc. Riga\" SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/mtc-riga-sia?employerId=28004",
+  "location": "Rīga",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2300–3500",
+  "stack": [
+    "php",
+    "laravel",
+    "mysql",
+    "shopify",
+    "magento",
+    "wordpress",
+    "vue",
+    "react"
+  ],
+  "summary": {
+    "lv": "Skotijas tīmekļa aģentūra \"mtc.\" meklē pieredzējušu PHP back-end izstrādātāju attālinātam darbam, kas izstrādās tīmekļa vietnes uz LAMP arhitektūras (Laravel, Shopify, Magento 2, WordPress).",
+    "en": "Scottish web agency \"mtc.\" is hiring an experienced remote PHP backend developer to build websites on a LAMP stack (Laravel, Shopify, Magento 2, WordPress)."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1589137/mtc-riga-sia/remote-php-backend-web-developer",
+  "postedAt": "2026-06-01",
+  "expiresAt": "2026-07-01"
+}
