@@ -1,0 +1,28 @@
+{
+  "slug": "rigas-siltums-as-datu-bazu-administrators-e",
+  "title": "Datu bāzu administrators/-e",
+  "company": "RĪGAS SILTUMS AS",
+  "companyUrl": "https://rs.lv",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2430–3000",
+  "stack": [
+    "oracle",
+    "pl-sql",
+    "sql",
+    "linux",
+    "bash",
+    "python",
+    "jenkins",
+    "git"
+  ],
+  "summary": {
+    "lv": "AS \"RĪGAS SILTUMS\" Digitālo risinājumu departaments meklē datu bāzu administratoru, kas izstrādās un uzturēs Oracle datu bāzu arhitektūru (PL/SQL, RMAN, ORDS), veidos automatizāciju ar Bash/Python un CI/CD pipelines ar Jenkins.",
+    "en": "RĪGAS SILTUMS' Digital Solutions department is hiring a database administrator to develop and maintain Oracle database architecture (PL/SQL, RMAN, ORDS), build automation with Bash/Python and CI/CD pipelines with Jenkins."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1589284/rigas-siltums-as/datu-bazu-administrators-e",
+  "postedAt": "2026-06-01",
+  "expiresAt": "2026-06-15"
+}
