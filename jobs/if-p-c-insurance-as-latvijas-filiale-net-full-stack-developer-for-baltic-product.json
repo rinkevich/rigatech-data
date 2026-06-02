@@ -1,0 +1,28 @@
+{
+  "slug": "if-p-c-insurance-as-latvijas-filiale-net-full-stack-developer-for-baltic-product",
+  "title": ".NET Full-stack Developer for Baltic Product Squad",
+  "company": "If P&C Insurance AS Latvijas filiāle",
+  "companyUrl": "https://cv.lv/lv/search/employer/if-p-c-insurance-as-latvijas-filiale?employerId=27574",
+  "location": "Republikas laukums 2A",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–5500",
+  "stack": [
+    "dotnet",
+    "csharp",
+    "azure",
+    "react",
+    "typescript",
+    "sql-server",
+    "azure-devops",
+    "microservices"
+  ],
+  "summary": {
+    "lv": "Praktisks .NET full-stack izstrādātājs If P&C Insurance Baltijas produktu komandā, kas veido jaunu mikroservisu pārdošanas platformu uz Azure ar C#/.NET un React, ievērojot clean code, SOLID un Azure DevOps CI/CD principus.",
+    "en": "Hands-on .NET full-stack developer joining If P&C Insurance's Baltic Product Squad to build a new microservice-based core sales platform on Azure with C#/.NET and React, following clean code, SOLID and Azure DevOps CI/CD practices."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1590556/if-p-un-c-insurance-as-latvijas-filiale/net-full-stack-developer-for-baltic-product-squad",
+  "postedAt": "2026-06-02",
+  "expiresAt": "2026-06-24"
+}
