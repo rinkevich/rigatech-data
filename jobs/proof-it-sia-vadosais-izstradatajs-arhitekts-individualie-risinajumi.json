@@ -1,0 +1,30 @@
+{
+  "slug": "proof-it-sia-vadosais-izstradatajs-arhitekts-individualie-risinajumi",
+  "title": "Vadošais izstrādātājs & Arhitekts [Individuālie Risinājumi]",
+  "company": "Proof IT SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/proof-it-sia?employerId=24178",
+  "location": "Baznīcas iela 19/23, Centra rajons, Rīga, LV-1010",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "lead",
+  "salaryRange": "€4500",
+  "stack": [
+    "java",
+    "dotnet",
+    "javascript",
+    "typescript",
+    "spring-boot",
+    "angular",
+    "react",
+    "postgresql",
+    "docker",
+    "kubernetes"
+  ],
+  "summary": {
+    "lv": "Vadošais izstrādātājs un arhitekts Proof IT, kas veido individuāli pielāgotus, integrāciju bagātus risinājumus privātā un valsts sektora klientiem Java/.NET/JS tehnoloģijās, pieņem arhitektūras lēmumus un mentorē komandas izstrādātājus.",
+    "en": "Lead developer and architect at Proof IT building custom, integration-heavy solutions for private and public sector clients across a Java/.NET/JS stack, making architectural decisions and mentoring developers across the team."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1590691/proof-it-sia/vadosais-izstradatajs-un-arhitekts-individualie-risinajumi",
+  "postedAt": "2026-06-02",
+  "expiresAt": "2026-07-02"
+}
