@@ -1,0 +1,27 @@
+{
+  "slug": "ubiquiti-latvia-sia-senior-site-reliability-engineer-devops",
+  "title": "Senior Site Reliability Engineer / DevOps",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/ubiquiti-latvia-sia?employerId=30898",
+  "location": "Akmeņu iela 14",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3000–6000",
+  "stack": [
+    "aws",
+    "terraform",
+    "docker",
+    "python",
+    "bash",
+    "ci-cd",
+    "linux"
+  ],
+  "summary": {
+    "lv": "Vecākais Site Reliability Engineer/DevOps Ubiquiti, kas pārvalda un automatizē AWS infrastruktūru ar Terraform, veido CI/CD, monitoringu un logging un atbalsta globālās izstrādes komandas, kuru programmatūru izmanto miljoniem cilvēku.",
+    "en": "Senior Site Reliability Engineer/DevOps at Ubiquiti managing and automating AWS infrastructure with Terraform, building CI/CD, monitoring and logging, and supporting global engineering teams running software used by millions."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1589719/ubiquiti-latvia-sia/senior-site-reliability-engineer-devops",
+  "postedAt": "2026-06-01",
+  "expiresAt": "2026-07-01"
+}
