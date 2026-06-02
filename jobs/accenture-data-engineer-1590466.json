@@ -1,0 +1,28 @@
+{
+  "slug": "accenture-data-engineer-1590466",
+  "title": "Data Engineer",
+  "company": "Accenture",
+  "companyUrl": "https://cv.lv/lv/search/employer/accenture?employerId=19491",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2600–4500",
+  "stack": [
+    "python",
+    "spark",
+    "kafka",
+    "aws",
+    "sql",
+    "docker",
+    "kubernetes",
+    "scala"
+  ],
+  "summary": {
+    "lv": "Datu inženieris Accenture Baltics, kas projektē un uztur mērogojamus datu konveijerus ar tādiem rīkiem kā Apache Spark un Kafka uz AWS/Azure/GCP, izmantojot Python/Scala/Java un SQL relāciju un lielo datu krātuvēs.",
+    "en": "Data Engineer at Accenture Baltics designing and maintaining scalable data pipelines with tools like Apache Spark and Kafka on AWS/Azure/GCP, using Python/Scala/Java and SQL across relational and big-data stores."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1590466/accenture/data-engineer",
+  "postedAt": "2026-06-02",
+  "expiresAt": "2026-07-02"
+}
