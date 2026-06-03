@@ -1,0 +1,24 @@
+{
+  "slug": "cloudlinux-senior-database-reliability-engineer",
+  "title": "Senior Database Reliability Engineer",
+  "company": "Cloudlinux",
+  "companyUrl": "https://remoteok.com/cloudlinux",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "postgres",
+    "mongodb",
+    "redis",
+    "ansible",
+    "grafana"
+  ],
+  "summary": {
+    "lv": "Senior datubāzu uzticamības inženieris uzņēmumā CloudLinux/TuxCare, uzturot datu platformas aiz drošības un infrastruktūras produktiem.",
+    "en": "Senior Database Reliability Engineer at CloudLinux/TuxCare, operating the data platforms behind security and infrastructure products."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613",
+  "postedAt": "2026-05-16",
+  "expiresAt": "2026-08-14"
+}
