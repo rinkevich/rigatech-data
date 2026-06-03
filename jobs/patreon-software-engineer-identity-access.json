@@ -1,0 +1,23 @@
+{
+  "slug": "patreon-software-engineer-identity-access",
+  "title": "Software Engineer Identity & Access",
+  "company": "Patreon",
+  "companyUrl": "https://remoteok.com/patreon",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€14500–19600",
+  "stack": [
+    "python",
+    "backend",
+    "security"
+  ],
+  "summary": {
+    "lv": "Programmatūras inženieris (identitāte un piekļuve) uzņēmumā Patreon, veidojot drošas identitātes/piekļuves sistēmas tā satura veidotāju platformai.",
+    "en": "Software Engineer (Identity & Access) at Patreon, building secure identity/access systems for its creator platform."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240",
+  "postedAt": "2026-04-21",
+  "expiresAt": "2026-07-20"
+}
