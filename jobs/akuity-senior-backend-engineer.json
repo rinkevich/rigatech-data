@@ -1,0 +1,22 @@
+{
+  "slug": "akuity-senior-backend-engineer",
+  "title": "Senior Backend Engineer",
+  "company": "Akuity",
+  "companyUrl": "https://remoteok.com/akuity",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "backend",
+    "kubernetes",
+    "cloud"
+  ],
+  "summary": {
+    "lv": "Senior Backend inženieris uzņēmumā Akuity (Argo CD veidotāji), izstrādājot Kubernetes/Argo rīkus DevOps un platformas komandām.",
+    "en": "Senior Backend Engineer at Akuity (founders of Argo CD), building Kubernetes/Argo developer tooling for DevOps and platform teams."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479",
+  "postedAt": "2026-05-06",
+  "expiresAt": "2026-08-04"
+}
