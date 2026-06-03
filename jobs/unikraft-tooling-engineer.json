@@ -1,0 +1,22 @@
+{
+  "slug": "unikraft-tooling-engineer",
+  "title": "Tooling Engineer",
+  "company": "Unikraft",
+  "companyUrl": "https://remoteok.com/unikraft",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "backend",
+    "cloud",
+    "devops"
+  ],
+  "summary": {
+    "lv": "Rīku (tooling) inženieris uzņēmumā Unikraft, veidojot CLI, SDK un integrācijas no jauna izveidotai mākoņa platformai (CET ±2h).",
+    "en": "Tooling Engineer at Unikraft, building CLIs, SDKs, and integrations for a cloud platform rebuilt from scratch (CET ±2h)."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-tooling-engineer-unikraft-1131540",
+  "postedAt": "2026-05-11",
+  "expiresAt": "2026-08-09"
+}
