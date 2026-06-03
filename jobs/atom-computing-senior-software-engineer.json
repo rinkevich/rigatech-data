@@ -1,0 +1,23 @@
+{
+  "slug": "atom-computing-senior-software-engineer",
+  "title": "Senior Software Engineer",
+  "company": "Atom Computing",
+  "companyUrl": "https://remoteok.com/atom-computing",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€10700–14200",
+  "stack": [
+    "c-plus-plus",
+    "python",
+    "api"
+  ],
+  "summary": {
+    "lv": "Senior programmatūras inženieris uzņēmumā Atom Computing, izstrādājot vadības programmatūru neitrālo atomu kvantu datoriem.",
+    "en": "Senior Software Engineer at Atom Computing, building control software for neutral-atom quantum computers."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-atom-computing-1132662",
+  "postedAt": "2026-06-01",
+  "expiresAt": "2026-08-30"
+}
