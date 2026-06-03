@@ -1,0 +1,26 @@
+{
+  "slug": "rietumu-banka-as-drosibas-specialists-e-informacijas-un-komunikacijas-tehnologij",
+  "title": "Drošības speciālists/-e Informācijas un komunikācijas tehnoloģiju pārvaldē",
+  "company": "Rietumu Banka AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/rietumu-banka-as?employerId=9157",
+  "location": "Vesetas iela 7",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000",
+  "stack": [
+    "python",
+    "bash",
+    "linux",
+    "windows",
+    "firewalls",
+    "dlp"
+  ],
+  "summary": {
+    "lv": "IKT drošības speciālists Rietumu Bankā, kas ievieš un uztur drošības sistēmas (WAF, ugunsmūri, endpoint security, DLP), pārvalda incidentus un riskus un konfigurē Windows/Linux. Nepieciešama 2+ gadu pieredze drošībā ar skriptošanu (Python/Bash/PowerShell); CEH/CySA+ ir priekšrocība.",
+    "en": "ICT Security Specialist at Rietumu Banka implementing and maintaining security systems (WAF, firewalls, endpoint security, DLP), managing incidents and risks and configuring Windows/Linux. 2+ years in security with scripting (Python/Bash/PowerShell); CEH/CySA+ a plus."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1591648/rietumu-banka-as/drosibas-specialists-e-informacijas-un-komunikacijas-tehnologiju-parvalde",
+  "postedAt": "2026-06-03",
+  "expiresAt": "2026-07-03"
+}
