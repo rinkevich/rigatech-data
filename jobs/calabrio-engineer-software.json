@@ -1,0 +1,24 @@
+{
+  "slug": "calabrio-engineer-software",
+  "title": "Engineer Software",
+  "company": "Calabrio",
+  "companyUrl": "https://remoteok.com/calabrio",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "c-sharp",
+    "java",
+    "react",
+    "graphql",
+    "api"
+  ],
+  "summary": {
+    "lv": "Programmatūras inženieris uzņēmumā Verint/Calabrio, veidojot CX automatizācijas produktus ar C#/Java/React steku.",
+    "en": "Software Engineer at Verint/Calabrio, building CX-automation products on a C#/Java/React stack."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-engineer-software-calabrio-1131345",
+  "postedAt": "2026-04-27",
+  "expiresAt": "2026-07-26"
+}
