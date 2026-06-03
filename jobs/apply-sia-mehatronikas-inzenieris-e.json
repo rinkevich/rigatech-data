@@ -1,0 +1,26 @@
+{
+  "slug": "apply-sia-mehatronikas-inzenieris-e",
+  "title": "Mehatronikas inženieris/-e",
+  "company": "APPLY SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/apply-sia?employerId=27429",
+  "location": "VEF kvartāls",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–4500",
+  "stack": [
+    "iot",
+    "c++",
+    "python",
+    "embedded",
+    "esp32",
+    "ble"
+  ],
+  "summary": {
+    "lv": "Mehatronikas inženieris APPLY komandā, kas izstrādā un integrē IoT sensoru risinājumus — PCB prototipēšana, iegultais C++ uz mikrokontrolleriem (ESP32/STM32/Raspberry Pi), bezvadu protokoli (BLE/LoRa/Zigbee/MQTT) un Python automatizācija.",
+    "en": "Mechatronics Engineer at APPLY designing and integrating IoT sensor solutions — PCB prototyping, embedded C++ on microcontrollers (ESP32/STM32/Raspberry Pi), wireless protocols (BLE/LoRa/Zigbee/MQTT) and Python automation."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1591062/apply-sia/mehatronikas-inzenieris-e",
+  "postedAt": "2026-06-02",
+  "expiresAt": "2026-07-02"
+}
