@@ -1,0 +1,25 @@
+{
+  "slug": "envision-horizons-llc-full-stack-developer",
+  "title": "Full Stack Developer",
+  "company": "Envision Horizons LLC",
+  "companyUrl": "https://remoteok.com/envision-horizons-llc",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€7300–8800",
+  "stack": [
+    "c-sharp",
+    "dotnet",
+    "javascript",
+    "sql",
+    "api"
+  ],
+  "summary": {
+    "lv": "Full-Stack izstrādātājs uzņēmumā Envision Horizons (tirgus izaugsmes aģentūra), veidojot datu vadītus rīkus ar .NET/SQL steku.",
+    "en": "Full-Stack Developer at Envision Horizons, a marketplace growth agency, building data-driven tools on a .NET/SQL stack."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-full-stack-developer-envision-horizons-llc-1131303",
+  "postedAt": "2026-04-24",
+  "expiresAt": "2026-07-23"
+}
