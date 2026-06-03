@@ -1,0 +1,26 @@
+{
+  "slug": "wealthsimple-technologies-senior-ai-system-software-developer",
+  "title": "Senior AI System Software Developer",
+  "company": "Wealthsimple Technologies",
+  "companyUrl": "https://remoteok.com/wealthsimple-technologies",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€11600–14500",
+  "stack": [
+    "golang",
+    "aws",
+    "docker",
+    "kubernetes",
+    "postgres",
+    "react"
+  ],
+  "summary": {
+    "lv": "Senior AI sistēmu programmatūras izstrādātājs uzņēmumā Wealthsimple (Kanādas lielākā fintech), veidojot AI infrastruktūru ar Go/AWS/Kubernetes steku.",
+    "en": "Senior AI Systems Software Developer at Wealthsimple (Canada's largest fintech), building AI infrastructure on a Go/AWS/Kubernetes stack."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572",
+  "postedAt": "2026-05-13",
+  "expiresAt": "2026-08-11"
+}
