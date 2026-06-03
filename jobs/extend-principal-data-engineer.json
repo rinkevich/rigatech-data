@@ -1,0 +1,23 @@
+{
+  "slug": "extend-principal-data-engineer",
+  "title": "Principal Data Engineer",
+  "company": "Extend",
+  "companyUrl": "https://remoteok.com/extend",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "staff",
+  "stack": [
+    "python",
+    "aws",
+    "sql",
+    "data-engineering"
+  ],
+  "summary": {
+    "lv": "Galvenais (principal) Data inženieris uzņēmumā Extend, veidojot datu infrastruktūru tā AI vadītajai pēcpirkuma/garantiju platformai.",
+    "en": "Principal Data Engineer at Extend, building data infrastructure for its AI-driven post-purchase/warranty platform."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-principal-data-engineer-extend-1131491",
+  "postedAt": "2026-05-06",
+  "expiresAt": "2026-08-04"
+}
