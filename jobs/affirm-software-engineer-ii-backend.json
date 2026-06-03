@@ -1,0 +1,23 @@
+{
+  "slug": "affirm-software-engineer-ii-backend",
+  "title": "Software Engineer II Backend",
+  "company": "Affirm",
+  "companyUrl": "https://remoteok.com/affirm",
+  "location": "Remote · Poland",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "python",
+    "aws",
+    "kubernetes",
+    "sql"
+  ],
+  "summary": {
+    "lv": "Backend programmatūras inženieris (II līmenis) Affirm Merchant Data Platform komandā, atbildot par tirgotāju datu un identitātes servisiem Python vidē uz AWS/Kubernetes.",
+    "en": "Backend Software Engineer II on Affirm's Merchant Data Platform, owning foundational merchant data and identity services in Python on AWS/Kubernetes."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-software-engineer-ii-backend-affirm-1131342",
+  "postedAt": "2026-04-27",
+  "expiresAt": "2026-07-26"
+}
