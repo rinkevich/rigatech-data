@@ -1,0 +1,23 @@
+{
+  "slug": "junction-data-scientist",
+  "title": "Data Scientist",
+  "company": "Junction",
+  "companyUrl": "https://remoteok.com/junction",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€13800–16900",
+  "stack": [
+    "python",
+    "machine-learning",
+    "data-science"
+  ],
+  "summary": {
+    "lv": "Datu zinātnieks uzņēmumā Junction, veidojot datu infrastruktūras slāni veselības aprūpei (valkājamās ierīces, laboratorijas, pacientu dati).",
+    "en": "Data Scientist at Junction, building the data infrastructure layer for healthcare (wearables, labs, patient data)."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-data-scientist-junction-1131265",
+  "postedAt": "2026-04-22",
+  "expiresAt": "2026-07-21"
+}
