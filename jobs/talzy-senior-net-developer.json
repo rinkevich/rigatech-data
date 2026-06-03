@@ -1,0 +1,26 @@
+{
+  "slug": "talzy-senior-net-developer",
+  "title": "Senior .NET Developer",
+  "company": "Talzy",
+  "companyUrl": "https://cv.lv/lv/search/employer/talzy?employerId=78765",
+  "location": "Lastādijas iela 10",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3000–5500",
+  "stack": [
+    "c#",
+    ".net",
+    "azure",
+    "cosmos-db",
+    "rest",
+    "angular"
+  ],
+  "summary": {
+    "lv": "Vecākais .NET izstrādātājs Talzy, kas izstrādā backend produkta uzlabojumus .NET ekosistēmā — REST API, Azure Cosmos DB un Service Bus — sadarbībā ar produktu vadību un ASV bāzētiem arhitektiem. Nepieciešama 10+ gadu pieredze .NET/C#; Angular front-end ir priekšrocība.",
+    "en": "Senior .NET Developer at Talzy building backend product enhancements in a .NET ecosystem — REST APIs, Azure Cosmos DB and Service Bus — working with Product Management and US-based architects. 10+ years in .NET/C#; Angular front-end a plus."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1591002/talzy/senior-net-developer",
+  "postedAt": "2026-06-02",
+  "expiresAt": "2026-07-02"
+}
