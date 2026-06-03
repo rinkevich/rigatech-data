@@ -1,0 +1,22 @@
+{
+  "slug": "join-full-stack-staff-engineer",
+  "title": "Full stack Staff Engineer",
+  "company": "Join",
+  "companyUrl": "https://remoteok.com/join",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "staff",
+  "stack": [
+    "backend",
+    "front-end",
+    "full-stack"
+  ],
+  "summary": {
+    "lv": "Full-Stack Staff inženieris uzņēmumā Join, veidojot SaaS risinājumus būvniecības nozarei (frontend/fullstack/backend virzieni).",
+    "en": "Full-Stack Staff Engineer at Join, building SaaS solutions for the construction industry (frontend/fullstack/backend tracks)."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-full-stack-staff-engineer-join-1131413",
+  "postedAt": "2026-05-01",
+  "expiresAt": "2026-07-30"
+}
