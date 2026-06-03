@@ -1,0 +1,25 @@
+{
+  "slug": "sticker-mule-software-engineer",
+  "title": "Software engineer",
+  "company": "Sticker Mule",
+  "companyUrl": "https://remoteok.com/sticker-mule",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€10700–11500",
+  "stack": [
+    "docker",
+    "gcp",
+    "kubernetes",
+    "postgres",
+    "redis"
+  ],
+  "summary": {
+    "lv": "Programmatūras inženieris uzņēmumā Sticker Mule, veidojot komercijas platformu ar Docker/GCP/Kubernetes/Postgres steku.",
+    "en": "Software Engineer at Sticker Mule, building its commerce platform on a Docker/GCP/Kubernetes/Postgres stack."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-software-engineer-sticker-mule-1093738",
+  "postedAt": "2026-05-22",
+  "expiresAt": "2026-08-20"
+}
