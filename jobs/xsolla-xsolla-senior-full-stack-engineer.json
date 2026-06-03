@@ -1,0 +1,23 @@
+{
+  "slug": "xsolla-xsolla-senior-full-stack-engineer",
+  "title": "Xsolla Senior Full stack Engineer",
+  "company": "Xsolla",
+  "companyUrl": "https://remoteok.com/xsolla",
+  "location": "Remote · Serbia",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "golang",
+    "react",
+    "docker",
+    "kubernetes"
+  ],
+  "summary": {
+    "lv": "Senior Full-Stack inženieris uzņēmumā Xsolla, veidojot pilna cikla produktus Go/React valodās uz Docker/Kubernetes spēļu komercijai.",
+    "en": "Senior Full-Stack Engineer at Xsolla, building end-to-end products in Go/React on Docker/Kubernetes for game commerce."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-xsolla-senior-full-stack-engineer-xsolla-1131072",
+  "postedAt": "2026-04-10",
+  "expiresAt": "2026-07-09"
+}
