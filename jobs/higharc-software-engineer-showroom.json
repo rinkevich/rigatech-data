@@ -1,0 +1,23 @@
+{
+  "slug": "higharc-software-engineer-showroom",
+  "title": "Software Engineer Showroom",
+  "company": "Higharc",
+  "companyUrl": "https://remoteok.com/higharc",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "react",
+    "backend",
+    "sql",
+    "api"
+  ],
+  "summary": {
+    "lv": "Programmatūras inženieris (Showroom) uzņēmumā Higharc — VC atbalstītā jaunuzņēmumā, kas maina māju projektēšanu un būvniecību.",
+    "en": "Software Engineer (Showroom) at Higharc, a VC-backed startup changing how new homes are designed and built."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-software-engineer-showroom-higharc-1131457",
+  "postedAt": "2026-05-05",
+  "expiresAt": "2026-08-03"
+}
