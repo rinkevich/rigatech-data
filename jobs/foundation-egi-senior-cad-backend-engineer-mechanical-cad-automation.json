@@ -1,0 +1,25 @@
+{
+  "slug": "foundation-egi-senior-cad-backend-engineer-mechanical-cad-automation",
+  "title": "Senior CAD Backend Engineer Mechanical CAD Automation",
+  "company": "Foundation EGI",
+  "companyUrl": "https://remoteok.com/foundation-egi",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "python",
+    "typescript",
+    "docker",
+    "kubernetes",
+    "postgres",
+    "gcp"
+  ],
+  "summary": {
+    "lv": "Senior CAD Backend inženieris uzņēmumā Foundation EGI (MIT izcelsmes), veidojot AI kopilotu mehāniskajai projektēšanai un ražošanai.",
+    "en": "Senior CAD Backend Engineer at Foundation EGI (MIT-born), building an AI copilot for mechanical design and manufacturing."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-cad-backend-engineer-mechanical-cad-automation-foundation-egi-1131271",
+  "postedAt": "2026-04-22",
+  "expiresAt": "2026-07-21"
+}
