@@ -1,0 +1,28 @@
+{
+  "slug": "sph-engineering-sia-devops-engineer-aws",
+  "title": "DevOps Engineer (AWS)",
+  "company": "SPH Engineering, SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/sph-engineering-sia?employerId=27347",
+  "location": "Dzelzs iela 32",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500",
+  "stack": [
+    "aws",
+    "linux",
+    "docker",
+    "nginx",
+    "grafana",
+    "terraform",
+    "ansible",
+    "python"
+  ],
+  "summary": {
+    "lv": "DevOps / sistēmu administrators SPH Engineering, kas uztur AWS infrastruktūru (EC2/S3/RDS/VPC/IAM/Lambda) un Linux pakalpojumus, izmantojot Docker, Nginx, Grafana monitoringu un Terraform/Ansible, kā arī Python automatizāciju. Nepieciešama 1+ gada pieredze DevOps/mākoņu/sistēmu administrēšanā; brīva angļu valoda.",
+    "en": "DevOps / System Administrator at SPH Engineering maintaining AWS infrastructure (EC2/S3/RDS/VPC/IAM/Lambda) and Linux services, with Docker, Nginx, Grafana monitoring and Terraform/Ansible, plus Python automation. 1+ year in DevOps/Cloud/SysAdmin; fluent English."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1591168/sph-engineering-sia/devops-engineer-aws",
+  "postedAt": "2026-06-02",
+  "expiresAt": "2026-07-02"
+}
