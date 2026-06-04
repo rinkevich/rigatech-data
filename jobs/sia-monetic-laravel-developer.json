@@ -1,0 +1,25 @@
+{
+  "slug": "sia-monetic-laravel-developer",
+  "title": "Laravel Developer",
+  "company": "SIA Monetic",
+  "companyUrl": "https://fancywalls.eu",
+  "location": "Jēkabpils iela 12",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–3500",
+  "stack": [
+    "laravel",
+    "php",
+    "mysql",
+    "redis",
+    "docker"
+  ],
+  "summary": {
+    "lv": "Laravel izstrādātājs Fancy Walls iekšējai e-komercijas platformai — produktu pārvaldības, pasūtījumu un tirgus integrāciju funkciju izstrāde ar PHP, Laravel, MySQL un Redis.",
+    "en": "Laravel developer for Fancy Walls' internal ecommerce platform, building features for product management, orders and marketplace integrations with PHP, Laravel, MySQL and Redis."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1592145/sia-monetic/laravel-developer",
+  "postedAt": "2026-06-04",
+  "expiresAt": "2026-07-04"
+}
