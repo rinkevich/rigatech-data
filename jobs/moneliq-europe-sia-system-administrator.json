@@ -1,0 +1,29 @@
+{
+  "slug": "moneliq-europe-sia-system-administrator",
+  "title": "System Administrator",
+  "company": "MONELIQ EUROPE SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/moneliq-europe-sia?employerId=79413",
+  "location": "Mārupe",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–3500",
+  "stack": [
+    "linux",
+    "gitlab",
+    "terraform",
+    "nginx",
+    "ansible",
+    "zabbix",
+    "python",
+    "mysql",
+    "postgresql"
+  ],
+  "summary": {
+    "lv": "Linux sistēmu administrators fintech uzņēmumā MONELIQ Europe — 24/7 infrastruktūras uzturēšana ar GitLab, Terraform, Nginx, Ansible un Zabbix; nepieciešama 3+ gadu Linux administrēšanas pieredze.",
+    "en": "Linux system administrator at fintech company MONELIQ Europe maintaining 24/7 infrastructure with GitLab, Terraform, Nginx, Ansible and Zabbix; 3+ years of Linux administration experience required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1593252/moneliq-europe-sia/system-administrator",
+  "postedAt": "2026-06-04",
+  "expiresAt": "2026-07-04"
+}
