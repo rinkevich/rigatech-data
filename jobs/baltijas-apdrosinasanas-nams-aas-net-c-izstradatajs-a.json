@@ -1,0 +1,24 @@
+{
+  "slug": "baltijas-apdrosinasanas-nams-aas-net-c-izstradatajs-a",
+  "title": ".NET (C#) izstrādātājs/-a",
+  "company": "Baltijas Apdrošināšanas Nams AAS",
+  "companyUrl": "https://www.ban.lv",
+  "location": "Antonijas iela 23",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€1800–3000",
+  "stack": [
+    "c#",
+    ".net",
+    "sql-server",
+    "asp.net-core"
+  ],
+  "summary": {
+    "lv": "C#/.NET izstrādātājs apdrošināšanas sabiedrībā Baltijas Apdrošināšanas Nams — iekšējo sistēmu un integrāciju izstrāde un uzlabošana, darbs ar MS SQL sadarbībā ar senioriem izstrādātājiem un analītiķiem; nepieciešama praktiska C#/.NET pieredze, pieredze ar ASP.NET Core un API integrācijām būs priekšrocība.",
+    "en": "C#/.NET developer at insurer Baltijas Apdrošināšanas Nams building and improving internal systems and integrations and working with MS SQL alongside senior developers and analysts; practical C#/.NET experience required, ASP.NET Core and API integration experience a plus."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1593326/baltijas-apdrosinasanas-nams-aas/net-c-izstradatajs-a",
+  "postedAt": "2026-06-04",
+  "expiresAt": "2026-07-04"
+}
