@@ -1,0 +1,24 @@
+{
+  "slug": "coderio-senior-backend-engineer-ms050ka",
+  "title": "Senior Backend Engineer MS050KA",
+  "company": "Coderio",
+  "companyUrl": "https://remoteok.com/coderio",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "node",
+    "typescript",
+    "aws",
+    "postgres",
+    "serverless"
+  ],
+  "summary": {
+    "lv": "Senior Backend inženieris uzņēmumā Coderio, veidojot mērogojamus digitālos risinājumus globāliem uzņēmumiem ar Node/TypeScript/AWS steku.",
+    "en": "Senior Backend Engineer at Coderio, building scalable digital solutions for global companies on a Node/TypeScript/AWS stack."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-ms050ka-coderio-1131031",
+  "postedAt": "2026-04-08",
+  "expiresAt": "2026-07-07"
+}
