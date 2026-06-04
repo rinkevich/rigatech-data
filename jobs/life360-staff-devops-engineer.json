@@ -1,0 +1,22 @@
+{
+  "slug": "life360-staff-devops-engineer",
+  "title": "Staff DevOps Engineer",
+  "company": "Life360",
+  "companyUrl": "https://remoteok.com/life360",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "staff",
+  "stack": [
+    "kubernetes",
+    "devops",
+    "data-engineering"
+  ],
+  "summary": {
+    "lv": "Staff DevOps inženieris uzņēmumā Life360, uzturot Kubernetes un lielo datu infrastruktūru tā ģimenes drošības mobilajai platformai.",
+    "en": "Staff DevOps Engineer at Life360, running Kubernetes and big-data infrastructure for its family-safety mobile platform."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-staff-devops-engineer-life360-1130783",
+  "postedAt": "2026-03-14",
+  "expiresAt": "2026-06-12"
+}
