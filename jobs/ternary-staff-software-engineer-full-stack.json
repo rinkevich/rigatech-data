@@ -1,0 +1,24 @@
+{
+  "slug": "ternary-staff-software-engineer-full-stack",
+  "title": "Staff Software Engineer Full Stack",
+  "company": "Ternary",
+  "companyUrl": "https://remoteok.com/ternary",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "staff",
+  "salaryRange": "€15300–19200",
+  "stack": [
+    "golang",
+    "react",
+    "postgres",
+    "backend"
+  ],
+  "summary": {
+    "lv": "Staff Full-Stack programmatūras inženieris uzņēmumā Ternary, veidojot mākoņa/SaaS izmaksu pārredzamības un optimizācijas platformu ar Go/React steku.",
+    "en": "Staff Full-Stack Software Engineer at Ternary, building a cloud/SaaS cost-visibility and optimization platform on a Go/React stack."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-staff-software-engineer-full-stack-ternary-1131066",
+  "postedAt": "2026-04-10",
+  "expiresAt": "2026-07-09"
+}
