@@ -1,0 +1,24 @@
+{
+  "slug": "zipdev-tech-lead",
+  "title": "Tech Lead",
+  "company": "Zipdev",
+  "companyUrl": "https://remoteok.com/zipdev",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "lead",
+  "stack": [
+    "php",
+    "typescript",
+    "vue",
+    "elasticsearch",
+    "rabbitmq"
+  ],
+  "summary": {
+    "lv": "Tehniskais vadītājs uzņēmumā Zipdev (klients: influenceru mārketinga platforma), vadot PHP/TypeScript/Vue steku, kas apstrādā kampaņas un maksājumus.",
+    "en": "Tech Lead at Zipdev (client: an influencer-marketing platform), leading a PHP/TypeScript/Vue stack handling campaigns and payments."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-tech-lead-zipdev-1130856",
+  "postedAt": "2026-03-21",
+  "expiresAt": "2026-06-19"
+}
