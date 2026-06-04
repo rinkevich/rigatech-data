@@ -1,0 +1,22 @@
+{
+  "slug": "cast-ai-senior-software-engineer-karpenter",
+  "title": "Senior Software Engineer Karpenter",
+  "company": "Cast AI",
+  "companyUrl": "https://remoteok.com/cast-ai",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "kubernetes",
+    "golang",
+    "cloud"
+  ],
+  "summary": {
+    "lv": "Senior programmatūras inženieris (Karpenter) uzņēmumā Cast AI, veidojot Kubernetes autoskalēšanu/optimizāciju (Karpenter) mākoņa infrastruktūrai.",
+    "en": "Senior Software Engineer (Karpenter) at Cast AI, building Kubernetes autoscaling/optimization (Karpenter) for cloud-native infrastructure."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-karpenter-cast-ai-1130741",
+  "postedAt": "2026-03-12",
+  "expiresAt": "2026-06-10"
+}
