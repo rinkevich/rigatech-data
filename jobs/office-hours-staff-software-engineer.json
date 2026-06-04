@@ -1,0 +1,23 @@
+{
+  "slug": "office-hours-staff-software-engineer",
+  "title": "Staff Software Engineer",
+  "company": "Office Hours",
+  "companyUrl": "https://remoteok.com/office-hours",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "staff",
+  "salaryRange": "€17200–19200",
+  "stack": [
+    "backend",
+    "front-end",
+    "full-stack"
+  ],
+  "summary": {
+    "lv": "Staff programmatūras inženieris uzņēmumā Office Hours, veidojot pēc pieprasījuma ekspertu tīkla platformu (full-stack).",
+    "en": "Staff Software Engineer at Office Hours, building an on-demand expert-network platform (full-stack)."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-staff-software-engineer-office-hours-1130769",
+  "postedAt": "2026-03-14",
+  "expiresAt": "2026-06-12"
+}
