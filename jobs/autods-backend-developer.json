@@ -1,0 +1,23 @@
+{
+  "slug": "autods-backend-developer",
+  "title": "Backend Developer",
+  "company": "AutoDS",
+  "companyUrl": "https://remoteok.com/autods",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "python",
+    "sql",
+    "api",
+    "backend"
+  ],
+  "summary": {
+    "lv": "Backend izstrādātājs uzņēmumā AutoDS (iegādājies Fiverr), veidojot rīkus tiešsaistes e-komercijas pārdevējiem ar Python/SQL steku.",
+    "en": "Backend Developer at AutoDS (acquired by Fiverr), building tools that empower online e-commerce sellers, on a Python/SQL stack."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-backend-developer-autods-1130651",
+  "postedAt": "2026-03-06",
+  "expiresAt": "2026-06-04"
+}
