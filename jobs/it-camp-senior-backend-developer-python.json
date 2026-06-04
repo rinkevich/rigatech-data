@@ -1,0 +1,27 @@
+{
+  "slug": "it-camp-senior-backend-developer-python",
+  "title": "Senior backend developer (Python)",
+  "company": "IT Camp",
+  "companyUrl": "https://cv.lv/lv/search/employer/it-camp?employerId=26805",
+  "location": "VERDE",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4500–6000",
+  "stack": [
+    "python",
+    "django",
+    "flask",
+    "rest",
+    "microservices",
+    "docker",
+    "elasticsearch"
+  ],
+  "summary": {
+    "lv": "Vecākais Python aizmugursistēmas izstrādātājs starptautiskā maksājumu/fintech uzņēmumā (atlasi veic IT Camp) — maksājumu vārteju un integrāciju izstrāde ar mikroservisu, notikumu vadītu arhitektūru un REST API; nepieciešama 5+ gadu backend un 3+ gadu Python pieredze.",
+    "en": "Senior Python backend developer at an international payments/fintech company (hiring via IT Camp), building payment gateways and integrations with external payment providers using microservices, event-driven architecture and REST APIs; 5+ years of backend and 3+ years of Python experience required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1593333/it-camp/senior-backend-developer-python",
+  "postedAt": "2026-06-04",
+  "expiresAt": "2026-07-04"
+}
