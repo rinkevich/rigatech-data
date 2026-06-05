@@ -1,0 +1,24 @@
+{
+  "slug": "visam-latvia-sia-middle-frontend-developer",
+  "title": "Middle Frontend Developer",
+  "company": "Visam Latvia SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/visam-latvia-sia?employerId=76801",
+  "location": "Vesetas iela 7",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€1800–2500",
+  "stack": [
+    "typescript",
+    "react",
+    "nextjs",
+    "nodejs"
+  ],
+  "summary": {
+    "lv": "Vidējā līmeņa frontend izstrādātājs Visam Latvia — darbs ar React/Next.js kodu bāzi modernai tīmekļa platformai ar iespēju izaugt par full stack izstrādātāju; nepieciešama 2+ gadu TypeScript (Next.js, Node.js, React) pieredze.",
+    "en": "Mid-level frontend developer at Visam Latvia working on a React/Next.js codebase for a modern web platform, with a path to grow into full stack; 2+ years of TypeScript (Next.js, Node.js, React) experience required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1593736/visam-latvia-sia/middle-frontend-developer",
+  "postedAt": "2026-06-05",
+  "expiresAt": "2026-07-05"
+}
