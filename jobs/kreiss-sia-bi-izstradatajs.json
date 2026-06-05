@@ -1,0 +1,24 @@
+{
+  "slug": "kreiss-sia-bi-izstradatajs",
+  "title": "BI izstrādātājs",
+  "company": "KREISS SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/kreiss-sia?employerId=28953",
+  "location": "Bērzlapas 5, Mārupe",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2800",
+  "stack": [
+    "power-bi",
+    "sql",
+    "microsoft-fabric",
+    "azure"
+  ],
+  "summary": {
+    "lv": "BI izstrādātājs loģistikas uzņēmumā Kreiss — biznesa datu pārvaldības sistēmas ieviešana un uzlabošana, analītisko atskaišu izstrāde Power BI vidē un datu arhitektūras projektēšana Microsoft Fabric platformā; nepieciešama 3+ gadu biznesa datu analītiķa pieredze un SQL (T-SQL) zināšanas.",
+    "en": "BI developer at logistics company Kreiss implementing and improving the business data management system, building analytical reports in Power BI and designing data architecture on Microsoft Fabric; 3+ years as a business data analyst and SQL (T-SQL) skills required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1593528/kreiss-sia/bi-izstradatajs",
+  "postedAt": "2026-06-05",
+  "expiresAt": "2026-07-05"
+}
