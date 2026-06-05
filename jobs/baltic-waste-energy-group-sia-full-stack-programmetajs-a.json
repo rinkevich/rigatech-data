@@ -1,0 +1,26 @@
+{
+  "slug": "baltic-waste-energy-group-sia-full-stack-programmetajs-a",
+  "title": "Full stack programmētājs / -a",
+  "company": "Baltic Waste & Energy Group SIA",
+  "companyUrl": "https://www.bweg.eu",
+  "location": "Latgales iela 257",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–4500",
+  "stack": [
+    "php",
+    "laravel",
+    "mariadb",
+    "postgresql",
+    "redis",
+    "docker"
+  ],
+  "summary": {
+    "lv": "Full-stack programmētājs Baltic Waste & Energy Group — iekšējo informācijas sistēmu izstrāde un integrācija ar PHP/Laravel, MariaDB/PostgreSQL, Redis, Docker un REST API Agile/Scrum vidē; nepieciešama 5+ gadu pieredze.",
+    "en": "Full-stack developer at Baltic Waste & Energy Group building and integrating internal information systems with PHP/Laravel, MariaDB/PostgreSQL, Redis, Docker and REST APIs in an Agile/Scrum environment; 5+ years of experience required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1594010/baltic-waste-un-energy-group-sia/full-stack-programmetajs-a",
+  "postedAt": "2026-06-05",
+  "expiresAt": "2026-07-05"
+}
