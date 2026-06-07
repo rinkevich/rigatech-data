@@ -1,0 +1,18 @@
+{
+  "slug": "clutch-senior-ml-engineer",
+  "title": "Senior ML Engineer",
+  "company": "Clutch",
+  "companyUrl": "https://remoteok.com/clutch",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": ["python", "machine-learning", "llm", "docker", "serverless", "typescript"],
+  "summary": {
+    "en": "Senior ML Engineer at Clutch owning production ML and AI-agent systems — taking models from prototype to production and building the low-latency ML API behind its Next Best Action engine for credit unions.",
+    "lv": "Vecākais ML inženieris uzņēmumā Clutch, kas atbild par produkcijas ML un AI aģentu sistēmām — modeļu izstrāde no prototipa līdz produkcijai un zema latentuma ML API izveide, kas darbina “Next Best Action” dzinēju kredītapvienībām."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-ml-engineer-clutch-1132963",
+  "postedAt": "2026-06-07",
+  "expiresAt": "2026-09-05"
+}
