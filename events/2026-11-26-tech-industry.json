@@ -1,0 +1,20 @@
+{
+  "slug": "2026-11-26-tech-industry",
+  "title": {
+    "en": "Tech Industry 2026",
+    "lv": "Tech Industry 2026"
+  },
+  "date": "2026-11-26",
+  "endDate": "2026-11-28",
+  "location": "Rīga",
+  "venue": "Ķīpsala International Exhibition Centre",
+  "url": "https://www.techindustry.lv",
+  "organizer": "SIA BT 1",
+  "kind": "other",
+  "techTags": ["manufacturing", "mechanical-engineering", "metalworking", "automation", "robotics", "electronics"],
+  "audienceTags": ["engineers", "operators", "executives"],
+  "summary": {
+    "en": "The Baltics' largest international industrial trade fair for mechanical engineering, metalworking, automation, robotics, electronics, electrical engineering, tooling and emerging manufacturing technologies — three days at Ķīpsala with a large international B2B contact exchange to promote exports.",
+    "lv": "Baltijā lielākā starptautiskā mašīnbūves, metālapstrādes, automatizācijas, robotikas, elektronikas, elektrotehnikas, instrumentu un jauno ražošanas tehnoloģiju izstāde — trīs dienas Ķīpsalā ar vērienīgu starptautisku B2B kontaktbiržu eksporta veicināšanai."
+  }
+}
