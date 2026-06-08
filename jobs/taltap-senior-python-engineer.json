@@ -1,0 +1,25 @@
+{
+  "slug": "taltap-senior-python-engineer",
+  "title": "Senior Python Engineer",
+  "company": "TalTap",
+  "companyUrl": "https://cv.lv/lv/search/employer/taltap?employerId=76314",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–5500",
+  "stack": [
+    "python",
+    "flask",
+    "fastapi",
+    "firebase",
+    "gcp"
+  ],
+  "summary": {
+    "lv": "TalTap meklē vecāko Python inženieri, kas projektēs un uzturēs platformas aizmugursistēmu ar Flask un FastAPI, balstoties uz Firebase un Google Cloud.",
+    "en": "TalTap is hiring a Senior Python Engineer to architect and maintain the platform backend with Flask and FastAPI on Firebase and Google Cloud Platform."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1595127/taltap/senior-python-engineer",
+  "postedAt": "2026-06-08",
+  "expiresAt": "2026-07-08"
+}
