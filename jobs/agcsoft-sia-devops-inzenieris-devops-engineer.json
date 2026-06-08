@@ -1,0 +1,26 @@
+{
+  "slug": "agcsoft-sia-devops-inzenieris-devops-engineer",
+  "title": "DevOps inženieris / DevOps Engineer",
+  "company": "AGCSOFT SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/agcsoft-sia?employerId=66129",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€5000–7200",
+  "stack": [
+    "kubernetes",
+    "docker",
+    "linux",
+    "ansible",
+    "terraform",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "AGCSOFT meklē DevOps inženieri, kas konfigurēs un administrēs mākoņplatformas, uzstādīs CI/CD plūsmas un ieviesīs «infrastruktūra kā kods» principus ar Kubernetes, Docker, Ansible un Terraform.",
+    "en": "AGCSOFT is hiring a DevOps Engineer to configure and administer public-cloud platforms, set up CI/CD pipelines and implement Infrastructure-as-Code with Kubernetes, Docker, Ansible and Terraform."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1594232/agcsoft-sia/devops-inzenieris-devops-engineer",
+  "postedAt": "2026-06-08",
+  "expiresAt": "2026-07-08"
+}
