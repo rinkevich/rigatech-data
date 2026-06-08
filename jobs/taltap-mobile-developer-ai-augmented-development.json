@@ -1,0 +1,25 @@
+{
+  "slug": "taltap-mobile-developer-ai-augmented-development",
+  "title": "Mobile Developer — AI-Augmented Development",
+  "company": "TalTap",
+  "companyUrl": "https://cv.lv/lv/search/employer/taltap?employerId=76314",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–5000",
+  "stack": [
+    "flutter",
+    "dart",
+    "firebase",
+    "bloc",
+    "rest-api"
+  ],
+  "summary": {
+    "lv": "TalTap meklē mobilo izstrādātāju, kas uztur un paplašina produkcijā strādājošu Flutter lietotni un izmanto AI rīkus kā ikdienas darba sastāvdaļu.",
+    "en": "TalTap is hiring a Mobile Developer to maintain and extend its production Flutter app (Firebase, REST, Bloc) using AI-assisted development as a core part of the workflow."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1595160/taltap/mobile-developer-ai-augmented-development",
+  "postedAt": "2026-06-08",
+  "expiresAt": "2026-07-08"
+}
