@@ -1,0 +1,28 @@
+{
+  "slug": "latvijas-dzelzcels-vas-vecakais-a-is-programmetajs-a-full-stack-programmetajs-a",
+  "title": "Vecākais/-ā IS programmētājs/-a (full-stack programmētājs/-a)",
+  "company": "Latvijas dzelzceļš, VAS",
+  "companyUrl": "https://www.ldz.lv/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3300–4000",
+  "stack": [
+    "c#",
+    ".net",
+    "java",
+    "vue.js",
+    "postgresql",
+    "mssql",
+    "jenkins",
+    "gitlab"
+  ],
+  "summary": {
+    "lv": "Latvijas dzelzceļš meklē vecāko IS programmētāju (full-stack) ar vismaz 5 gadu WEB izstrādes pieredzi, kas strādās ar .NET (C#), Java, Vue.js, PostgreSQL/MSSQL un CI/CD (Jenkins, GitLab).",
+    "en": "Latvijas dzelzceļš is hiring a Senior IS Developer (full-stack) with 5+ years of web development to work with .NET (C#), Java, Vue.js, PostgreSQL/MSSQL and CI/CD (Jenkins, GitLab)."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1594265/latvijas-dzelzcels-vas/vecakais-a-is-programmetajs-a-full-stack-programmetajs-a",
+  "postedAt": "2026-06-08",
+  "expiresAt": "2026-07-07"
+}
