@@ -1,0 +1,21 @@
+{
+  "slug": "2026-10-08-riga-comm",
+  "title": {
+    "en": "RIGA COMM 2026",
+    "lv": "RIGA COMM 2026"
+  },
+  "date": "2026-10-08",
+  "endDate": "2026-10-09",
+  "location": "Rīga",
+  "venue": "Ķīpsala International Exhibition Centre",
+  "url": "https://rigacomm.com/en",
+  "organizer": "SIA BT 1",
+  "kind": "conference",
+  "techTags": ["fintech", "ai", "machine-learning", "cybersecurity", "ecommerce", "digital-marketing", "hr-tech", "cloud"],
+  "audienceTags": ["founders", "executives", "engineers", "marketers"],
+  "summary": {
+    "en": "The 15th edition of the Baltics' largest business technology fair and conference — 10+ conference tracks across 6+ stages (Fintech, AI & Machine Learning, Cybersecurity, Digital Marketing, E-commerce, HR Tech, Women in Tech, CEO & CTO Talks) alongside a tech expo and B2B meeting area for entrepreneurs, executives and IT professionals.",
+    "lv": "Baltijas lielākās biznesa tehnoloģiju izstādes un konferences 15. izdevums — 10+ konferenču tēmas uz 6+ skatuvēm (fintech, mākslīgais intelekts un mašīnmācīšanās, kiberdrošība, digitālais mārketings, e-komercija, HR tehnoloģijas, Women in Tech, CEO & CTO sarunas) līdztekus tehnoloģiju ekspozīcijai un B2B kontaktu zonai uzņēmējiem, vadītājiem un IT speciālistiem."
+  },
+  "image": "https://rigacomm.com/wp-content/uploads/2025/10/RC26-CMYK-inv-WEB_cropped.png"
+}
