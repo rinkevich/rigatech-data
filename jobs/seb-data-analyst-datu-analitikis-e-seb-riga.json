@@ -1,0 +1,23 @@
+{
+  "slug": "seb-data-analyst-datu-analitikis-e-seb-riga",
+  "title": "Data Analyst/ Datu analītiķis/-e | SEB, Riga",
+  "company": "SEB",
+  "companyUrl": "https://cv.lv/lv/search/employer/seb?employerId=29307",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2750–4000",
+  "stack": [
+    "sql",
+    "mssql",
+    "python"
+  ],
+  "summary": {
+    "lv": "SEB meklē datu analītiķi naudas atmazgāšanas novēršanas (AML) jomā, kas veidos pārraudzības risinājumus un atskaites, izmantojot SQL/MSSQL un Python.",
+    "en": "SEB is hiring a Data Analyst in Anti-Money-Laundering to build monitoring solutions and reports using SQL/MSSQL and Python."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1595264/seb/data-analyst-datu-analitikis-e-vai-seb-riga",
+  "postedAt": "2026-06-08",
+  "expiresAt": "2026-07-08"
+}
