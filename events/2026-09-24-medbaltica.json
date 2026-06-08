@@ -1,0 +1,20 @@
+{
+  "slug": "2026-09-24-medbaltica",
+  "title": {
+    "en": "MedBaltica 2026",
+    "lv": "Medbaltica 2026"
+  },
+  "date": "2026-09-24",
+  "endDate": "2026-09-25",
+  "location": "Rīga",
+  "venue": "Ķīpsala International Exhibition Centre",
+  "url": "https://www.bt1.lv/medbaltica/",
+  "organizer": "SIA BT 1",
+  "kind": "other",
+  "techTags": ["medtech", "healthtech", "pharma", "dentistry", "rehabilitation", "medical-devices"],
+  "audienceTags": ["healthcare-professionals", "researchers", "executives"],
+  "summary": {
+    "en": "The 19th edition of the Baltics' leading medical exhibition, gathering health-sector specialists, professional associations and medical-device manufacturers from Latvia and abroad. Covers pharmacy, medical technologies, healthcare, rehabilitation and dental equipment, with a two-day programme of seminars and conferences on the latest medtech.",
+    "lv": "Baltijā nozīmīgākās medicīnas izstādes 19. izdevums, kas vienkopus pulcē veselības nozaru speciālistus, profesionālās biedrības un medicīnas preču ražotājus no Latvijas un ārvalstīm. Aptver farmāciju, medicīnas tehnoloģijas, veselības aprūpi, rehabilitāciju un zobārstniecības iekārtas, ar divu dienu semināru un konferenču programmu par jaunākajām medicīnas tehnoloģijām."
+  }
+}
