@@ -1,0 +1,18 @@
+{
+  "slug": "docker-staff-software-engineer-infrastructure",
+  "title": "Staff Software Engineer Infrastructure",
+  "company": "Docker",
+  "companyUrl": "https://remoteok.com/docker",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "staff",
+  "stack": ["golang", "docker", "linux", "grafana", "cloud", "backend"],
+  "summary": {
+    "lv": "Staff līmeņa infrastruktūras inženiera loma uzņēmumā Docker — izstrādātāju rīku kompānijā aiz Docker Desktop, Hub un Scout. Tu veidotu un mērogotu attālināto platformu, kas apkalpo simtiem inženieru un iztur liela apjoma produkcijas slodzi Docker produktiem un AI aģentu darbplūsmām.",
+    "en": "Staff-level infrastructure engineer at Docker — the developer-tooling company behind Docker Desktop, Hub, and Scout — building and scaling the remote-first platform that supports hundreds of engineers and carries high-scale production traffic across Docker's products and AI-agent workflows."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-staff-software-engineer-infrastructure-docker-1133025",
+  "postedAt": "2026-06-08",
+  "expiresAt": "2026-09-06"
+}
