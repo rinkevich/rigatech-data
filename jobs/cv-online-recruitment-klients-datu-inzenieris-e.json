@@ -1,0 +1,19 @@
+{
+  "slug": "cv-online-recruitment-klients-datu-inzenieris-e",
+  "title": "Datu inženieris/-e",
+  "company": "CV-Online Recruitment klients",
+  "companyUrl": "https://cv.lv/lv/search/employer/cv-online-recruitment-klients?employerId=29122",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3800–4000",
+  "stack": ["sql", "python", "power bi", "microsoft fabric", "etl"],
+  "summary": {
+    "lv": "Datu inženiera amats, kurā jāveido un jāuztur ETL datu plūsmas un datu modeļi (SQL, Python, Power BI, Microsoft Fabric) uzņēmuma analītikas vajadzībām, nodrošinot datu kvalitāti un automatizāciju.",
+    "en": "A data engineer role building and maintaining ETL pipelines and data models (SQL, Python, Power BI, Microsoft Fabric) for company analytics, with a focus on data quality and automation."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1595660/cv-online-recruitment-klients/datu-inzenieris-e",
+  "postedAt": "2026-06-09",
+  "expiresAt": "2026-06-23"
+}
