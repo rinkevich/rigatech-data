@@ -1,0 +1,24 @@
+{
+  "slug": "eleving-consumer-finance-as-senior-test-automation-engineer",
+  "title": "Senior Test Automation Engineer",
+  "company": "Eleving Consumer Finance AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/eleving-consumer-finance-as?employerId=65857",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–4500",
+  "stack": [
+    "playwright",
+    "typescript",
+    "ci/cd",
+    "api"
+  ],
+  "summary": {
+    "lv": "Senior Test Automation inženiera amats Eleving fintech organizācijā, projektējot un uzturot automatizēto testu komplektus ar Playwright (TypeScript), CI/CD integrāciju un AI rīkiem, kā arī mentorējot komandu.",
+    "en": "A Senior Test Automation Engineer role at Eleving fintech designing and maintaining automated test suites with Playwright (TypeScript), CI/CD integration and AI tooling, and mentoring the team."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1596014/eleving-consumer-finance-as/senior-test-automation-engineer",
+  "postedAt": "2026-06-09",
+  "expiresAt": "2026-07-09"
+}
