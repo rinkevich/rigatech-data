@@ -1,0 +1,27 @@
+{
+  "slug": "2026-06-18-database-focused-154th-devclub-lv",
+  "title": {
+    "en": "Database focused 154th DevClub.lv",
+    "lv": "Datubāzēm veltīts 154. DevClub.lv"
+  },
+  "date": "2026-06-18",
+  "location": "Rīga",
+  "venue": "Accenture, Brīvības gatve 214",
+  "url": "https://www.eventbrite.com/e/database-focused-154th-devclublv-registration-1990946677106",
+  "organizer": "DevClub.lv",
+  "kind": "meetup",
+  "techTags": [
+    "databases",
+    "postgresql",
+    "mysql"
+  ],
+  "audienceTags": [
+    "engineers",
+    "developers"
+  ],
+  "summary": {
+    "en": "The 154th DevClub.lv developer meetup, an evening on modern database engineering: reading PostgreSQL execution plans, what's new in MySQL 9.7, and real-world MySQL corruption troubleshooting and recovery from production. Hosted at Accenture's Riga office.",
+    "lv": "154. DevClub.lv izstrādātāju tikšanās, kas veltīta mūsdienu datubāzu inženierijai: PostgreSQL izpildes plānu lasīšana, jaunumi MySQL 9.7 versijā un reālu MySQL datu bojājumu novēršana un atjaunošana produkcijas vidē. Norises vieta — Accenture birojs Rīgā."
+  },
+  "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186044109%2F33330097863%2F1%2Foriginal.20260603-101131?w=1880&auto=format%2Ccompress&q=75&sharp=10&s=6b75d408af4cf175e62aba76039b57f7"
+}
