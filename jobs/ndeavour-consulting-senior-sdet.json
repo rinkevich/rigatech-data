@@ -1,0 +1,24 @@
+{
+  "slug": "ndeavour-consulting-senior-sdet",
+  "title": "Senior SDET",
+  "company": "NDEAVOUR CONSULTING",
+  "companyUrl": "https://remoteok.com/ndeavour-consulting",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "playwright",
+    "api",
+    "microservices",
+    "typescript",
+    "java"
+  ],
+  "summary": {
+    "lv": "Vecākā SDET (programmatūras testēšanas izstrādes inženiera) loma, kas darbojas kā kvalitātes īpašnieks mikroservisu ekosistēmai — no nulles veido automatizācijas ietvarus ar Playwright API un UI testēšanai un pārbauda AI ģenerētā koda kvalitāti.",
+    "en": "A Senior Software Development Engineer in Test role acting as quality owner for a microservice ecosystem — designing the test strategy and building automation frameworks from scratch with Playwright for API and UI testing, including validating the quality of AI-generated code."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-sdet-ndeavour-consulting-1133163",
+  "postedAt": "2026-06-10",
+  "expiresAt": "2026-09-08"
+}
