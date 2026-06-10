@@ -1,0 +1,26 @@
+{
+  "slug": "latvijas-valsts-radio-un-televizijas-centrs-vas-vecakais-a-makondatosanas-inzeni",
+  "title": "Vecākais/-ā mākoņdatošanas inženieris/-e",
+  "company": "Latvijas Valsts radio un televīzijas centrs VAS",
+  "companyUrl": "https://cv.lv/lv/search/employer/latvijas-valsts-radio-un-televizijas-centrs-vas?employerId=25121",
+  "location": "Zemitāna iela 9 k-3,",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3200–3600",
+  "stack": [
+    "kubernetes",
+    "vmware",
+    "nutanix",
+    "windows",
+    "linux",
+    "hci"
+  ],
+  "summary": {
+    "lv": "Vecākā mākoņdatošanas inženiera amats Latvijas Valsts radio un televīzijas centrā, administrējot un uzturot virtualizācijas (VMware, Nutanix HCI) un konteinerizācijas (Kubernetes) infrastruktūru valstiski nozīmīgiem projektiem.",
+    "en": "A Senior Cloud Engineer role at LVRTC administering and maintaining virtualization (VMware, Nutanix HCI) and container orchestration (Kubernetes) infrastructure for nationally significant projects."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1596990/latvijas-valsts-radio-un-televizijas-centrs-vas/vecakais-a-makondatosanas-inzenieris-e",
+  "postedAt": "2026-06-10",
+  "expiresAt": "2026-07-01"
+}
