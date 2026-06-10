@@ -1,0 +1,29 @@
+{
+  "slug": "it-camp-ai-full-stack-engineer-with-node-js-aws",
+  "title": "AI Full-Stack Engineer (with Node.js / AWS)",
+  "company": "IT Camp",
+  "companyUrl": "https://cv.lv/lv/search/employer/it-camp?employerId=26805",
+  "location": "Rīga",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€5800–7000",
+  "stack": [
+    "node.js",
+    "aws",
+    "lambda",
+    "postgresql",
+    "kubernetes",
+    "react",
+    "typescript",
+    "rest-api",
+    "llm"
+  ],
+  "summary": {
+    "lv": "Senior AI Full-Stack inženiera amats IT Camp fintech partneruzņēmumā, veidojot AI risinājumus no sākuma līdz galam (AI konveijeri, RAG/aģentu plūsmas) ar Node.js backend un AWS serverless infrastruktūru.",
+    "en": "A Senior AI Full-Stack Engineer role at an IT Camp fintech partner building AI solutions end-to-end (AI pipelines, RAG/agent workflows) with a Node.js backend and AWS serverless infrastructure."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1596709/it-camp/ai-full-stack-engineer-with-node-js-aws",
+  "postedAt": "2026-06-10",
+  "expiresAt": "2026-07-10"
+}
