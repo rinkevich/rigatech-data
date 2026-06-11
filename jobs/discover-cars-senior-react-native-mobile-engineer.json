@@ -1,0 +1,27 @@
+{
+  "slug": "discover-cars-senior-react-native-mobile-engineer",
+  "title": "Senior React Native Mobile Engineer",
+  "company": "Discover Cars",
+  "companyUrl": "https://www.discovercars.com",
+  "location": "Kārļa Ulmaņa gatve 2",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–6000",
+  "stack": [
+    "react-native",
+    "typescript",
+    "swift",
+    "kotlin",
+    "redux",
+    "zustand",
+    "firebase"
+  ],
+  "summary": {
+    "lv": "DiscoverCars.com — globāls auto nomas rezervāciju portāls — meklē vecāko React Native mobilo inženieri, kas izstrādās iOS un Android lietotnes (React Native, TypeScript, native Swift/Kotlin) hibrīda režīmā Rīgā.",
+    "en": "DiscoverCars.com — a global car-rental marketplace — is hiring a Senior React Native Mobile Engineer to build its iOS and Android apps (React Native, TypeScript, native Swift/Kotlin) in hybrid mode in Riga."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1597795/discover-cars/senior-react-native-mobile-engineer",
+  "postedAt": "2026-06-11",
+  "expiresAt": "2026-07-11"
+}
