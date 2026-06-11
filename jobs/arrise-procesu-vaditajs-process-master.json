@@ -1,0 +1,25 @@
+{
+  "slug": "arrise-procesu-vaditajs-process-master",
+  "title": "Procesu vadītājs (Process Master)",
+  "company": "ARRISE",
+  "companyUrl": "https://cv.lv/lv/search/employer/arrise?employerId=74985",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3300–4400",
+  "stack": [
+    "jira",
+    "confluence",
+    "scriptrunner",
+    "jira-service-management",
+    "eazybi"
+  ],
+  "summary": {
+    "lv": "ARRISE meklē Procesu vadītāju (Process Master) Live Casino produkta komandai, kas izstrādās un automatizēs piegādes procesus, administrēs Jira Cloud (workflows, ScriptRunner, automatizācijas) un uzturēs Confluence dokumentāciju (hibrīds Rīgā).",
+    "en": "ARRISE is hiring a Process Master for its Live Casino product team to design and automate delivery processes, administer Jira Cloud (workflows, ScriptRunner, automation) and maintain Confluence documentation (hybrid in Riga)."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1597699/arrise/procesu-vaditajs-process-master",
+  "postedAt": "2026-06-11",
+  "expiresAt": "2026-07-11"
+}
