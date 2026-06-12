@@ -1,0 +1,29 @@
+{
+  "slug": "arlietu-ministrija-informaciju-sistemu-adrministrators-e",
+  "title": "Informāciju sistēmu adrministrators/-e",
+  "company": "Ārlietu ministrija",
+  "companyUrl": "https://cv.lv/lv/search/employer/arlietu-ministrija?employerId=25870",
+  "location": "K. Valdemāra iela 3, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "hyper-v",
+    "windows-server",
+    "active-directory",
+    "ms-exchange",
+    "ms-sql",
+    "scom",
+    "zabbix",
+    "elastic",
+    "tcp-ip"
+  ],
+  "summary": {
+    "lv": "Ārlietu ministrijas IT departaments meklē informācijas sistēmu administratoru (5+ gadu pieredze) ar padziļinātām Microsoft on-premise zināšanām — Hyper-V klasteri, Active Directory, MS Exchange, MS SQL, SCOM/Zabbix monitorings; €2399 pārbaudes laikā, līdz €4514 pēc tā.",
+    "en": "The IT department of Latvia's Ministry of Foreign Affairs is hiring an Information Systems Administrator (5+ years of experience) with deep Microsoft on-premise expertise — Hyper-V clusters, Active Directory, MS Exchange, MS SQL, SCOM/Zabbix monitoring; €2399 during probation, up to €4514 after."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1599091/arlietu-ministrija/informaciju-sistemu-adrministrators-e",
+  "postedAt": "2026-06-12",
+  "salaryRange": "€2399–4514",
+  "expiresAt": "2026-07-12"
+}
