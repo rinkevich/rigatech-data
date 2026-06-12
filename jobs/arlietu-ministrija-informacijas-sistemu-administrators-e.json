@@ -1,0 +1,31 @@
+{
+  "slug": "arlietu-ministrija-informacijas-sistemu-administrators-e",
+  "title": "Informācijas sistēmu administrators/-e",
+  "company": "Ārlietu ministrija",
+  "companyUrl": "https://cv.lv/lv/search/employer/arlietu-ministrija?employerId=25870",
+  "location": "K. Valdemāra iela 3, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "networking",
+    "tcp-ip",
+    "firewalls",
+    "routing",
+    "ospf",
+    "bgp",
+    "vpn",
+    "zabbix",
+    "elastic",
+    "wireshark",
+    "netflow"
+  ],
+  "summary": {
+    "lv": "Ārlietu ministrijas IT departaments meklē informācijas sistēmu administratoru (5+ gadu pieredze) globālas informācijas sistēmas tīkla infrastruktūras uzturēšanai — ugunsmūri, maršrutētāji, OSPF/BGP, VPN, Zabbix/Elastic, Wireshark; €2399 pārbaudes laikā, līdz €4514 pēc tā.",
+    "en": "The IT department of Latvia's Ministry of Foreign Affairs is hiring an Information Systems Administrator (5+ years of experience) to run the network infrastructure of a global information system — firewalls, routers, OSPF/BGP, VPN, Zabbix/Elastic, Wireshark; €2399 during probation, up to €4514 after."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1599076/arlietu-ministrija/informacijas-sistemu-administrators-e",
+  "postedAt": "2026-06-12",
+  "salaryRange": "€2399–4514",
+  "expiresAt": "2026-07-12"
+}
