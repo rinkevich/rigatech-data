@@ -1,0 +1,32 @@
+{
+  "slug": "prodimpekss-logistikas-grupa-sia-sistemu-administrators-e",
+  "title": "Sistēmu administrators/-e",
+  "company": "Prodimpekss Loģistikas Grupa SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/prodimpekss-logistikas-grupa-sia?employerId=27621",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "windows-server",
+    "linux",
+    "vmware-esxi",
+    "active-directory",
+    "sftp",
+    "vlan",
+    "vpn",
+    "firewalls",
+    "powershell",
+    "bash",
+    "veeam",
+    "nagios"
+  ],
+  "summary": {
+    "lv": "Prodimpekss Loģistikas Grupa meklē sistēmu administratoru (2+ gadu pieredze) Windows/Linux serveru, VMware ESXi, Active Directory un tīkla infrastruktūras (VLAN, VPN, ugunsmūri) uzturēšanai loģistikas uzņēmumā Rīgā.",
+    "en": "Prodimpekss Logistics Group is hiring a System Administrator (2+ years of experience) to run Windows/Linux servers, VMware ESXi, Active Directory and network infrastructure (VLAN, VPN, firewalls) at a logistics company in Riga."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1599029/prodimpekss-logistikas-grupa-sia/sistemu-administrators-e",
+  "postedAt": "2026-06-12",
+  "salaryRange": "€2500",
+  "expiresAt": "2026-07-12"
+}
