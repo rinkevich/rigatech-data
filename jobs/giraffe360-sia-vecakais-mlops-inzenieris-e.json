@@ -1,0 +1,36 @@
+{
+  "slug": "giraffe360-sia-vecakais-mlops-inzenieris-e",
+  "title": "Vecākais MLOps inženieris/-e",
+  "company": "Giraffe360 SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/giraffe360-sia?employerId=26886",
+  "location": "Zaļā iela 1, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "python",
+    "linux",
+    "git",
+    "pytorch",
+    "pytorch-lightning",
+    "clearml",
+    "lakefs",
+    "onnx",
+    "docker",
+    "ansible",
+    "s3",
+    "ci-cd",
+    "nvidia-triton",
+    "kubernetes",
+    "cuda",
+    "tensorrt"
+  ],
+  "summary": {
+    "lv": "Giraffe360 meklē vecāko MLOps inženieri, kas veidos un uzturēs R&D on-premise ML platformu — no datu marķēšanas un versionēšanas līdz modeļu izvietošanai uz NVIDIA Triton serveriem (Python, PyTorch, ClearML, Kubernetes); pieejamas akciju opcijas.",
+    "en": "Giraffe360 is hiring a Senior MLOps Engineer to build and run its on-premise R&D ML platform — from data labeling and versioning to model deployment on NVIDIA Triton servers (Python, PyTorch, ClearML, Kubernetes); stock options available."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1598648/giraffe360-sia/vecakais-mlops-inzenieris-e",
+  "postedAt": "2026-06-12",
+  "salaryRange": "€3500–6000",
+  "expiresAt": "2026-07-12"
+}
