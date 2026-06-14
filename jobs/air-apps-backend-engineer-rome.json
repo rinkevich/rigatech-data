@@ -1,0 +1,19 @@
+{
+  "slug": "air-apps-backend-engineer-rome",
+  "title": "Backend Engineer Rome",
+  "company": "Air Apps",
+  "companyUrl": "https://remoteok.com/air-apps",
+  "location": "Remote · Italy",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–5000",
+  "stack": ["node", "typescript", "graphql", "postgres", "gcp", "api", "cloud", "backend"],
+  "summary": {
+    "lv": "Air Apps, AI vadīts personīgais un uzņēmuma resursu plānotāja veidotājs, meklē Senior Backend inženieri Romas reģionam ar Node.js, TypeScript un GCP pieredzi.",
+    "en": "Air Apps, building an AI-powered Personal & Entrepreneurial Resource Planner, is looking for a Senior Backend Engineer for their Rome-based remote team with Node.js, TypeScript, and GCP experience."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-backend-engineer-rome-air-apps-1131185",
+  "postedAt": "2026-04-17",
+  "expiresAt": "2026-07-16"
+}
