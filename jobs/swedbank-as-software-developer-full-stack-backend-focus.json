@@ -1,0 +1,19 @@
+{
+  "slug": "swedbank-as-software-developer-full-stack-backend-focus",
+  "title": "Software Developer (Full Stack, Backend Focus)",
+  "company": "Swedbank AS",
+  "companyUrl": "https://cv.lv/lv/employer/29215",
+  "location": "Tallinn / Rīga / Vilnius",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3900–5900",
+  "stack": ["java", "kafka", "rest-api", "react", "spring", "api-integration"],
+  "summary": {
+    "lv": "Swedbank meklē full-stack izstrādātāju ar backend fokusu integrāciju veidošanai starp SaaS platformu un apdrošināšanas ekosistēmu, izmantojot REST API un notikumu bāzētu arhitektūru ar Kafka.",
+    "en": "Swedbank is looking for a full-stack developer (backend focus) to build integrations between a SaaS platform and the bank's P&C Insurance ecosystem using REST APIs and event-driven communication via Kafka."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1599622/swedbank-as/software-developer-full-stack-backend-focus",
+  "postedAt": "2026-06-15",
+  "expiresAt": "2026-06-28"
+}
