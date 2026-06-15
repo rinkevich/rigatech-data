@@ -1,0 +1,19 @@
+{
+  "slug": "zabbix-sia-php-developer-mid-senior",
+  "title": "PHP Developer (mid-senior)",
+  "company": "ZABBIX SIA",
+  "companyUrl": "https://cv.lv/lv/employer/10587",
+  "location": "Gustava Zemgala gatve 74, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2400–5000",
+  "stack": ["php", "html", "css", "javascript", "sql", "yii", "phpunit", "selenium", "linux"],
+  "summary": {
+    "lv": "ZABBIX SIA — pasaulē populārākā atvērtā koda monitoringa risinājuma veidotāji — meklē PHP izstrādātāju ar 2+ gadu pieredzi Zabbix platformas koda kvalitātes uzturēšanai un arhitektūras attīstībai.",
+    "en": "ZABBIX SIA — creators of the world's leading open-source monitoring platform — is looking for a PHP Developer with 2+ years of experience to maintain code quality, mentor juniors, and contribute to the architecture of Zabbix."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1599646/zabbix-sia/php-developer-mid-senior",
+  "postedAt": "2026-06-15",
+  "expiresAt": "2026-07-15"
+}
