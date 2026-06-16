@@ -1,0 +1,34 @@
+{
+  "slug": "evolution-latvia-sia-sistemu-inzenieri-sre-systems-engineer-sre",
+  "title": "Sistēmu inženieri (SRE) / Systems Engineer (SRE)",
+  "company": "Evolution Latvia SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/evolution-latvia-sia?employerId=14518",
+  "location": "Skanstes iela 52",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4750–7670",
+  "stack": [
+    "linux",
+    "kubernetes",
+    "python",
+    "golang",
+    "kafka",
+    "cassandra",
+    "clickhouse",
+    "postgresql",
+    "aws",
+    "ansible",
+    "prometheus",
+    "grafana",
+    "jenkins",
+    "gitlab"
+  ],
+  "summary": {
+    "lv": "Sistēmu inženieris / SRE Evolution ražošanas vidē, kurš pārvalda ģeogrāfiski izkliedētus Kubernetes klasterus un NoSQL datu sistēmas ar augstu pieejamību.",
+    "en": "Systems Engineer / SRE at Evolution managing geographically distributed Kubernetes clusters and large-scale NoSQL data systems in a high-availability production environment."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1600578/evolution-latvia-sia/sistemu-inzenieri-sre-systems-engineer-sre",
+  "postedAt": "2026-06-16",
+  "expiresAt": "2026-07-16"
+}
