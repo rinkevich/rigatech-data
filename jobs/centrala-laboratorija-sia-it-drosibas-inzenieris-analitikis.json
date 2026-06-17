@@ -1,0 +1,19 @@
+{
+  "slug": "centrala-laboratorija-sia-it-drosibas-inzenieris-analitikis",
+  "title": "IT drošības inženieris / analītiķis",
+  "company": "Centrālā laboratorija SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/centrala-laboratorija-sia?employerId=74484",
+  "location": "Grēdu iela 4a, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500",
+  "stack": ["mfa", "ids", "siem", "active directory", "powershell", "python", "antivirus", "linux", "windows"],
+  "summary": {
+    "lv": "Centrālā laboratorija SIA — modernākā laboratorija Baltijā ar vairāk nekā 120 filiālēm — meklē IT drošības inženieri/-analītiķi. Darbs ietver drošības risinājumu (MFA, IDS, SIEM, Active Directory) konfigurēšanu, incidentu apstrādi, sistēmu administrāciju un IT drošības politiku ieviešanu.",
+    "en": "Centrālā laboratorija SIA, the most modern laboratory in the Baltics with over 120 branches, is hiring an IT Security Engineer/Analyst. The role covers configuring security solutions (MFA, IDS, SIEM, Active Directory), responding to incidents, administering systems, and implementing IT security policies and procedures."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1601527/centrala-laboratorija-sia/it-drosibas-inzenieris-analitikis",
+  "postedAt": "2026-06-17",
+  "expiresAt": "2026-07-17"
+}
