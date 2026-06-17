@@ -1,0 +1,19 @@
+{
+  "slug": "swedbank-as-software-engineer-to-credit-decisions-team",
+  "title": "Software Engineer to Credit Decisions team",
+  "company": "Swedbank AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/swedbank-as?employerId=1315",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–5900",
+  "stack": ["java", "spring", "hibernate", "angular", "oracle", "kafka", "kubernetes", "docker", "openshift", "gradle", "selenium"],
+  "summary": {
+    "lv": "Swedbank meklē vecāko programmatūras inženieri Baltijas kreditēšanas lēmumu komandā, kas modernizē galveno kredītu lēmumu pieņemšanas sistēmu. Darbs ietver pilnu sistēmas izstrādes ciklu, arhitektūras lēmumu pieņemšanu un sadarbību ar starpdisciplināru Agile komandu.",
+    "en": "Swedbank is hiring a senior Software Engineer for its Baltic Lending Credit Decisions team, which is modernising the main lending decision system. The role covers full system development lifecycle, architectural decisions, and collaboration within a cross-functional Agile team using Java, Spring, Kafka, and Kubernetes."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1601803/swedbank-as/software-engineer-to-credit-decisions-team",
+  "postedAt": "2026-06-17",
+  "expiresAt": "2026-06-25"
+}
