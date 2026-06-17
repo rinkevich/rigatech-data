@@ -1,0 +1,19 @@
+{
+  "slug": "it-camp-devops-engineer-with-network-management-tools-for-swiisscom",
+  "title": "DevOps Engineer (with Network management tools) for Swiisscom",
+  "company": "IT Camp",
+  "companyUrl": "https://cv.lv/lv/search/employer/it-camp?employerId=28491",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–5500",
+  "stack": ["python", "go", "java", "ansible", "kubernetes", "linux", "prometheus", "grafana", "elasticsearch", "fluentbit", "openstack", "aws", "azure", "docker"],
+  "summary": {
+    "lv": "IT Camp partnera Swisscom komandā tiek meklēts DevOps inženieris tīkla pārvaldības rīku izstrādei un uzturēšanai. Darbs ietver automatizācijas rīku izstrādi tīkla datu kvalitātes uzlabošanai, CI/CD cauruļvadu uzturēšanu un OSS sistēmu 2./3. līmeņa atbalstu.",
+    "en": "IT Camp, on behalf of Swisscom, is seeking a DevOps Engineer to develop and maintain network management tools and automation solutions. The role involves building automation tools to improve data quality, supporting OSS applications (2nd/3rd level), maintaining CI/CD pipelines, and monitoring systems with Prometheus, Grafana and Elasticsearch."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1601660/it-camp/devops-engineer-with-network-management-tools-for-swiisscom",
+  "postedAt": "2026-06-17",
+  "expiresAt": "2026-07-17"
+}
