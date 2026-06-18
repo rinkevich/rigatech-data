@@ -1,0 +1,19 @@
+{
+  "slug": "tilde-sia-back-end-izstradatajs",
+  "title": "Back-end izstrādātājs",
+  "company": "Tilde, SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/tilde-sia?employerId=6148",
+  "location": "Vienības gatve 75a, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–3000",
+  "stack": ["c#", ".net", "web-api", "entity-framework", "mysql", "postgresql", "redis", "linux", "python", "oauth"],
+  "summary": {
+    "lv": "Tilde SIA meklē Back-end izstrādātāju augstvērtīgu vektoru servera puses risinājumu izstrādei, izmantojot C#/.NET ekosistēmu, darbojoties Baltijas valstu mākslīgā intelekta tehnoloģiju uzņēmumā.",
+    "en": "Tilde SIA is seeking a Back-end Developer to build high-quality server-side solutions using C#/.NET within a leading Baltic AI and language technology company."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1602325/tilde-sia/back-end-izstradatajs",
+  "postedAt": "2026-06-18",
+  "expiresAt": "2026-07-18"
+}
