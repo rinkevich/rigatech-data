@@ -1,0 +1,19 @@
+{
+  "slug": "metbox-sia-senior-programmaturas-inzenieris",
+  "title": "Senior programmatūras inženieris",
+  "company": "METBOX SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/metbox-sia?employerId=13012",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€5000",
+  "stack": ["typescript", "javascript", "node.js", "mysql", "rest-api"],
+  "summary": {
+    "lv": "METBOX SIA meklē Senior programmatūras inženieri IoT datu vadības platformas attīstīšanai, kurš strādās ar TypeScript/Node.js backend izstrādi, API un integrācijām ar valsts sistēmām.",
+    "en": "METBOX SIA is seeking a Senior Software Engineer to develop an IoT data management platform using TypeScript/Node.js for backend, API design, and integrations with government and commercial systems."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1602762/metbox-sia/senior-programmaturas-inzenieris",
+  "postedAt": "2026-06-18",
+  "expiresAt": "2026-07-18"
+}
