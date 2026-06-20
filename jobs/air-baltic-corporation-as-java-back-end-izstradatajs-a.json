@@ -1,0 +1,19 @@
+{
+  "slug": "air-baltic-corporation-as-java-back-end-izstradatajs-a",
+  "title": "Java back-end izstrādātājs/-a",
+  "company": "Air Baltic Corporation AS",
+  "companyUrl": "https://careers.airbaltic.com/lv/vakances/ofiss/java-back-end-izstradatajs-a",
+  "location": "Tehnikas iela 3, Lidosta \"Rīga\"",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–4000",
+  "stack": ["java", "spring-boot", "postgresql", "oracle", "docker", "kubernetes", "kafka", "gitlab-ci", "elasticsearch", "redis"],
+  "summary": {
+    "lv": "airBaltic meklē Java back-end izstrādātāju, kurš strādās ar Java 17/21/24, Spring Boot 3/4 un izstrādās lietojumprogrammas un mikropakalpojumus aviācijas sistēmām.",
+    "en": "airBaltic seeks a Java Back-End Developer to build applications and microservices using Java 17/21/24, Spring Boot 3/4, and a modern cloud-native stack."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1603250/air-baltic-corporation-as/java-back-end-izstradatajs-a",
+  "postedAt": "2026-06-19",
+  "expiresAt": "2026-07-06"
+}
