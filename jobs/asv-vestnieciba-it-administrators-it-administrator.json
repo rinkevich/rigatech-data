@@ -1,0 +1,19 @@
+{
+  "slug": "asv-vestnieciba-it-administrators-it-administrator",
+  "title": "IT Administrators / IT Administrator",
+  "company": "ASV vēstniecība",
+  "companyUrl": "https://lv.usembassy.gov/jobs/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2477–3468",
+  "stack": ["microsoft-365", "windows", "powershell", "active-directory", "azure", "cisco"],
+  "summary": {
+    "lv": "ASV vēstniecība Rīgā meklē IT administratoru Diplomātisko tehnoloģiju birojam — atbildīgs par sistēmu administrēšanu, klientu atbalstu, mobilajām ierīcēm, datu analīzi un kiberdrošību.",
+    "en": "The U.S. Embassy in Riga seeks an IT Administrator for its Diplomatic Technology office, responsible for system administration, customer support, mobile device management, data analysis, and cybersecurity compliance."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1603717/asv-vestnieciba/it-administrators-it-administrator",
+  "postedAt": "2026-06-19",
+  "expiresAt": "2026-07-19"
+}
