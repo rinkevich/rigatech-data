@@ -1,0 +1,19 @@
+{
+  "slug": "nutrameg-sia-senior-full-stack-developer",
+  "title": "Senior Full-Stack Developer",
+  "company": "Nutrameg SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/nutrameg-sia?employerId=59148",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–6000",
+  "stack": ["react", "node.js", "typescript", "postgresql", "aws", "docker"],
+  "summary": {
+    "lv": "Nutrameg SIA, Latvijas veselības aprūpes tehnoloģiju jaunuzņēmums, meklē vecāko Full-Stack izstrādātāju, lai pievienotos 10 cilvēku IT komandai Rīgā.",
+    "en": "Nutrameg SIA, a bold Latvian healthcare tech startup, seeks a Senior Full-Stack Developer to join their 10-person IT team in Riga and help build impactful healthcare applications."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1603607/nutrameg-sia/senior-full-stack-developer",
+  "postedAt": "2026-06-19",
+  "expiresAt": "2026-07-19"
+}
