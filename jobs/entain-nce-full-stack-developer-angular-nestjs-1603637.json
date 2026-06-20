@@ -1,0 +1,19 @@
+{
+  "slug": "entain-nce-full-stack-developer-angular-nestjs-1603637",
+  "title": "Full-stack Developer - Angular/NestJS",
+  "company": "Entain NCE",
+  "companyUrl": "https://cv.lv/lv/search/employer/entain-nce?employerId=68069",
+  "location": "Satekles iela 2b, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€4000–5000",
+  "stack": ["angular", "nestjs", "typescript", "postgresql", "node.js", "git"],
+  "summary": {
+    "lv": "Entain NCE meklē Full-stack izstrādātāju ar fokus uz back-end, kurš strādās ar TypeScript/NestJS lietojumprogrammām un Angular front-end.",
+    "en": "Entain NCE seeks a Full-stack Developer focused on backend to work on TypeScript/NestJS applications with Angular frontend, building scalable server-side features and PostgreSQL schemas."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1603637/entain-nce/full-stack-developer-angular-nestjs",
+  "postedAt": "2026-06-19",
+  "expiresAt": "2026-07-19"
+}
