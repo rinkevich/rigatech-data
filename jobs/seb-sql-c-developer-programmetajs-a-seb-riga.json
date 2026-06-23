@@ -1,0 +1,19 @@
+{
+  "slug": "seb-sql-c-developer-programmetajs-a-seb-riga",
+  "title": "SQL / C# Developer / Programmētājs-/a | SEB, Riga",
+  "company": "SEB",
+  "companyUrl": "https://www.seb.lv",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3300–4750",
+  "stack": ["sql", "c#", ".net", "t-sql", "ms-sql", "test-automation"],
+  "summary": {
+    "lv": "SEB meklē SQL/C# izstrādātāju Tirdzniecības regulatīvās atskaites komandai Rīgā, kurš strādās pie iekšējās atskaites sistēmas uzturēšanas un attīstības, sadarbojoties ar komandām Zviedrijā un Latvijā.",
+    "en": "SEB is looking for a SQL/C# Developer to join its Trading Regulatory Reporting team in Riga, working on maintaining and developing an in-house reporting engine in collaboration with teams in Sweden and Latvia."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1499533/seb/sql-c-developer-seb-riga",
+  "postedAt": "2026-01-21",
+  "expiresAt": "2026-06-27"
+}
