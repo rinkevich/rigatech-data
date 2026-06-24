@@ -1,0 +1,19 @@
+{
+  "slug": "natrix-elektronikas-inzenieris",
+  "title": "Elektronikas inženieris/-e",
+  "company": "Natrix",
+  "companyUrl": "https://cv.lv/lv/search/employer/cv-online-recruitment?employerId=19188",
+  "location": "Rītausmas iela 7a",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2600–3000",
+  "stack": ["vpn", "openvpn", "wireguard", "ipsec", "networking", "vlan", "satcom", "embedded-systems"],
+  "summary": {
+    "lv": "Natrix meklē elektronikas inženieri, kas projektēs un uzturēs sakaru un datu pārraides infrastruktūru autonomajām sauszemes platformām (UGV), integrējot VPN, SATCOM un taktiskos tīkla risinājumus.",
+    "en": "Natrix is looking for an electronics engineer to design and maintain communications and data transmission infrastructure for unmanned ground vehicles (UGV), integrating VPN, SATCOM, and tactical networking solutions."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1585964/cv-online-recruitment/elektronikas-inzenieris-e",
+  "postedAt": "2026-05-26",
+  "expiresAt": "2026-06-26"
+}
