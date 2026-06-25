@@ -1,0 +1,19 @@
+{
+  "slug": "atea-global-services-power-platform-developer",
+  "title": "Power Platform Developer",
+  "company": "Atea Global Services",
+  "companyUrl": "https://cv.lv/lv/search/employer/atea-global-services?employerId=47965",
+  "location": "Antonijas iela 17",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–4000",
+  "stack": ["power-platform", "power-apps", "power-automate", "dataverse", "microsoft-365", "sharepoint", "azure"],
+  "summary": {
+    "lv": "Atea Global Services meklē Power Platform izstrādātāju, kurš veidos canvas un model-driven lietotnes, izstrādās Power Automate plūsmas un integrēs Microsoft 365 sistēmas. Nepieciešamas spēcīgas Dataverse un ALM zināšanas.",
+    "en": "Atea Global Services is looking for a Power Platform Developer to build canvas and model-driven apps, develop Power Automate flows, and integrate Microsoft 365 systems. Strong Dataverse and ALM knowledge required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1604505/atea-global-services/power-platform-developer",
+  "postedAt": "2026-06-25",
+  "expiresAt": "2026-07-25"
+}
