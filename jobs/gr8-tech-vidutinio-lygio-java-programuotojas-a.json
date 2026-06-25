@@ -1,0 +1,19 @@
+{
+  "slug": "gr8-tech-vidutinio-lygio-java-programuotojas-a",
+  "title": "Vidutinio lygio Java programuotojas (-a)",
+  "company": "GR8_TECH",
+  "companyUrl": "https://cv.lv/lv/search/employer/gr8-tech?employerId=76401",
+  "location": "remote",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–5000",
+  "stack": ["java", "kafka", "apache-flink", "kubernetes", "prometheus", "grafana"],
+  "summary": {
+    "lv": "GR8_TECH meklē vidēja līmeņa Java izstrādātāju, kas projektēs un attīstīs straumēšanas datu risinājumus, balstoties uz Apache Kafka un Flink iGaming platformā pilnīgi attālinātā darba režīmā.",
+    "en": "GR8_TECH is looking for a mid-level Java developer to design and build streaming data solutions based on Apache Kafka and Flink for their iGaming platform in a fully remote role."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1604802/gr8_tech/vidutinio-lygio-java-programuotojas-a",
+  "postedAt": "2026-06-25",
+  "expiresAt": "2026-07-25"
+}
