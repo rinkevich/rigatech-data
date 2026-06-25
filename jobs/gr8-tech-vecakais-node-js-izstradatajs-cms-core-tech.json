@@ -1,0 +1,19 @@
+{
+  "slug": "gr8-tech-vecakais-node-js-izstradatajs-cms-core-tech",
+  "title": "Vecākais Node.js izstrādātājs (CMS Core Tech).",
+  "company": "GR8_TECH",
+  "companyUrl": "https://cv.lv/lv/search/employer/gr8-tech?employerId=76401",
+  "location": "remote",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–6000",
+  "stack": ["node.js", "typescript", "nestjs", "express", "postgresql", "mongodb", "redis", "kubernetes", "docker", "jest", "aws"],
+  "summary": {
+    "lv": "GR8_TECH meklē vecāko Node.js izstrādātāju CMS Core Tech komandai, kas projektēs mērogojamas backend arhitektūras un vadīs backend izstrādes projektus iGaming platformā pilnīgi attālinātā darba režīmā.",
+    "en": "GR8_TECH is looking for a Senior Node.js Developer for the CMS Core Tech team to design scalable backend architectures and lead software development projects on their iGaming platform in a fully remote role."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1604827/gr8_tech/vecakais-node-js-izstradatajs-cms-core-tech",
+  "postedAt": "2026-06-25",
+  "expiresAt": "2026-07-25"
+}
