@@ -1,0 +1,19 @@
+{
+  "slug": "rigas-siltums-as-kiberdrosibas-specialists-e",
+  "title": "Kiberdrošības speciālists/-e",
+  "company": "RĪGAS SILTUMS AS",
+  "companyUrl": "https://rs.lv/saturs/atlase",
+  "location": "Cēsu iela 3A",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3450–4000",
+  "stack": ["tcp/ip", "vlan", "vpn", "firewall", "windows", "linux", "siem"],
+  "summary": {
+    "lv": "Rīgas Siltums AS meklē kiberdrošības speciālistu, kurš administrēs IT drošības sistēmas, analizēs incidentus un nodrošinās uzņēmuma aizsardzību pret kiberdraudiem. Nepieciešama vismaz 5 gadu pieredze un zināšanas tīklu arhitektūrā.",
+    "en": "Rīgas Siltums AS is looking for a cybersecurity specialist to administer IT security systems, analyze incidents, and protect the company against cyber threats. At least 5 years of experience and knowledge of network architecture required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1605498/rigas-siltums-as/kiberdrosibas-specialists-e",
+  "postedAt": "2026-06-26",
+  "expiresAt": "2026-07-10"
+}
