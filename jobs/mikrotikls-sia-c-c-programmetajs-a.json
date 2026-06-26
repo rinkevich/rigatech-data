@@ -1,0 +1,19 @@
+{
+  "slug": "mikrotikls-sia-c-c-programmetajs-a",
+  "title": "C/C++ programmētājs/-a",
+  "company": "Mikrotīkls SIA",
+  "companyUrl": "https://mikrotik.com",
+  "location": "Ūnijas iela 2",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2100–10000",
+  "stack": ["c", "c++", "unix", "linux"],
+  "summary": {
+    "lv": "Mikrotīkls SIA meklē C/C++ programmētāju, kurš izstrādās MikroTik programmatūru un strādās ar datu komunikāciju protokolu izpēti un realizāciju. Nepieciešamas ļoti labas C/C++ programmēšanas iemaņas un pieredze ar Unix/Linux.",
+    "en": "Mikrotīkls SIA is looking for a C/C++ programmer to develop MikroTik software and work on data communication protocol research and implementation. Strong C/C++ skills and Unix/Linux experience required."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1605356/mikrotikls-sia/c-c-programmetajs-a",
+  "postedAt": "2026-06-26",
+  "expiresAt": "2026-07-26"
+}
