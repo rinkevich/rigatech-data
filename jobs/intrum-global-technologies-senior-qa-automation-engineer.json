@@ -1,0 +1,19 @@
+{
+  "slug": "intrum-global-technologies-senior-qa-automation-engineer",
+  "title": "Senior QA Automation Engineer",
+  "company": "Intrum Global Technologies",
+  "companyUrl": "https://cv.lv/lv/search/employer/intrum-global-technologies?employerId=30911",
+  "location": "Ieriķu iela 5",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3600–5400",
+  "stack": ["java", "sql", "databricks", "azure", "rest", "cucumber", "azure-devops", "jenkins"],
+  "summary": {
+    "lv": "Intrum Global Technologies meklē Senior QA Automation Engineer datu platformas komandai — lai definētu QA stratēģiju, testētu Databricks pipeline'us un datu transformācijas, kā arī izstrādātu automatizētos testus.",
+    "en": "Intrum Global Technologies is looking for a Senior QA Automation Engineer for its data platform team to define QA strategy, test Databricks pipelines and data transformations, and build automated test frameworks."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1605490/intrum-global-technologies/senior-qa-automation-engineer",
+  "postedAt": "2026-06-26",
+  "expiresAt": "2026-07-26"
+}
