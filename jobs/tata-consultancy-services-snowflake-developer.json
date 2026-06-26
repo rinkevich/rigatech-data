@@ -1,0 +1,24 @@
+{
+  "slug": "tata-consultancy-services-snowflake-developer",
+  "title": "Snowflake Developer",
+  "company": "Tata Consultancy Services",
+  "companyUrl": "https://remoteok.com/tata-consultancy-services",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "snowflake",
+    "sql",
+    "python",
+    "etl",
+    "aws"
+  ],
+  "summary": {
+    "lv": "Snowflake datu izstrādātāja loma (4–12 gadi), veidojot datu noliktavas konveijerus ar SQL, Python un ETL, ietverot datu kvalitāti, drošību un pārvaldību AWS/Azure/GCP vidē.",
+    "en": "Snowflake data developer role (4–12 years) building data-warehouse pipelines with SQL, Python, and ETL, covering data quality, security, and governance across AWS/Azure/GCP."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-snowflake-developer-tata-consultancy-services-1133946",
+  "postedAt": "2026-06-05",
+  "expiresAt": "2026-09-03"
+}
