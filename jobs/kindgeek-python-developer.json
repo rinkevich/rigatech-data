@@ -1,0 +1,20 @@
+{
+  "slug": "kindgeek-python-developer",
+  "title": "Python Developer",
+  "company": "Kindgeek",
+  "companyUrl": "https://remoteok.com/kindgeek",
+  "location": "Remote · Ukraine",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "python"
+  ],
+  "summary": {
+    "lv": "Python izstrādātājs, kas veido integrācijas infrastruktūru — savienojuma slāni starp iekšējām sistēmām un ārējām platformām — ar uzsvaru uz uzticamību, mērogojamību un drošību finanšu slodzēm.",
+    "en": "Python developer building core integration infrastructure — the connectivity layer between internal systems and external platforms — with a focus on reliability, scale, and security for financial workloads."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-python-developer-kindgeek-1133592",
+  "postedAt": "2026-06-16",
+  "expiresAt": "2026-09-14"
+}
