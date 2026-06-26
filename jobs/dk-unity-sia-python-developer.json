@@ -1,0 +1,19 @@
+{
+  "slug": "dk-unity-sia-python-developer",
+  "title": "Python Developer",
+  "company": "DK UNITY SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/dk-unity-sia?employerId=74115",
+  "location": "Ulbrokas iela 23",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–4500",
+  "stack": ["python", "rest", "postgresql", "docker"],
+  "summary": {
+    "lv": "DK NEJET — Latvijas-Ukrainas aizsardzības tehnoloģiju uzņēmums — meklē Python izstrādātāju iekšējo pakalpojumu, automatizācijas rīku un integrāciju veidošanai. Komanda izstrādā autonomas FPV dronu sistēmas.",
+    "en": "DK NEJET, a Latvian-Ukrainian defense-tech company developing autonomous FPV drone systems, is looking for a Python Developer to build internal services, automation tools, and integrations for a rapidly growing organization."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1605348/dk-unity-sia/python-developer",
+  "postedAt": "2026-06-26",
+  "expiresAt": "2026-07-26"
+}
