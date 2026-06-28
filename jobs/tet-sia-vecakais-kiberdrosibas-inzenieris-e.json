@@ -1,0 +1,25 @@
+{
+  "slug": "tet-sia-vecakais-kiberdrosibas-inzenieris-e",
+  "title": "Vecākais kiberdrošības inženieris/-e",
+  "company": "Tet SIA",
+  "companyUrl": "https://www.tet.lv",
+  "location": "Dzirnavu iela 105, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3200",
+  "stack": [
+    "cybersecurity",
+    "penetration-testing",
+    "vulnerability-assessment",
+    "oscp",
+    "cisa"
+  ],
+  "summary": {
+    "lv": "Tet meklē vecāko kiberdrošības inženieri IT drošības nodaļā, kurš veiks ievainojamību pārbaudes, ielaušanās testus un drošības atbilstības novērtējumus Tet grupas uzņēmumiem. Nepieciešama augstākā izglītība IT jomā, starptautiski atzīts sertifikāts (CEH, OSCP vai CISA) un Latvijas pilsonība.",
+    "en": "Tet is looking for a Senior Cybersecurity Engineer in its IT Security department to conduct vulnerability assessments, penetration tests, and security compliance evaluations for Tet group companies. Requires a university degree in IT, an internationally recognized certificate (CEH, OSCP, or CISA), and Latvian citizenship."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1605680/tet-sia/vecakais-kiberdrosibas-inzenieris-e",
+  "postedAt": "2026-06-27",
+  "expiresAt": "2026-07-27"
+}
