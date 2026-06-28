@@ -1,0 +1,18 @@
+{
+  "slug": "2026-09-10-baltic-connect-riga",
+  "title": {
+    "en": "Baltic Connect - Riga",
+    "lv": "Baltic Connect - Rīga"
+  },
+  "date": "2026-09-10",
+  "location": "Rīga",
+  "url": "https://dev.events/conferences/baltic-connect-riga-lmpu-yb6",
+  "organizer": "Baltic Connect",
+  "kind": "conference",
+  "techTags": ["cloud", "networking"],
+  "audienceTags": ["engineers", "founders", "executives"],
+  "summary": {
+    "en": "Baltic Connect - Riga is a cloud technology conference taking place on September 10, 2026 in Rīga, Latvia.",
+    "lv": "Baltic Connect - Rīga ir mākoņtehnoloģiju konference, kas notiek 2026. gada 10. septembrī Rīgā, Latvijā."
+  }
+}
