@@ -1,0 +1,20 @@
+{
+  "slug": "2026-07-02-applied-ai-focused-155th-devclub-lv",
+  "title": {
+    "en": "Applied AI focused 155th DevClub.lv",
+    "lv": "Applied AI fokusētais 155. DevClub.lv"
+  },
+  "date": "2026-07-02",
+  "location": "Rīga",
+  "venue": "GoCardless, Novira Plaza, Entrance \"East\", 3rd floor",
+  "url": "https://www.eventbrite.com/e/applied-ai-focused-155th-devclublv-registration-1992560972507",
+  "organizer": "DevClub.lv",
+  "kind": "meetup",
+  "techTags": ["ai", "software-development", "code-review", "developer-tools"],
+  "audienceTags": ["engineers", "developers"],
+  "summary": {
+    "en": "The 155th DevClub.lv meetup focuses on practical AI for developers — covering AI-assisted code review, deterministic workflows, and secure access to private company knowledge.",
+    "lv": "155. DevClub.lv tikšanās fokusējas uz praktisko AI izstrādātājiem — aptverot AI palīdzētu koda pārskatīšanu, deterministiskus darbplūsmas un drošu piekļuvi uzņēmuma privātajām zināšanām."
+  },
+  "image": "https://cdn.evbuc.com/images/1187630185/33330097863/1/original.20260625-110946"
+}
