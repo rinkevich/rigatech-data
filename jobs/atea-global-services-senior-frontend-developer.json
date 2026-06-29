@@ -1,0 +1,25 @@
+{
+  "slug": "atea-global-services-senior-frontend-developer",
+  "title": "Senior Frontend Developer",
+  "company": "Atea Global Services",
+  "companyUrl": "https://cv.lv/lv/search/employer/atea-global-services?employerId=27059",
+  "location": "Antonijas iela 17, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–4500",
+  "stack": [
+    "typescript",
+    "angular",
+    "html5",
+    "css3",
+    "rest-api"
+  ],
+  "summary": {
+    "lv": "Vecākā Frontend izstrādātāja amats Atea Global Services, izstrādājot mērogojamas tīmekļa lietotnes ar TypeScript un Angular, vadot frontend arhitektūras lēmumus un nodrošinot koda kvalitāti, pieejamību un reaģētspēju.",
+    "en": "A Senior Frontend Developer role at Atea Global Services building scalable web applications with TypeScript and Angular, leading frontend architecture decisions, and ensuring code quality, accessibility and responsiveness."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1605837/atea-global-services/senior-frontend-developer",
+  "postedAt": "2026-06-29",
+  "expiresAt": "2026-07-29"
+}
