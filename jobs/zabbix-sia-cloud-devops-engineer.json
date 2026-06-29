@@ -1,0 +1,33 @@
+{
+  "slug": "zabbix-sia-cloud-devops-engineer",
+  "title": "Cloud DevOps Engineer",
+  "company": "ZABBIX SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/zabbix-sia?employerId=10587",
+  "location": "Gustava Zemgala gatve 74, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4600–5100",
+  "stack": [
+    "aws",
+    "azure",
+    "gcp",
+    "kubernetes",
+    "terraform",
+    "helm",
+    "gitops",
+    "argocd",
+    "bash",
+    "python",
+    "go",
+    "linux",
+    "ci/cd"
+  ],
+  "summary": {
+    "lv": "Cloud DevOps inženiera amats Zabbix SIA, veidojot un uzturot daudzpakāpju mākoņinfrastruktūru AWS, Azure un GCP, automatizējot izvietojumus ar Terraform un Helm un nodrošinot Kubernetes platformas veiktspēju un drošību.",
+    "en": "A Cloud DevOps Engineer role at Zabbix SIA designing and maintaining multi-cloud infrastructure on AWS, Azure and GCP, automating deployments with Terraform/Helm, and ensuring Kubernetes platform performance and security."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1606798/zabbix-sia/cloud-devops-engineer",
+  "postedAt": "2026-06-29",
+  "expiresAt": "2026-07-29"
+}
