@@ -1,0 +1,25 @@
+{
+  "slug": "entain-nce-backend-developer-java-php",
+  "title": "Backend Developer (Java/PHP)",
+  "company": "Entain NCE",
+  "companyUrl": "https://cv.lv/lv/search/employer/entain-nce?employerId=11821",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–4500",
+  "stack": [
+    "java",
+    "spring-boot",
+    "php",
+    "rest-api",
+    "sql"
+  ],
+  "summary": {
+    "lv": "Backend izstrādātāja amats Entain NCE iGaming uzņēmumā, izstrādājot un uzturot backend sistēmas Java (Spring Boot) un PHP, projektējot RESTful API un nodrošinot lietojumprogrammu veiktspēju un drošību.",
+    "en": "A Backend Developer role at Entain NCE in iGaming, building and maintaining backend systems in Java (Spring Boot) and PHP, designing RESTful APIs, and ensuring application performance and security."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1605855/entain-nce/backend-developer-java-php",
+  "postedAt": "2026-06-29",
+  "expiresAt": "2026-07-29"
+}
