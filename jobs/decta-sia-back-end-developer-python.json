@@ -1,0 +1,23 @@
+{
+  "slug": "decta-sia-back-end-developer-python",
+  "title": "Back-End Developer (Python)",
+  "company": "Decta SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/decta-sia?employerId=30896",
+  "location": "VERDE, Roberta Hirša iela 1",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "python",
+    "microservices",
+    "api"
+  ],
+  "summary": {
+    "lv": "Decta SIA meklē Python back-end izstrādātāju maksājumu apstrādes sistēmu integrācijas un mikroservisu izstrādei.",
+    "en": "Decta SIA is seeking a Python back-end developer to build payment processing system integrations and microservices."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1609022/decta-sia/back-end-developer-python",
+  "postedAt": "2026-07-01",
+  "salaryRange": "€2500–3500/mēn",
+  "expiresAt": "2026-08-01"
+}
