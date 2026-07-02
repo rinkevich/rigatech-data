@@ -1,0 +1,23 @@
+{
+  "slug": "accenture-data-engineer",
+  "title": "Data Engineer",
+  "company": "Accenture",
+  "companyUrl": "https://cv.lv/lv/search/employer/accenture?employerId=19491",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "sql",
+    "etl",
+    "cloud"
+  ],
+  "summary": {
+    "lv": "Accenture meklē Data Engineer datu cauruļvadu un analītikas risinājumu veidošanai klientu projektos.",
+    "en": "Accenture is looking for a Data Engineer to build data pipelines and analytics solutions for client projects."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1605738/accenture/data-engineer",
+  "postedAt": "2026-06-29",
+  "salaryRange": "€1400–6200/mēn",
+  "expiresAt": "2026-07-29"
+}
