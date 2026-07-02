@@ -1,0 +1,23 @@
+{
+  "slug": "ubiquiti-latvia-sia-front-end-developer",
+  "title": "Front-End Developer",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/ubiquiti-latvia-sia?employerId=30898",
+  "location": "Akmeņu iela 14",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "javascript",
+    "typescript",
+    "react"
+  ],
+  "summary": {
+    "lv": "Ubiquiti Latvia meklē Front-End Developer ticamu un mērogojamu tīmekļa pakalpojumu un lietotāja saskarņu izstrādei.",
+    "en": "Ubiquiti Latvia is seeking a Front-End Developer to build reliable and scalable web services and user interfaces."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1607772/ubiquiti-latvia-sia/front-end-developer",
+  "postedAt": "2026-06-30",
+  "salaryRange": "€3000–7000/mēn",
+  "expiresAt": "2026-07-30"
+}
