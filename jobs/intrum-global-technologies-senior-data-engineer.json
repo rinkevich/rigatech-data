@@ -1,0 +1,23 @@
+{
+  "slug": "intrum-global-technologies-senior-data-engineer",
+  "title": "Senior Data Engineer",
+  "company": "Intrum Global Technologies",
+  "companyUrl": "https://cv.lv/lv/search/employer/intrum-global-technologies?employerId=30911",
+  "location": "Ieriķu iela 5, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "sql",
+    "etl",
+    "data-engineering"
+  ],
+  "summary": {
+    "lv": "Intrum Global Technologies meklē Senior Data Engineer datu cauruļvadu ieviešanai no avota sistēmām līdz analītikas platformām.",
+    "en": "Intrum Global Technologies is seeking a Senior Data Engineer to implement data pipelines from source systems to analytics platforms."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1606979/intrum-global-technologies/senior-data-engineer",
+  "postedAt": "2026-06-29",
+  "salaryRange": "€4000–5500/mēn",
+  "expiresAt": "2026-07-29"
+}
