@@ -1,0 +1,19 @@
+{
+  "slug": "tonybet-bi-analitikis-bi-analyst",
+  "title": "BI analītiķis/ BI Analyst",
+  "company": "Tonybet",
+  "companyUrl": "https://cv.lv/lv/search/employer/tonybet?employerId=30704",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€4000–5000",
+  "stack": ["sql", "tableau", "python", "clickhouse", "bigquery", "airflow"],
+  "summary": {
+    "lv": "Tonybet meklē BI analītiķi, kurš pārvērts datus nozīmīgos ieskatos, izstrādās un uzturēs Tableau informācijas paneļus un nodrošinās datu kvalitāti mārketinga, produkta un finanšu komandu vajadzībām iGaming nozarē.",
+    "en": "Tonybet seeks a BI Analyst to transform data into actionable insights, build and maintain Tableau dashboards, and ensure data quality across marketing, product, and finance teams in the iGaming industry."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1476692/tonybet/bi-analitikis-bi-analyst",
+  "postedAt": "2026-07-03",
+  "expiresAt": "2026-08-03"
+}
