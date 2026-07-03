@@ -1,0 +1,21 @@
+{
+  "slug": "gocardless-software-development-engineer",
+  "title": "Software Development Engineer",
+  "company": "GoCardless",
+  "companyUrl": "https://gocardless.com",
+  "location": "Marijas iela 2a, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2933–4400",
+  "stack": [
+    "python"
+  ],
+  "summary": {
+    "lv": "Programmatūras izstrādātājs GoCardless Payment Intelligence komandā Rīgā, pilnveidojot maksājumu veiksmīguma rādītājus ar ML risinājumiem.",
+    "en": "Software Development Engineer on the Payment Intelligence team at GoCardless Riga, building ML-powered solutions to improve payment success rates and reduce fraud across 30+ countries."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1610131/gocardless/software-development-engineer",
+  "postedAt": "2026-07-02",
+  "expiresAt": "2026-08-02"
+}
