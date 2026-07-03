@@ -1,0 +1,23 @@
+{
+  "slug": "cwise-sia-junior-devops-engineer",
+  "title": "Junior DevOps Engineer",
+  "company": "CWISE SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/cwise-sia?employerId=31239",
+  "location": "Lastādijas street 12 k-1, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€1600–2200",
+  "stack": [
+    "aws",
+    "gcp",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "Junior DevOps inženieris finanšu pakalpojumu un fintech uzņēmumā, strādājot ar AWS, GCP un CI/CD rīkiem.",
+    "en": "Junior DevOps Engineer at a fintech-focused software company, supporting AI-assisted development flows, AWS/GCP infrastructure and CI/CD pipelines for financial services clients."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1605352/cwise-sia/junior-devops-engineer",
+  "postedAt": "2026-07-03",
+  "expiresAt": "2026-08-03"
+}
