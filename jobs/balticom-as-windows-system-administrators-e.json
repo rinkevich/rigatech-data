@@ -1,0 +1,25 @@
+{
+  "slug": "balticom-as-windows-system-administrators-e",
+  "title": "Windows System administrators/-e",
+  "company": "Balticom AS",
+  "companyUrl": "https://balticom.lv",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2400–2800",
+  "stack": [
+    "windows-server",
+    "active-directory",
+    "hyper-v",
+    "proxmox",
+    "zabbix"
+  ],
+  "summary": {
+    "lv": "Windows sistēmu administrators Balticom telekomunikāciju uzņēmumā, uzturot Windows Server infrastruktūru, Active Directory, virtualizāciju (Hyper-V/Proxmox) un monitoringa sistēmas.",
+    "en": "Windows System Administrator at Balticom, maintaining Windows Server 2019–2025 infrastructure, Active Directory, Hyper-V/Proxmox virtualization and Zabbix monitoring for Latvia's leading telecom provider."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1609807/balticom-as/windows-system-administrators-e",
+  "postedAt": "2026-07-02",
+  "expiresAt": "2026-07-17"
+}
