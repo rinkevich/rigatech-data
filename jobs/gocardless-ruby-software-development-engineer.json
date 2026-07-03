@@ -1,0 +1,22 @@
+{
+  "slug": "gocardless-ruby-software-development-engineer",
+  "title": "Ruby Software Development Engineer",
+  "company": "GoCardless",
+  "companyUrl": "https://gocardless.com",
+  "location": "Marijas iela 2a, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2933–8000",
+  "stack": [
+    "ruby",
+    "rails"
+  ],
+  "summary": {
+    "lv": "Ruby izstrādātājs GoCardless Rīgas birojā, strādājot pie globālas maksājumu platformas, kas apstrādā $130 mlrd. gadā 30+ valstīs.",
+    "en": "Ruby Software Development Engineer at GoCardless Riga, building global bank payment infrastructure that processes $130bn+ annually across 30+ countries."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1610135/gocardless/ruby-software-development-engineer",
+  "postedAt": "2026-07-02",
+  "expiresAt": "2026-08-02"
+}
