@@ -1,0 +1,23 @@
+{
+  "slug": "dativa-sia-linux-cilveks",
+  "title": "Linux cilvēks",
+  "company": "Dativa SIA",
+  "companyUrl": "https://www.dativa.lv",
+  "location": "Elizabetes iela 41/43, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2900–3900",
+  "stack": [
+    "linux",
+    "ansible",
+    "zabbix"
+  ],
+  "summary": {
+    "lv": "Pieredzējis Linux sistēmu administrators Dativa komandā, instalējot un uzturot virtuālos Linux serverus, izstrādājot Ansible playbooks un konfigurējot Zabbix monitoringu.",
+    "en": "Experienced Linux systems administrator at Dativa, installing and maintaining virtual Linux servers, developing Ansible playbooks and configuring Zabbix monitoring. Requires 3+ years of experience."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1609714/dativa-sia/linux-cilveks",
+  "postedAt": "2026-07-02",
+  "expiresAt": "2026-08-02"
+}
