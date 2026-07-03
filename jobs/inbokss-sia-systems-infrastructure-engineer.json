@@ -1,0 +1,24 @@
+{
+  "slug": "inbokss-sia-systems-infrastructure-engineer",
+  "title": "Systems / Infrastructure Engineer",
+  "company": "INBOKSS SIA",
+  "companyUrl": "https://www.inbox.lv",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "linux",
+    "zabbix",
+    "vpn",
+    "vmware",
+    "proxmox"
+  ],
+  "summary": {
+    "lv": "Sistēmu un infrastruktūras inženieris inbox.lv uzņēmumā, administrējot Linux serverus, datu centru infrastruktūru un VPN risinājumus (5+ gadu pieredze).",
+    "en": "Systems/Infrastructure Engineer at inbox.lv, administering distributed Linux server infrastructure, data center systems, VPN (IPsec/OpenVPN) and virtualization (VMware/Proxmox). Requires 5+ years of experience."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1610037/inbokss-sia/systems-infrastructure-engineer",
+  "postedAt": "2026-07-03",
+  "expiresAt": "2026-08-03"
+}
