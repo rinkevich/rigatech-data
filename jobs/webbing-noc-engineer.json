@@ -1,0 +1,22 @@
+{
+  "slug": "webbing-noc-engineer",
+  "title": "NOC Engineer",
+  "company": "Webbing",
+  "companyUrl": "https://cv.lv/lv/search/employer/webbing?employerId=41120",
+  "location": "Gustava Zemgala gatve 74",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "monitoring",
+    "networking"
+  ],
+  "summary": {
+    "lv": "Webbing meklē NOC inženieri/-i, kurš/-a uzraudzīs tīkla infrastruktūru, novērsīs incidentus un nodrošinās klientu risinājumu darbību.",
+    "en": "Webbing seeks a NOC Engineer to monitor network infrastructure, resolve incidents, and ensure customer solution availability."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1612102/webbing/noc-engineer",
+  "postedAt": "2026-07-07",
+  "salaryRange": "€1900–2100",
+  "expiresAt": "2026-08-07"
+}
