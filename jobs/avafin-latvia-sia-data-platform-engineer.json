@@ -1,0 +1,27 @@
+{
+  "slug": "avafin-latvia-sia-data-platform-engineer",
+  "title": "Data Platform Engineer",
+  "company": "Avafin Latvia SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/avafin-latvia-sia?employerId=24368",
+  "location": "Skanstes iela 12",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "kafka",
+    "apache-spark",
+    "python",
+    "sql",
+    "apache-iceberg",
+    "debezium",
+    "cdc"
+  ],
+  "summary": {
+    "lv": "AvaFin Latvia meklē datu platformas inženieri/-i ar pieredzi straumēšanas sistēmās, kurš/-a atbildēs par reāllaika datu ceļu no avota sistēmām līdz datu ezeram, izmantojot Kafka, Spark un CDC tehnoloģijas.",
+    "en": "AvaFin Latvia seeks a Data Platform Engineer with streaming systems expertise to own the real-time data path from source systems to the data lake using Kafka, Spark, and CDC technologies."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1611968/avafin-latvia-sia/data-platform-engineer",
+  "postedAt": "2026-07-07",
+  "salaryRange": "€2600–6000",
+  "expiresAt": "2026-08-07"
+}
