@@ -1,0 +1,24 @@
+{
+  "slug": "decta-sia-testesanas-specialists-qa-specialist",
+  "title": "Testēšanas speciālists/ QA Specialist",
+  "company": "Decta SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/decta-sia?employerId=30896",
+  "location": "Roberta Hirša iela 1",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "selenium",
+    "postman",
+    "rest",
+    "sql"
+  ],
+  "summary": {
+    "lv": "Decta SIA meklē testēšanas speciālistu/-i, kurš/-a veiks manuālo un automatizēto testēšanu, izstrādās testa plānus un nodrošinās produkta kvalitāti finanšu maksājumu sistēmā.",
+    "en": "Decta SIA seeks a QA Specialist to perform manual and automated testing, develop test plans, and ensure product quality in a financial payments system."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1612104/decta-sia/testesanas-specialists-qa-specialist",
+  "postedAt": "2026-07-07",
+  "salaryRange": "€1800–2600",
+  "expiresAt": "2026-08-07"
+}
