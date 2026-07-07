@@ -1,0 +1,24 @@
+{
+  "slug": "zabbix-sia-c-developer-mid-senior",
+  "title": "C Developer (mid-senior)",
+  "company": "ZABBIX SIA",
+  "companyUrl": "https://www.zabbix.com/personal_data_processing_policy_recruitment",
+  "location": "Gustava Zemgala gatve 74",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "c",
+    "linux",
+    "networking",
+    "snmp"
+  ],
+  "summary": {
+    "lv": "Zabbix SIA meklē C izstrādātāju/-u (mid-senior), kurš/-a piedalīsies Zabbix atvērtā koda monitoringa risinājuma izstrādē un uzturēšanā.",
+    "en": "Zabbix SIA seeks a mid-to-senior C Developer to contribute to the development and maintenance of the Zabbix open-source monitoring solution."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1611238/zabbix-sia/c-developer-mid-senior",
+  "postedAt": "2026-07-06",
+  "salaryRange": "€2400–5000",
+  "expiresAt": "2026-08-06"
+}
