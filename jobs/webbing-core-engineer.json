@@ -1,0 +1,25 @@
+{
+  "slug": "webbing-core-engineer",
+  "title": "Core Engineer",
+  "company": "Webbing",
+  "companyUrl": "https://cv.lv/lv/search/employer/webbing?employerId=41120",
+  "location": "Gustava Zemgala gatve 74",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "5g",
+    "4g",
+    "3g",
+    "networking",
+    "mvno"
+  ],
+  "summary": {
+    "lv": "Webbing meklē Core inženieri/-i, kurš/-a strādās ar live mobilo kodola infrastruktūru, aptverot globālo viesabonēšanu, MVNO operācijas un 5G-SA ceļvedi.",
+    "en": "Webbing seeks a Core Engineer to work hands-on with live mobile core infrastructure spanning global roaming, MVNO operations, and a 5G-SA roadmap."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1612095/webbing/core-engineer",
+  "postedAt": "2026-07-07",
+  "salaryRange": "€3000–4000",
+  "expiresAt": "2026-08-07"
+}
