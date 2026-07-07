@@ -1,0 +1,26 @@
+{
+  "slug": "intrum-global-technologies-senior-software-developer",
+  "title": "Senior Software Developer",
+  "company": "Intrum Global Technologies",
+  "companyUrl": "https://cv.lv/lv/search/employer/intrum-global-technologies?employerId=30911",
+  "location": "Ieriķu iela 5",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "java",
+    "python",
+    "dotnet",
+    "rest",
+    "microservices",
+    "postgres"
+  ],
+  "summary": {
+    "lv": "Intrum Global Technologies meklē vecāko programmatūras izstrādātāju/-u, kurš/-a vadīs kompleksus moduļus, piedalīsies arhitektūras lēmumos un izstrādās backend un full-stack risinājumus.",
+    "en": "Intrum Global Technologies seeks a Senior Software Developer to own complex modules, contribute to architecture decisions, and develop backend and full-stack solutions."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1611308/intrum-global-technologies/senior-software-developer",
+  "postedAt": "2026-07-06",
+  "salaryRange": "€3900–6000",
+  "expiresAt": "2026-08-06"
+}
