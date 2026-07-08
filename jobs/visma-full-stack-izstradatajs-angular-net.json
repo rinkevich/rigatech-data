@@ -1,0 +1,19 @@
+{
+  "slug": "visma-full-stack-izstradatajs-angular-net",
+  "title": "Full-stack izstrādātājs - Angular/.NET",
+  "company": "VISMA",
+  "companyUrl": "https://cv.lv/lv/search/employer/visma?employerId=11231",
+  "location": "Mūkusalas iela 42, 1004 Rīga, Latvia",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–4000",
+  "stack": ["angular", ".net", "entity-framework", "ms-sql", "azure", "aws", "python", "devops"],
+  "summary": {
+    "lv": "Visma meklē full-stack izstrādātāju SIA Jumis Pro komandai, lai attīstītu grāmatvedības un uzņēmuma vadības risinājumu Jumis, izmantojot Angular un .NET tehnoloģijas.",
+    "en": "Visma is looking for a full-stack developer to join the Jumis Pro team and help build and maintain the Jumis accounting and business management solution using Angular and .NET."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1612833/visma/full-stack-izstradatajs-angular-net",
+  "postedAt": "2026-07-08",
+  "expiresAt": "2026-08-07"
+}
