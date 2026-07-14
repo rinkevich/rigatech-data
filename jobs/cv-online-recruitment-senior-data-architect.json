@@ -1,0 +1,26 @@
+{
+  "slug": "cv-online-recruitment-senior-data-architect",
+  "title": "Senior Data Architect",
+  "company": "CV-Online Recruitment",
+  "companyUrl": "https://cv.lv/lv/search/employer/cv-online-recruitment?employerId=19188",
+  "location": "Sporta iela 11",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "azure",
+    "microsoft-fabric",
+    "data-modeling",
+    "etl",
+    "mdm",
+    "archimate"
+  ],
+  "summary": {
+    "lv": "CV-Online Recruitment (Cembra Latvia) meklē Senior Data Architect, kurš vadīs uzņēmuma mērķa datu arhitektūru, strādājot ar Azure, Microsoft Fabric un MDM tehnoloģijām. Hibrīds darbs, atalgojums €7000–8000 mēnesī.",
+    "en": "CV-Online Recruitment is hiring a Senior Data Architect for Cembra Latvia to own the enterprise target data architecture and drive data governance using Azure, Microsoft Fabric, and ArchiMate, offering €7,000–8,000/month."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1613679/cv-online-recruitment/senior-data-architect",
+  "postedAt": "2026-07-09",
+  "salaryRange": "€7000–8000",
+  "expiresAt": "2026-08-09"
+}
