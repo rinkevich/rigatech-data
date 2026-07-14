@@ -1,0 +1,27 @@
+{
+  "slug": "gostack-sia-data-engineer",
+  "title": "Data Engineer",
+  "company": "GOStack SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/gostack-sia?employerId=74977",
+  "location": "Malduguņu iela 2, Mārupe, Mārupes novads, LV-2167",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "python",
+    "sql",
+    "dbt",
+    "airflow",
+    "spark",
+    "aws",
+    "data-pipeline"
+  ],
+  "summary": {
+    "lv": "GOStack SIA meklē Data Engineer, kurš veidos un attīstīs mākoņa datu platformas, pārvaldīs datu cauruļvadus un transformāciju modeļus. Hibrīds darbs, atalgojums €4500–8000 mēnesī.",
+    "en": "GOStack SIA is seeking a Data Engineer to build and evolve cloud-native data platforms, own data pipelines and transformation models, and enable data-driven decision-making, offering €4,500–8,000/month."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1613648/gostack-sia/data-engineer",
+  "postedAt": "2026-07-09",
+  "salaryRange": "€4500–8000",
+  "expiresAt": "2026-08-09"
+}
