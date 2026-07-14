@@ -1,0 +1,25 @@
+{
+  "slug": "intrum-global-technologies-senior-devops-engineer",
+  "title": "Senior Devops Engineer",
+  "company": "Intrum Global Technologies",
+  "companyUrl": "https://cv.lv/lv/search/employer/intrum-global-technologies?employerId=30911",
+  "location": "Ieriķu iela 5, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "kubernetes",
+    "terraform",
+    "docker",
+    "ci-cd",
+    "data-lakehouse"
+  ],
+  "summary": {
+    "lv": "Intrum Global Technologies meklē Senior DevOps Engineer, kurš ieviesīs izvietošanas cauruļvadus ar Terraform un Kubernetes, uzturēs platformas infrastruktūru un iestatīs data lakehouse vidi. Hibrīds darbs Rīgā, atalgojums €4000–6000 mēnesī.",
+    "en": "Intrum Global Technologies seeks a Senior DevOps Engineer to implement deployment pipelines using Terraform and Kubernetes, maintain platform infrastructure, and set up data lakehouse environments, offering €4,000–6,000/month."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1613653/intrum-global-technologies/senior-devops-engineer",
+  "postedAt": "2026-07-09",
+  "salaryRange": "€4000–6000",
+  "expiresAt": "2026-08-09"
+}
