@@ -1,0 +1,24 @@
+{
+  "slug": "epic-frog-data-engineer",
+  "title": "Data Engineer",
+  "company": "Epic Frog",
+  "companyUrl": "https://cv.lv/lv/search/employer/epic-frog?employerId=65312",
+  "location": "Ķelnes iela 1, Rīga, LV-1014",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "python",
+    "sql",
+    "etl",
+    "data-pipeline"
+  ],
+  "summary": {
+    "lv": "Epic Frog meklē Data Engineer, kurš izstrādās datu cauruļvadus un analītiskos risinājumus. Darbs klātienē Rīgā, atalgojums €3500–6000 mēnesī.",
+    "en": "Epic Frog is seeking a Data Engineer to build data pipelines and analytical solutions in an on-site role in Riga, offering €3,500–6,000/month."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1613469/epic-frog/data-engineer",
+  "postedAt": "2026-07-09",
+  "salaryRange": "€3500–6000",
+  "expiresAt": "2026-08-09"
+}
