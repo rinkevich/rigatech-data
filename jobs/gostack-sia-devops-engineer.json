@@ -1,0 +1,25 @@
+{
+  "slug": "gostack-sia-devops-engineer",
+  "title": "DevOps Engineer",
+  "company": "GOStack SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/gostack-sia?employerId=74977",
+  "location": "Malduguņu iela 2, Mārupe, Mārupes novads, LV-2167",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "kubernetes",
+    "terraform",
+    "docker",
+    "ci-cd",
+    "linux"
+  ],
+  "summary": {
+    "lv": "GOStack SIA meklē DevOps Engineer, kurš veidos platformas darbības modeli ar Kubernetes un Terraform, strādājot projektu podās ar CTO tiešu vadību. Hibrīds darbs, atalgojums €4500–8000 mēnesī.",
+    "en": "GOStack SIA seeks a DevOps Engineer to build a scalable operating model using Kubernetes and Terraform within project pods, with direct CTO mentorship, offering €4,500–8,000/month in a hybrid setup."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1613013/gostack-sia/devops-engineer",
+  "postedAt": "2026-07-09",
+  "salaryRange": "€4500–8000",
+  "expiresAt": "2026-08-09"
+}
