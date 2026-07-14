@@ -1,0 +1,25 @@
+{
+  "slug": "mintos-backend-engineer-java",
+  "title": "Backend Engineer (Java)",
+  "company": "Mintos",
+  "companyUrl": "https://cv.lv/lv/search/employer/mintos?employerId=27299",
+  "location": "Skanstes iela 50, Riga, LV-1013, Latvia",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "java",
+    "spring",
+    "postgresql",
+    "kafka",
+    "microservices"
+  ],
+  "summary": {
+    "lv": "Mintos meklē Backend Engineer (Java), kurš strādās ar maksājumu infrastruktūru ieguldījumu platformai miljoniem Eiropas investoru. Hibrīds darbs Rīgā, atalgojums €4400–4800 mēnesī.",
+    "en": "Mintos is hiring a Backend Engineer (Java) to build payment infrastructure for a passive income investing platform serving millions of European investors, offering €4,400–4,800/month in a hybrid role."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1617381/mintos/backend-engineer-java",
+  "postedAt": "2026-07-14",
+  "salaryRange": "€4400–4800",
+  "expiresAt": "2026-08-14"
+}
