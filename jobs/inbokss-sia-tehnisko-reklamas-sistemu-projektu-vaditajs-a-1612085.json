@@ -2,18 +2,22 @@
   "slug": "inbokss-sia-tehnisko-reklamas-sistemu-projektu-vaditajs-a-1612085",
   "title": "Tehnisko Reklāmas Sistēmu Projektu Vadītājs/a",
   "company": "INBOKSS SIA",
-  "companyUrl": "https://cv.lv/lv/search/employer/inbokss-sia?employerId=30053",
+  "companyUrl": "https://inbox.lv",
   "location": "Matrožu iela 15, Rīga, LV-1048",
   "remote": "onsite",
   "employment": "full-time",
   "seniority": "mid",
-  "salaryRange": "€1850",
-  "stack": ["jira"],
+  "stack": [
+    "jira",
+    "advertising-systems",
+    "amp"
+  ],
   "summary": {
-    "lv": "INBOX.LV (INBOKSS SIA) meklē Tehnisko Reklāmas Sistēmu Projektu Vadītāju/-u, kurš pārvaldīs AMP un Baneru sistēmu attīstības projektus, koordinēs darbu JIRA un sniegs tehnisko atbalstu reklāmas sistēmu lietotājiem.",
-    "en": "INBOX.LV is hiring a Technical Advertising Systems Project Manager to oversee AMP and Banner deployment tool projects, coordinate tasks in JIRA, and provide technical support for the advertising systems team."
+    "lv": "INBOKSS SIA (inbox.lv) meklē Tehnisko reklāmas sistēmu projektu vadītāju, kurš vadīs AMP un baneru rīku uzturēšanas un attīstības projektus. Atalgojums €1850 mēnesī.",
+    "en": "INBOKSS SIA (inbox.lv) is seeking a Technical Advertising Systems Project Manager to oversee AMP banner tool maintenance and development projects, offering €1,850/month."
   },
-  "applyUrl": "https://cv.lv/vacancy/1612085/inbokss-sia/tehnisko-reklamas-sistemu-projektu-vaditajs-a",
+  "applyUrl": "https://cv.lv/vacancy/1612085/inbokss-sia/tehnisko-sistemu-projektu-vaditajs-a",
   "postedAt": "2026-07-08",
+  "salaryRange": "€1850",
   "expiresAt": "2026-08-07"
 }
