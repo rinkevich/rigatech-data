@@ -1,0 +1,30 @@
+{
+  "slug": "redwire-defense-tech-riga-embedded-software-developer",
+  "title": "Embedded Software Developer",
+  "company": "Redwire Defense Tech Riga",
+  "companyUrl": "https://cv.lv/lv/search/employer/redwire-defense-tech-riga?employerId=26560",
+  "location": "Grenču iela 5",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "c",
+    "c++",
+    "rtos",
+    "embedded",
+    "spi",
+    "i2c",
+    "uart",
+    "can",
+    "px4",
+    "ardupilot"
+  ],
+  "summary": {
+    "lv": "Redwire Defense Tech Riga meklē Embedded Software Developer, kurš izstrādās mikrokontrolleru programmatūru autonomajām bezpilota gaisa kuģu sistēmām, izmantojot C/C++ un RTOS. Darbs klātienē Rīgā, atalgojums €2850–3950 mēnesī.",
+    "en": "Redwire Defense Tech Riga seeks an Embedded Software Developer to design and test firmware for autonomous unmanned aircraft systems using C/C++, RTOS, and SPI/I2C/UART/CAN protocols, offering €2,850–3,950/month."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1616012/redwire-defense-tech-riga/embedded-software-developer",
+  "postedAt": "2026-07-13",
+  "salaryRange": "€2850–3950",
+  "expiresAt": "2026-08-13"
+}
