@@ -1,0 +1,24 @@
+{
+  "slug": "arvato-systems-latvia-sia-soc-analyst",
+  "title": "SOC Analyst",
+  "company": "Arvato Systems Latvia SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/arvato-systems-latvia-sia?employerId=27013",
+  "location": "Skanstes iela 25",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "siem",
+    "security-monitoring",
+    "soc",
+    "incident-response"
+  ],
+  "summary": {
+    "lv": "Arvato Systems Latvia meklē SOC Analyst, kurš nodrošinās reāllaika drošības uzraudzību un incidentu noteikšanu ar SIEM un citiem drošības rīkiem. Hibrīds darbs Rīgā, atalgojums €2000–3700 mēnesī.",
+    "en": "Arvato Systems Latvia is seeking a SOC Analyst to perform real-time security monitoring and incident response using SIEM and other security tools in a hybrid role in Riga, offering €2,000–3,700/month."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1614423/arvato-systems-latvia-sia/soc-analyst",
+  "postedAt": "2026-07-10",
+  "salaryRange": "€2000–3700",
+  "expiresAt": "2026-08-10"
+}
