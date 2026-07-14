@@ -1,0 +1,26 @@
+{
+  "slug": "moneliq-europe-sia-is-security-officer",
+  "title": "IS Security Officer",
+  "company": "MONELIQ EUROPE SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/moneliq-europe-sia?employerId=79413",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "firewall",
+    "waf",
+    "endpoint-security",
+    "cloud-security",
+    "python",
+    "bash"
+  ],
+  "summary": {
+    "lv": "MONELIQ EUROPE meklē IS Security Officer ar pieredzi drošības pārvaldībā, WAF, ugunsmūros, endpoint security un mākoņtehnoloģijās. Hibrīds darbs, atalgojums €3500–4000 mēnesī.",
+    "en": "MONELIQ EUROPE is seeking an IS Security Officer with experience in security management, WAF, firewalls, endpoint security, and cloud computing, offering a hybrid role with a salary of €3,500–4,000/month."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1613617/moneliq-europe-sia/is-security-officer",
+  "postedAt": "2026-07-09",
+  "salaryRange": "€3500–4000",
+  "expiresAt": "2026-08-09"
+}
