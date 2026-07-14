@@ -1,0 +1,24 @@
+{
+  "slug": "sia-aerones-engineering-ai-native-full-stack-engineer",
+  "title": "AI Native Full-stack Engineer",
+  "company": "SIA Aerones Engineering",
+  "companyUrl": "https://cv.lv/lv/search/employer/sia-aerones-engineering?employerId=27700",
+  "location": "Katlakalna iela 11E, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "django",
+    "python",
+    "react",
+    "postgresql"
+  ],
+  "summary": {
+    "lv": "SIA Aerones Engineering meklē AI Native Full-stack Engineer, kurš ar AI kodēšanas aģentiem kā primāro rīku izstrādā ražošanas funkcijas Django, PostgreSQL un React platformā. Darbs klātienē Rīgā, atalgojums €5000–8500 mēnesī.",
+    "en": "Aerones Engineering seeks an AI Native Full-stack Engineer to design and ship production features using Django, PostgreSQL, and React with AI coding agents as the primary development instrument, offering €5,000–8,500/month."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1617044/sia-aerones-engineering/ai-native-full-stack-engineer",
+  "postedAt": "2026-07-14",
+  "salaryRange": "€5000–8500",
+  "expiresAt": "2026-08-14"
+}
