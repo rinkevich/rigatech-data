@@ -1,0 +1,28 @@
+{
+  "slug": "dund-robotikas-inzenieris",
+  "title": "Robotikas inženieris",
+  "company": "DUND",
+  "companyUrl": "https://cv.lv/lv/search/employer/dund?employerId=79878",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "python",
+    "rust",
+    "c++",
+    "docker",
+    "git",
+    "linux",
+    "kuka",
+    "abb"
+  ],
+  "summary": {
+    "lv": "DUND meklē Robotikas inženieri ar 5+ gadu pieredzi darbā ar industriālajiem robotiem (KUKA, ABB) un programmēšanas prasmēm Python, Rust un C++. Hibrīds darbs, atalgojums €3200–4500 mēnesī.",
+    "en": "DUND is seeking a Robotics Engineer with 5+ years of experience with industrial robots (KUKA, ABB) and programming skills in Python, Rust, and C++, offering a hybrid role with €3,200–4,500/month."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1616094/dund/robotikas-inzenieris",
+  "postedAt": "2026-07-13",
+  "salaryRange": "€3200–4500",
+  "expiresAt": "2026-08-13"
+}
