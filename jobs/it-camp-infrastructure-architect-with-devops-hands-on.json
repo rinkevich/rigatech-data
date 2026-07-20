@@ -1,0 +1,30 @@
+{
+  "slug": "it-camp-infrastructure-architect-with-devops-hands-on",
+  "title": "Infrastructure Architect (with DevOps hands-on)",
+  "company": "IT Camp",
+  "companyUrl": "https://cv.lv/lv/search/employer/it-camp?employerId=26805",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "aws",
+    "azure",
+    "gcp",
+    "terraform",
+    "ansible",
+    "docker",
+    "kubernetes",
+    "vmware",
+    "linux",
+    "grafana"
+  ],
+  "summary": {
+    "lv": "IT Camp partnera Fintech uzņēmums meklē pieredzējušu Infrastructure Architect ar DevOps pieredzi, lai vadītu IT infrastruktūras modernizāciju uz mākoni un automatizētu operācijas.",
+    "en": "IT Camp's Fintech client seeks an experienced Infrastructure Architect with hands-on DevOps skills to lead IT infrastructure modernization and drive cloud and automation best practices."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1621960/it-camp/infrastructure-architect-with-devops-hands-on",
+  "postedAt": "2026-07-20",
+  "expiresAt": "2026-08-20",
+  "salaryRange": "€7000-10000"
+}
