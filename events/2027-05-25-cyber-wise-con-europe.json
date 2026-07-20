@@ -1,0 +1,19 @@
+{
+  "slug": "2027-05-25-cyber-wise-con-europe",
+  "title": {
+    "en": "CyberWiseCon Europe",
+    "lv": "CyberWiseCon Europe"
+  },
+  "date": "2027-05-25",
+  "endDate": "2027-05-28",
+  "location": "Rīga",
+  "url": "https://dev.events/conferences/cyber-wise-con-europe-ixkz6tms",
+  "organizer": "CyberWiseCon",
+  "kind": "conference",
+  "techTags": ["cybersecurity"],
+  "audienceTags": ["engineers", "security-professionals"],
+  "summary": {
+    "en": "CyberWiseCon Europe is a cybersecurity conference taking place on May 25–28, 2027 in Rīga, Latvia.",
+    "lv": "CyberWiseCon Europe ir kiberdrošības konference, kas notiek 2027. gada 25.–28. maijā Rīgā, Latvijā."
+  }
+}
