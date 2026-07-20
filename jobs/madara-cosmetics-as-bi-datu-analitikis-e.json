@@ -1,0 +1,23 @@
+{
+  "slug": "madara-cosmetics-as-bi-datu-analitikis-e",
+  "title": "BI datu analītiķis/-e",
+  "company": "MADARA Cosmetics, AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/madara-cosmetics-as?employerId=27642",
+  "location": "Baložu iela 20a, Āgenskalns, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "power bi",
+    "sql",
+    "bigquery"
+  ],
+  "summary": {
+    "lv": "MADARA Cosmetics meklē BI datu analītiķi, lai izstrādātu Power BI atskaites un informācijas paneļus, optimizētu SQL vaicājumus un palīdzētu uzņēmumam pāriet uz Google BigQuery.",
+    "en": "MADARA Cosmetics seeks a BI Data Analyst to build Power BI dashboards, optimize SQL queries, and support the company's migration to Google BigQuery-based analytics."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1621353/madara-cosmetics-as/bi-datu-analitikis-e",
+  "postedAt": "2026-07-20",
+  "expiresAt": "2026-07-31",
+  "salaryRange": "€3000-3400"
+}
