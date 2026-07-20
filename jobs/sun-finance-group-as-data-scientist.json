@@ -1,0 +1,23 @@
+{
+  "slug": "sun-finance-group-as-data-scientist",
+  "title": "Data Scientist",
+  "company": "Sun Finance Group AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/sun-finance-group-as?employerId=27831",
+  "location": "Skanstes iela 52, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "r",
+    "python",
+    "sql"
+  ],
+  "summary": {
+    "lv": "Sun Finance Group meklē Data Scientist Āfrikas tirgus atbalstam – datu analīzes, prognozēšanas modeļu izstrāde un ieviešana dinamiskā fintech vidē.",
+    "en": "Sun Finance Group seeks a Data Scientist to support the Africa market team with exploratory analysis, predictive model development, and implementation in a fast-growing fintech environment."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1617921/sun-finance-group-as/data-scientist",
+  "postedAt": "2026-07-15",
+  "expiresAt": "2026-08-15",
+  "salaryRange": "€2900-3900"
+}
