@@ -1,0 +1,20 @@
+{
+  "slug": "2026-07-29-the-4th-owasp-riga-chapter-meetup",
+  "title": {
+    "en": "The 4th OWASP Riga Chapter Meetup",
+    "lv": "4. OWASP Rīgas nodaļas tikšanās"
+  },
+  "date": "2026-07-29",
+  "location": "Rīga",
+  "venue": "Workland Telegraph",
+  "url": "https://www.meetup.com/owasp-riga-chapter/events/315626378/",
+  "organizer": "OWASP Riga Chapter",
+  "kind": "meetup",
+  "techTags": ["cybersecurity", "appsec", "ai"],
+  "audienceTags": ["engineers", "security-professionals"],
+  "summary": {
+    "en": "The 4th OWASP Riga Chapter meetup features talks on application security tooling powered by AI and open databases, plus an OWASP introduction — free and open to anyone interested in AppSec.",
+    "lv": "4. OWASP Rīgas nodaļas tikšanās piedāvā priekšlasījumus par lietojumprogrammu drošības rīkiem, ko darbina mākslīgais intelekts un atvērtās datubāzes — bezmaksas pasākums visiem, kas interesējas par AppSec."
+  },
+  "image": "https://wrkland.com/img/containers/assets/owasp1.png/bc6f3d7ed9a360cbfeca1ed7a9120435/owasp1.png"
+}
