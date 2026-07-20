@@ -1,0 +1,31 @@
+{
+  "slug": "sadales-tikls-a-s-devops-inzenieris-e",
+  "title": "DevOps inženieris/-e",
+  "company": "Sadales tīkls A/S",
+  "companyUrl": "https://cv.lv/lv/search/employer/sadales-tikls-a-s?employerId=24920",
+  "location": "Šmerļa iela 1, Rīga",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "kubernetes",
+    "docker",
+    "sql",
+    "linux",
+    "windows server",
+    "javascript",
+    "typescript",
+    "python",
+    "selenium",
+    "elasticsearch",
+    "grafana"
+  ],
+  "summary": {
+    "lv": "Sadales tīkls meklē DevOps inženieri, lai attīstītu un uzturētu viedskaitītāju nolasīšanas un konfigurēšanas sistēmas, nodrošinot to stabilitāti un pieejamību.",
+    "en": "Sadales tīkls seeks a DevOps Engineer to develop and maintain smart meter reading and configuration systems, ensuring their stability, availability, and continuous improvement."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1621858/sadales-tikls-a-s/devops-inzenieris-e",
+  "postedAt": "2026-07-20",
+  "expiresAt": "2026-08-02",
+  "salaryRange": "€2082-3424"
+}
