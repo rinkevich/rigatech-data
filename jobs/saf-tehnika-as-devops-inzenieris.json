@@ -1,0 +1,27 @@
+{
+  "slug": "saf-tehnika-as-devops-inzenieris",
+  "title": "DevOps Inženieris",
+  "company": "SAF TEHNIKA AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/saf-tehnika-as?employerId=26867",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "kubernetes",
+    "docker",
+    "gitlab",
+    "ci/cd",
+    "bash",
+    "python",
+    "linux"
+  ],
+  "summary": {
+    "lv": "SAF Tehnika (Aranet) meklē DevOps inženieri, lai uzturētu un attīstītu Kubernetes infrastruktūru, CI/CD plūsmas un automatizāciju produkta izstrādes komandai.",
+    "en": "SAF Tehnika (Aranet) seeks a DevOps Engineer to maintain and evolve Kubernetes infrastructure, CI/CD pipelines, and automation tooling for the product engineering team."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1620172/saf-tehnika-as/devops-inzenieris",
+  "postedAt": "2026-07-17",
+  "expiresAt": "2026-08-17",
+  "salaryRange": "€3000-5000"
+}
