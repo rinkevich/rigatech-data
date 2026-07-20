@@ -1,0 +1,22 @@
+{
+  "slug": "betby-integration-manager",
+  "title": "Integration Manager",
+  "company": "Betby",
+  "companyUrl": "https://cv.lv/lv/search/employer/betby?employerId=70495",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "api",
+    "rest"
+  ],
+  "summary": {
+    "lv": "Betby meklē Integration Manager, lai nodrošinātu klientu tehnisko onboarding procesu un koordinētu integrācijas projektu izpildi laikā un kvalitatīvi.",
+    "en": "Betby seeks an Integration Manager to oversee client technical onboarding, guide integrations, and coordinate across internal and client teams to ensure timely, smooth delivery."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1622022/betby/integration-manager",
+  "postedAt": "2026-07-20",
+  "expiresAt": "2026-08-20",
+  "salaryRange": "€2500-3400"
+}
