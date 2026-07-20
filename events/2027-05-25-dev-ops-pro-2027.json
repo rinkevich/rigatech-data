@@ -1,0 +1,19 @@
+{
+  "slug": "2027-05-25-dev-ops-pro-2027",
+  "title": {
+    "en": "Dev Ops Pro 2027",
+    "lv": "Dev Ops Pro 2027"
+  },
+  "date": "2027-05-25",
+  "endDate": "2027-05-28",
+  "location": "Rīga",
+  "url": "https://dev.events/conferences/dev-ops-pro-2027-0puudxvk",
+  "organizer": "Dev Ops Pro",
+  "kind": "conference",
+  "techTags": ["devops"],
+  "audienceTags": ["engineers", "devops-engineers"],
+  "summary": {
+    "en": "Dev Ops Pro 2027 is a DevOps conference taking place on May 25–28, 2027 in Rīga, Latvia.",
+    "lv": "Dev Ops Pro 2027 ir DevOps konference, kas notiek 2027. gada 25.–28. maijā Rīgā, Latvijā."
+  }
+}
