@@ -1,0 +1,26 @@
+{
+  "slug": "norse-atlantic-airways-devsecops-engineer",
+  "title": "DevSecOps Engineer",
+  "company": "Norse Atlantic Airways",
+  "companyUrl": "https://cv.lv/lv/search/employer/norse-atlantic-airways?employerId=75974",
+  "location": "Marijas iela 2a, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "ci/cd",
+    "kubernetes",
+    "docker",
+    "aws",
+    "terraform",
+    "linux"
+  ],
+  "summary": {
+    "lv": "Norse Atlantic Airways meklē DevSecOps inženieri, lai integrētu drošības prakses attīstības procesos, automatizētu infrastruktūras pārvaldību un nodrošinātu atbilstību aviācijas nozares standartiem.",
+    "en": "Norse Atlantic Airways seeks a DevSecOps Engineer to embed security into development pipelines, automate infrastructure, and ensure compliance across a growing aviation technology environment."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1621887/norse-atlantic-airways/devsecops-engineer",
+  "postedAt": "2026-07-20",
+  "expiresAt": "2026-08-20",
+  "salaryRange": "€3500-5100"
+}
