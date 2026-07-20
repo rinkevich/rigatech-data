@@ -1,0 +1,24 @@
+{
+  "slug": "saf-tehnika-as-sistemu-administrators-1620171",
+  "title": "Sistēmu Administrators",
+  "company": "SAF TEHNIKA AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/saf-tehnika-as?employerId=26867",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "linux",
+    "windows server",
+    "docker",
+    "postgresql"
+  ],
+  "summary": {
+    "lv": "SAF Tehnika meklē Sistēmu Administratoru, lai uzturētu Windows un Linux serveru vidi, datortīklus, rezerves kopijas un virtualizācijas infrastruktūru.",
+    "en": "SAF Tehnika seeks a Systems Administrator to maintain Windows and Linux server environments, networking, backups, and virtualization infrastructure."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1620171/saf-tehnika-as/sistemu-administrators",
+  "postedAt": "2026-07-17",
+  "expiresAt": "2026-08-17",
+  "salaryRange": "€2000-3500"
+}
