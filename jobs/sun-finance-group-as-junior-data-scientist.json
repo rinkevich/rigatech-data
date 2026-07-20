@@ -1,0 +1,23 @@
+{
+  "slug": "sun-finance-group-as-junior-data-scientist",
+  "title": "Junior Data Scientist",
+  "company": "Sun Finance Group AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/sun-finance-group-as?employerId=27831",
+  "location": "Skanstes iela 52, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "junior",
+  "stack": [
+    "r",
+    "python",
+    "sql"
+  ],
+  "summary": {
+    "lv": "Sun Finance Group meklē Junior Data Scientist, lai atbalstītu Āfrikas datu zinātnes komandu prognozēšanas modeļu izstrādē un datu analīzē.",
+    "en": "Sun Finance Group seeks a Junior Data Scientist to support the Africa data science team in building predictive models and applying exploratory data analysis methods."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1617915/sun-finance-group-as/junior-data-scientist",
+  "postedAt": "2026-07-15",
+  "expiresAt": "2026-08-15",
+  "salaryRange": "€2400-2900"
+}
