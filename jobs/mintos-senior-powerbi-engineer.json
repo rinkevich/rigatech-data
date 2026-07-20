@@ -1,0 +1,22 @@
+{
+  "slug": "mintos-senior-powerbi-engineer",
+  "title": "Senior PowerBI Engineer",
+  "company": "Mintos",
+  "companyUrl": "https://cv.lv/lv/search/employer/mintos?employerId=27299",
+  "location": "Skanstes iela 52, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "power bi",
+    "sql"
+  ],
+  "summary": {
+    "lv": "Mintos meklē Senior Power BI inženieri, lai projektētu mērogojamu Power BI vidi, optimizētu semantiskos modeļus un nodrošinātu self-service analīzi visā uzņēmumā.",
+    "en": "Mintos seeks a Senior Power BI Engineer to architect a scalable Power BI environment, optimize semantic models, and enable reliable self-service analytics across the business."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1618830/mintos/senior-powerbi-engineer",
+  "postedAt": "2026-07-16",
+  "expiresAt": "2026-08-01",
+  "salaryRange": "€3590-4170"
+}
