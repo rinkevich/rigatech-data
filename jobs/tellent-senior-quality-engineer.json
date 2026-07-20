@@ -1,0 +1,19 @@
+{
+  "slug": "tellent-senior-quality-engineer",
+  "title": "Senior Quality Engineer",
+  "company": "Tellent",
+  "companyUrl": "https://remoteok.com/tellent",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€15300–17300",
+  "stack": ["playwright", "graphql", "api", "testing"],
+  "summary": {
+    "en": "Senior Quality Engineer at Tellent HR, owning and growing the test automation strategy with Playwright, expanding end-to-end and backend test coverage in a collaborative hands-on role with direct product impact.",
+    "lv": "Vecākais kvalitātes inženieris Tellent HR, atbildīgs par testu automatizācijas stratēģijas izstrādi ar Playwright, pilnveidojot pilna cikla un backend testu pārklājumu sadarbīgā, praktiskā amatā ar tiešu ietekmi uz produktu."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
+  "postedAt": "2026-07-03",
+  "expiresAt": "2026-10-01"
+}
