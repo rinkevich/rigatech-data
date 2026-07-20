@@ -1,0 +1,23 @@
+{
+  "slug": "talzy-senior-net-developer",
+  "title": "Senior .NET Developer",
+  "company": "Talzy",
+  "companyUrl": "https://cv.lv/lv/search/employer/talzy?employerId=78765",
+  "location": "Lastādijas iela 10, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "c#",
+    ".net",
+    "sql"
+  ],
+  "summary": {
+    "lv": "Talzy meklē Senior .NET izstrādātāju ar 5+ gadu pieredzi .NET/C# platformā darbam kopā ar produkta vadību un ASV arhitektiem pie platformas uzlabošanas.",
+    "en": "Talzy seeks a Senior .NET Developer with 5+ years of .NET/C# experience to collaborate with Product Management and US-based architects on platform feature delivery."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1618299/talzy/senior-net-developer",
+  "postedAt": "2026-07-15",
+  "expiresAt": "2026-08-15",
+  "salaryRange": "€3000-5500"
+}
