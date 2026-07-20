@@ -1,0 +1,23 @@
+{
+  "slug": "trodo-sia-magento-developer",
+  "title": "Magento Developer",
+  "company": "TRODO SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/trodo-sia?employerId=1642",
+  "location": "Lielmaņi, Mārupe",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "magento",
+    "php",
+    "sql"
+  ],
+  "summary": {
+    "lv": "TRODO meklē Magento izstrādātāju pievienoties e-komercijas komandai, lai veidotu un uzturētu platformas integrācijas, back-office funkcijas un storefront.",
+    "en": "TRODO seeks an experienced full-stack Magento Developer to join the e-commerce team, building integrations, back-office features, and storefront functionality."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1621791/trodo-sia/magento-developer",
+  "postedAt": "2026-07-20",
+  "expiresAt": "2026-08-20",
+  "salaryRange": "€1500-3000"
+}
