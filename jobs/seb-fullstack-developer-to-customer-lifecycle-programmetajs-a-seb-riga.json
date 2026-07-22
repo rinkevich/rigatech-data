@@ -1,0 +1,34 @@
+{
+  "slug": "seb-fullstack-developer-to-customer-lifecycle-programmetajs-a-seb-riga",
+  "title": "Fullstack Developer to Customer Lifecycle / Programmētājs/-a | SEB, Riga",
+  "company": "SEB",
+  "companyUrl": "https://sebgroup.com/career",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    ".net",
+    "java",
+    "spring-boot",
+    "jpa",
+    "maven",
+    "kafka",
+    "oracle",
+    "sql-server",
+    "rest",
+    "github-actions",
+    "openshift",
+    "sonarqube",
+    "angular",
+    "react"
+  ],
+  "summary": {
+    "lv": "SEB meklē Fullstack izstrādātāju klientu dzīves cikla komandai Rīgā — strādāt pie KYC risinājumu izstrādes un uzturēšanas, izmantojot .NET/Java un mūsdienīgu CI/CD infrastruktūru.",
+    "en": "SEB is looking for a Fullstack Developer to join the Customer Lifecycle team in Riga, building and maintaining KYC solutions using .NET/Java with modern CI/CD pipelines."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1624212/seb/fullstack-developer-to-customer-lifecycle-programmetajs-a-vai-seb-riga",
+  "postedAt": "2026-07-22",
+  "salaryRange": "€2750–4000",
+  "expiresAt": "2026-08-21"
+}
