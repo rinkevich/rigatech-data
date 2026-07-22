@@ -1,0 +1,27 @@
+{
+  "slug": "seb-configuration-manager-konfiguracijas-vaditajs-a-seb-riga",
+  "title": "Configuration manager (Konfigurācijas vadītājs/-a) | SEB, Riga",
+  "company": "SEB",
+  "companyUrl": "https://www.seb.lv/en/career",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "cmdb",
+    "jira",
+    "lansweeper",
+    "aws",
+    "azure",
+    "gcp",
+    "python"
+  ],
+  "summary": {
+    "lv": "SEB Rīga meklē Konfigurācijas vadītāju/-u — ieviešt un automatizēt Configuration Management Database (CMDB) Jira Assets platformā, integrējot ar Lansweeper.",
+    "en": "SEB Riga is looking for a Configuration Manager to implement and automate CMDB in Jira Assets, integrated with Lansweeper, across cloud and hybrid environments."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1622249/seb/configuration-manager-konfiguracijas-vaditajs-a-vai-seb-riga",
+  "postedAt": "2026-07-20",
+  "salaryRange": "€2950–4450",
+  "expiresAt": "2026-08-21"
+}
