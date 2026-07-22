@@ -1,0 +1,28 @@
+{
+  "slug": "seb-software-developer-programmaturas-izstradatajs-a-in-code-tribe-seb-riga",
+  "title": "Software Developer (Programmatūras izstrādātājs/-a) in CODE Tribe | SEB Riga",
+  "company": "SEB",
+  "companyUrl": "https://www.seb.lv/en/career",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "openedge",
+    "java",
+    "spring-boot",
+    "postgresql",
+    "jenkins",
+    "openshift",
+    "playwright",
+    "github-copilot"
+  ],
+  "summary": {
+    "lv": "SEB Rīga meklē Software Developer CODE Tribe komandai — izstrādāt CRM risinājumus Baltijas klientiem, izmantojot OpenEdge ABL, Java/Spring Boot un modern DevOps rīkus.",
+    "en": "SEB Riga is looking for a Software Developer for the CODE Tribe to build CRM solutions for Baltic customers using OpenEdge ABL, Java/Spring Boot, and modern DevOps tooling."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1623351/seb/software-developer-programmaturas-izstradatajs-a-in-code-tribe-vai-seb-riga",
+  "postedAt": "2026-07-22",
+  "salaryRange": "€2750–4000",
+  "expiresAt": "2026-08-21"
+}
