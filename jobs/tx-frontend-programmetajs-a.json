@@ -1,0 +1,24 @@
+{
+  "slug": "tx-frontend-programmetajs-a",
+  "title": "Frontend programmētājs/-a",
+  "company": "TX",
+  "companyUrl": "https://cv.lv/lv/search/employer/tx?employerId=27360",
+  "location": "Dzirnavu iela 91, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "react",
+    "vue",
+    "javascript",
+    "typescript"
+  ],
+  "summary": {
+    "lv": "TX meklē pieredzējušu Frontend programmētāju ar 5+ gadu pieredzi un prasmēm React, TypeScript un responsīvā dizaina jomā.",
+    "en": "TX is looking for a senior Frontend Developer with 5+ years of experience in modern JavaScript frameworks, primarily React, TypeScript, and responsive design."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1622677/tx/frontend-programmetajs-a",
+  "postedAt": "2026-07-21",
+  "salaryRange": "€3500–4200",
+  "expiresAt": "2026-08-21"
+}
