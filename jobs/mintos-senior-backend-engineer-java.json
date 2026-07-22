@@ -1,0 +1,25 @@
+{
+  "slug": "mintos-senior-backend-engineer-java",
+  "title": "Senior Backend Engineer (Java)",
+  "company": "Mintos",
+  "companyUrl": "https://cv.lv/lv/search/employer/mintos?employerId=27299",
+  "location": "Skanstes iela 52, Riga, LV-1013, Latvia",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "java",
+    "microservices",
+    "payments",
+    "rest",
+    "postgresql"
+  ],
+  "summary": {
+    "lv": "Mintos meklē vecāko Backend inženieri (Java) maksājumu infrastruktūras modernizācijai, lai miljoniem investoru Eiropā nodrošinātu netraucētu līdzekļu pārvaldību.",
+    "en": "Mintos is looking for a Senior Backend Engineer (Java) to revolutionize internal payment infrastructure and support millions of investors across Europe."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1623773/mintos/senior-backend-engineer-java",
+  "postedAt": "2026-07-22",
+  "salaryRange": "€5280–6650",
+  "expiresAt": "2026-08-22"
+}
