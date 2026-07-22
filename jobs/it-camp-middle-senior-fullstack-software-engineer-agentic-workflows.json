@@ -1,0 +1,26 @@
+{
+  "slug": "it-camp-middle-senior-fullstack-software-engineer-agentic-workflows",
+  "title": "Middle/Senior Fullstack Software Engineer (Agentic Workflows)",
+  "company": "IT Camp",
+  "companyUrl": "https://www.levelpath.com",
+  "location": "Jaunā Teika",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "ai",
+    "llm",
+    "typescript",
+    "react",
+    "node.js",
+    "postgresql"
+  ],
+  "summary": {
+    "lv": "IT Camp (sadarbībā ar Levelpath) meklē pieredzējušu Fullstack izstrādātāju agentu darbplūsmu produkta izstrādei AI-first iepirkumu platformā.",
+    "en": "IT Camp (partnering with Levelpath, an AI-first procurement startup) is looking for an experienced Fullstack Software Engineer to build agentic workflow features."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1623758/it-camp/middle-senior-fullstack-software-engineer-agentic-workflows",
+  "postedAt": "2026-07-22",
+  "salaryRange": "€5000–8000",
+  "expiresAt": "2026-08-22"
+}
