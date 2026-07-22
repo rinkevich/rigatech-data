@@ -1,0 +1,24 @@
+{
+  "slug": "engycell-sia-full-stack-nodejs-izstradatajs",
+  "title": "Full stack NodeJS izstrādātājs",
+  "company": "Engycell SIA",
+  "companyUrl": "https://engycell.eu",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "node.js",
+    "typescript",
+    "postgresql",
+    "aws"
+  ],
+  "summary": {
+    "lv": "Engycell SIA meklē Full Stack NodeJS izstrādātāju, kurš strādās pie akumulatoru enerģijas uzkrāšanas sistēmu un saules elektrostaciju automatizācijas programmatūras.",
+    "en": "Engycell, a Baltic energy storage and solar energy software company, is looking for a Full Stack NodeJS Developer to build automation software for battery and solar systems."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1622850/engycell-sia/full-stack-nodejs-izstradatajs",
+  "postedAt": "2026-07-22",
+  "salaryRange": "€4000–6000",
+  "expiresAt": "2026-08-22"
+}
