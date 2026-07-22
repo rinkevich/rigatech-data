@@ -1,0 +1,26 @@
+{
+  "slug": "rigas-dzirnavnieks-as-it-administrators",
+  "title": "IT administrators",
+  "company": "Rīgas Dzirnavnieks AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/rigas-dzirnavnieks-as?employerId=27740",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "windows-server",
+    "microsoft-365",
+    "active-directory",
+    "entra-id",
+    "intune",
+    "fortigate"
+  ],
+  "summary": {
+    "lv": "Rīgas Dzirnavnieks AS meklē IT administratoru/-i — sniegt tehnisko atbalstu, uzturēt Windows Server infrastruktūru, Microsoft 365 un tīkla iekārtas (Fortigate, Aruba, Ubiquiti).",
+    "en": "Rīgas Dzirnavnieks (Baltic grain processor, Herkuless brand) is looking for an IT Administrator to provide technical support and maintain Windows Server, Microsoft 365, and network infrastructure."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1622772/rigas-dzirnavnieks-as/it-administrators",
+  "postedAt": "2026-07-21",
+  "salaryRange": "€3500",
+  "expiresAt": "2026-08-21"
+}
