@@ -1,0 +1,19 @@
+{
+  "slug": "dund-software-developer",
+  "title": "Software Developer",
+  "company": "DUND",
+  "companyUrl": "https://www.dund.nl",
+  "location": "Latvija",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3800–4600",
+  "stack": ["python", "rust", "c++", "mysql", "docker", "git", "linux", "computer vision", "ai"],
+  "summary": {
+    "lv": "Programmatūras izstrādātājs DUND aviācijas kravu pārkraušanas platformā, strādājot ar Python/Rust/C++ un reāliem sensoru datiem automatizēta ULD palešu sistēmas veidošanai.",
+    "en": "Software Developer at DUND's automated aviation cargo handling platform, working with Python/Rust/C++ and real sensor data to build an autonomous ULD pallet processing system."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1625676/dund/software-developer",
+  "postedAt": "2026-07-24",
+  "expiresAt": "2026-08-24"
+}
