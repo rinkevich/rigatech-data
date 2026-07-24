@@ -1,0 +1,19 @@
+{
+  "slug": "workingday-latvia-platform-engineer-platformas-inzenieris-e",
+  "title": "Platform Engineer / Platformas inženieris/-e",
+  "company": "WorkingDay Latvia",
+  "companyUrl": "https://www.workingday.lv",
+  "location": "Latvija",
+  "remote": "remote",
+  "employment": "contract",
+  "seniority": "senior",
+  "salaryRange": "€8000–9000",
+  "stack": ["aws", "terraform", "gitops", "gitlab", "kubernetes", "eks", "ci/cd", "devops"],
+  "summary": {
+    "lv": "Platformas inženieris 6 mēnešu līgumā attālinātā darbā Workday mākoņplatformas komandā, veidojot AWS infrastruktūru ar Terraform, Kubernetes/EKS un GitLab CI/CD pipelines.",
+    "en": "Platform Engineer on a 6-month remote contract for Workday's cloud platform team, building AWS infrastructure with Terraform, Kubernetes/EKS, and GitLab CI/CD pipelines."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1625889/tet-sia/platform-engineer-platformas-inzenieris-e",
+  "postedAt": "2026-07-24",
+  "expiresAt": "2026-08-24"
+}
