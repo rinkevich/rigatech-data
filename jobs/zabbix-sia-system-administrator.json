@@ -1,0 +1,19 @@
+{
+  "slug": "zabbix-sia-system-administrator",
+  "title": "System Administrator",
+  "company": "ZABBIX SIA",
+  "companyUrl": "https://www.zabbix.com",
+  "location": "Gustava Zemgala gatve 74, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2400–3200",
+  "stack": ["linux", "windows", "vmware", "networking", "ansible", "terraform", "git"],
+  "summary": {
+    "lv": "Sistēmas administrators Zabbix SIA, uzturot Linux/Windows serveru un tīkla infrastruktūru un piemērojot drošības ielāpus vienam no populārākajiem atvērtā koda monitoringa risinājumiem.",
+    "en": "Systems Administrator at Zabbix SIA maintaining Linux/Windows server and network infrastructure and applying security patches for one of the world's most popular open-source monitoring platforms."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1625764/zabbix-sia/system-administrator",
+  "postedAt": "2026-07-24",
+  "expiresAt": "2026-08-24"
+}
