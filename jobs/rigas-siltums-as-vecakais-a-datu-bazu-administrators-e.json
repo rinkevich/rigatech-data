@@ -1,0 +1,19 @@
+{
+  "slug": "rigas-siltums-as-vecakais-a-datu-bazu-administrators-e",
+  "title": "Vecākais/ā datu bāzu administrators/-e",
+  "company": "RĪGAS SILTUMS AS",
+  "companyUrl": "https://rs.lv",
+  "location": "Cēsu iela 3A vai Kurzemes prospekts 17, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3100–3450",
+  "stack": ["oracle", "pl/sql", "python", "bash", "jenkins", "git", "linux", "zabbix", "jira"],
+  "summary": {
+    "lv": "Vecākais datu bāzu administrators Rīgas Siltums AS, izstrādājot un uzturot Oracle DB arhitektūru, CI/CD pipelines un automatizācijas skriptus siltumapgādes uzņēmuma IT infrastruktūrā.",
+    "en": "Senior Database Administrator at Rīgas Siltums AS, designing and maintaining Oracle DB architecture, CI/CD pipelines, and automation scripts for a district heating utility's IT infrastructure."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1625279/sia-rietumu-banka/vecakais-a-datu-bazu-administrators-e",
+  "postedAt": "2026-07-23",
+  "expiresAt": "2026-08-07"
+}
