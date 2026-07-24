@@ -1,0 +1,19 @@
+{
+  "slug": "entain-nce-data-quality-bi-qa-engineer",
+  "title": "Data Quality & BI QA Engineer",
+  "company": "Entain NCE",
+  "companyUrl": "https://cv.lv/lv/search/employer/entain-nce?employerId=11821",
+  "location": "Satekles iela 2b, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2500–3500",
+  "stack": ["power-bi", "snowflake", "clickhouse", "python", "sql", "data-quality"],
+  "summary": {
+    "lv": "Entain NCE meklē Data Quality & BI QA inženieri, kurš nodrošinās uzticamu ziņošanu NCE reģionā, validēs KPI, datu vērtības un Power BI semantiskos modeļus, izmantojot Power BI, Snowflake un ClickHouse tehnoloģiju kopu.",
+    "en": "Entain NCE is looking for a Data Quality & BI QA Engineer to ensure trusted reporting across the NCE region, validate KPIs, data values, and Power BI semantic models using a stack of Power BI, Snowflake, and ClickHouse."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1624676/cv-online-recruitment/data-quality-bi-qa-engineer",
+  "postedAt": "2026-07-23",
+  "expiresAt": "2026-08-23"
+}
