@@ -1,0 +1,19 @@
+{
+  "slug": "bluor-bank-as-kiberdrosibas-risku-analitikis-e",
+  "title": "Kiberdrošības risku analītiķis/-e",
+  "company": "BluOr Bank AS",
+  "companyUrl": "https://bluorbank.lv",
+  "location": "Smilšu iela 6, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–4100",
+  "stack": ["siem", "active directory", "windows", "linux", "iso 27001", "dora"],
+  "summary": {
+    "lv": "Kiberdrošības risku analītiķis BluOr bankā, kurš identificē IT riskus, veic risku novērtējumus, analizē incidentus un nodrošina DORA un ISO 27001 atbilstību.",
+    "en": "Cybersecurity Risk Analyst at BluOr Bank identifying IT risks, conducting risk assessments, analysing incidents, and ensuring DORA and ISO 27001 compliance."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1625780/bluor-bank-as/kiberdrosibas-risku-analitikis-e",
+  "postedAt": "2026-07-24",
+  "expiresAt": "2026-08-24"
+}
