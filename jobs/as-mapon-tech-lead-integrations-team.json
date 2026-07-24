@@ -1,0 +1,19 @@
+{
+  "slug": "as-mapon-tech-lead-integrations-team",
+  "title": "Tech Lead | Integrations team",
+  "company": "AS Mapon",
+  "companyUrl": "https://cv.lv/lv/search/employer/as-mapon?employerId=26971",
+  "location": "Ojāra Vācieša iela 6B, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "lead",
+  "salaryRange": "€5000",
+  "stack": ["php", "laravel", "mysql", "mariadb", "react", "docker", "aws", "gitlab", "redis", "grafana", "prometheus"],
+  "summary": {
+    "lv": "Tech Lead integrāciju komandā Mapon B2B SaaS autoparka pārvaldības platformā, vadot komandu, projektējot risinājumu arhitektūru un sadarbojoties ar Product Manager produkta attīstībā.",
+    "en": "Tech Lead for the Integrations team at Mapon's B2B SaaS fleet management platform, leading the team, designing solution architecture, and partnering with the Product Manager on roadmap delivery."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1625218/twino-investments-sia/tech-lead-integrations-team",
+  "postedAt": "2026-07-23",
+  "expiresAt": "2026-08-23"
+}
