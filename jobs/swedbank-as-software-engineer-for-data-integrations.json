@@ -1,0 +1,19 @@
+{
+  "slug": "swedbank-as-software-engineer-for-data-integrations",
+  "title": "Software Engineer for Data Integrations",
+  "company": "Swedbank AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/swedbank-as?employerId=29215",
+  "location": "Konstitucijos pr. 20a, Vilnius, Lithuania",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3200–4800",
+  "stack": ["servicenow", "azure", "databricks", "rest api", "python", "ai"],
+  "summary": {
+    "lv": "Datu integrāciju programmatūras inženieris Swedbank Procurement IT komandā, veidojot ServiceNow risinājumus un AI vadītas integrācijas ar Azure Data Lake un Databricks.",
+    "en": "Software Engineer for Data Integrations in Swedbank's Procurement IT team, building ServiceNow solutions and AI-driven integrations with Azure Data Lake and Databricks."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1625660/evolution-latvia-sia/software-engineer-for-data-integrations",
+  "postedAt": "2026-07-24",
+  "expiresAt": "2026-08-16"
+}
