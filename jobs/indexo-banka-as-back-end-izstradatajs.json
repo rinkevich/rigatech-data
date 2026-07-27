@@ -1,0 +1,27 @@
+{
+  "slug": "indexo-banka-as-back-end-izstradatajs",
+  "title": "Back-End izstrādātājs",
+  "company": "Indexo Banka AS",
+  "companyUrl": "https://www.indexo.lv",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3300–4500",
+  "stack": [
+    "node.js",
+    "typescript",
+    "azure",
+    "azure-functions",
+    "cosmos-db",
+    "event-grid",
+    "rest-api"
+  ],
+  "summary": {
+    "lv": "Back-End izstrādātājs Indexo Bankā – izstrādāt un uzturēt pakalpojumus Microsoft Azure vidē ar Node.js/TypeScript, veidot integrācijas ar iekšējām un ārējām sistēmām.",
+    "en": "Back-End Developer at Indexo Bank – build and maintain services in Microsoft Azure using Node.js/TypeScript, and integrate with internal and external systems."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1627480/indexo-banka-as/back-end-izstradatajs",
+  "postedAt": "2026-07-27",
+  "expiresAt": "2026-08-10"
+}
