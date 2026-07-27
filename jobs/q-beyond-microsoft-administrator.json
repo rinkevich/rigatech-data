@@ -1,0 +1,25 @@
+{
+  "slug": "q-beyond-microsoft-administrator",
+  "title": "Microsoft Administrator",
+  "company": "Q.BEYOND",
+  "companyUrl": "https://cv.lv/lv/search/employer/q-beyond?employerId=30697",
+  "location": "Bērzaunes iela 7, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2900–3700",
+  "stack": [
+    "microsoft",
+    "active-directory",
+    "azure",
+    "powershell",
+    "windows-server"
+  ],
+  "summary": {
+    "lv": "Microsoft administrators Q.BEYOND komandā Rīgā – uzturēt Microsoft serveru infrastruktūru, Active Directory, Entra ID un automatizēt uzdevumus ar PowerShell.",
+    "en": "Microsoft Administrator at Q.BEYOND in Riga – manage Microsoft server infrastructure, Active Directory, Entra ID, and automate recurring tasks with PowerShell."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1627096/q-beyond/microsoft-administrator",
+  "postedAt": "2026-07-27",
+  "expiresAt": "2026-08-27"
+}
