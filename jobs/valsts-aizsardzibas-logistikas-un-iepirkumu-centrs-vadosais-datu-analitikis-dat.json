@@ -1,0 +1,25 @@
+{
+  "slug": "valsts-aizsardzibas-logistikas-un-iepirkumu-centrs-vadosais-datu-analitikis-dat",
+  "title": "Vadošais datu analītiķis / datu zinātnieks",
+  "company": "Valsts aizsardzības loģistikas un iepirkumu centrs",
+  "companyUrl": "https://www.valic.gov.lv",
+  "location": "Biksēres iela 6, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "lead",
+  "salaryRange": "€2740–2950",
+  "stack": [
+    "power-bi",
+    "sql",
+    "python",
+    "ms-excel",
+    "rvs-horizon"
+  ],
+  "summary": {
+    "lv": "Vadošais datu analītiķis/datu zinātnieks VALIC – veidot analītisko datu bāzi transportlīdzekļu parka datiem, izstrādāt prognožu modeļus un Power BI paneļus aizsardzības nozarei.",
+    "en": "Lead Data Analyst / Data Scientist at VALIC – build an analytical data foundation for fleet data, develop forecasting models and Power BI dashboards for the defence sector."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1627415/valsts-aizsardzibas-logistikas-un-iepirkumu-centrs/vadosais-datu-analitikis-datu-zinatnieks",
+  "postedAt": "2026-07-27",
+  "expiresAt": "2026-08-09"
+}
