@@ -1,0 +1,19 @@
+{
+  "slug": "latvijas-digitalas-veselibas-centrs-sia-is-standartizacijas-vaditajs",
+  "title": "IS standartizācijas vadītājs",
+  "company": "Latvijas Digitālās veselības centrs SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/latvijas-digitalas-veselibas-centrs-sia?employerId=76372",
+  "location": "Lāčplēša iela 70A, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "lead",
+  "salaryRange": "€3400",
+  "stack": ["hl7-fhir", "snomed-ct", "icd", "gdpr", "data-privacy"],
+  "summary": {
+    "lv": "Latvijas Digitālās veselības centrs meklē IS standartizācijas vadītāju, kurš izstrādās veselības nozares IT sistēmu standartizācijas stratēģiju, ieviesīs HL7 FHIR un citus standartus un nodrošinās sistēmu sadarbspēju.",
+    "en": "Latvia's Digital Health Center is hiring an IS standardization manager to develop healthcare IT standardization strategy, implement HL7 FHIR and other international standards, and ensure system interoperability."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1627488/latvijas-digitalas-veselibas-centrs-sia/is-standartizacijas-vaditajs",
+  "postedAt": "2026-07-28",
+  "expiresAt": "2026-08-10"
+}
