@@ -1,0 +1,19 @@
+{
+  "slug": "sadales-tikls-a-s-lielo-datu-analitikis-e",
+  "title": "Lielo datu analītiķis/-e",
+  "company": "Sadales tīkls A/S",
+  "companyUrl": "https://cv.lv/lv/search/employer/sadales-tikls-a-s?employerId=24920",
+  "location": "Rīga, Šmerļa iela 1",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2240–2490",
+  "stack": ["sql", "python", "r", "excel", "bi"],
+  "summary": {
+    "lv": "Sadales tīkls aicina darbā lielo datu analītiķi, kurš veiks elektroenerģijas datu kartēšanu, analizēs tendences un izstrādās datu apstrādes risinājumus, izmantojot SQL, Python un R.",
+    "en": "Sadales tīkls is hiring a big data analyst to map electricity data, analyze trends, and build data processing solutions using SQL, Python, and R."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1628572/sadales-tikls-a-s/lielo-datu-analitikis-e",
+  "postedAt": "2026-07-28",
+  "expiresAt": "2026-08-10"
+}
