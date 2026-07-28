@@ -1,0 +1,19 @@
+{
+  "slug": "intrum-global-technologies-senior-data-engineer-1628337",
+  "title": "Senior Data Engineer",
+  "company": "Intrum Global Technologies",
+  "companyUrl": "https://cv.lv/lv/search/employer/intrum-global-technologies?employerId=30911",
+  "location": "Ieriķu iela 5, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4000–5500",
+  "stack": ["azure", "databricks", "pyspark", "python", "sql", "adls", "delta-lake", "azure-devops", "etl"],
+  "summary": {
+    "lv": "Intrum Global Technologies meklē Senior Data Engineer, kurš izstrādās datu konveijierus, optimizēs datu platformu Azure/Databricks vidē un vadīs tehniskās iniciatīvas datu inženierijas jomā.",
+    "en": "Intrum Global Technologies is hiring a Senior Data Engineer to implement data pipelines, optimize Azure/Databricks data platforms, and lead technical initiatives in the data engineering domain."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1628337/intrum-global-technologies/senior-data-engineer",
+  "postedAt": "2026-07-28",
+  "expiresAt": "2026-08-28"
+}
