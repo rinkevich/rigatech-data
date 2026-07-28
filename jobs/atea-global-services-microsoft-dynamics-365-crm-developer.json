@@ -1,0 +1,19 @@
+{
+  "slug": "atea-global-services-microsoft-dynamics-365-crm-developer",
+  "title": "Microsoft Dynamics 365 CRM Developer",
+  "company": "Atea Global Services",
+  "companyUrl": "https://cv.lv/lv/search/employer/atea-global-services?employerId=27059",
+  "location": "Antonijas iela 17, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–4000",
+  "stack": ["csharp", "dotnet", "dynamics-365", "javascript", "power-platform", "azure", "sql"],
+  "summary": {
+    "lv": "Atea Global Services meklē Microsoft Dynamics 365 CRM Developer, kurš izstrādās un uzturēs CRM risinājumus, izmantojot C#/.NET un JavaScript, un integrēs tos ar ārējām sistēmām.",
+    "en": "Atea Global Services is hiring a Microsoft Dynamics 365 CRM Developer to design and maintain CRM solutions using C#/.NET and JavaScript, build custom extensions, and integrate with external systems."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1628442/atea-global-services/microsoft-dynamics-365-crm-developer",
+  "postedAt": "2026-07-28",
+  "expiresAt": "2026-08-28"
+}
