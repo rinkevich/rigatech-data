@@ -1,0 +1,18 @@
+{
+  "slug": "infortec-consultores-python-developer-remoto",
+  "title": "PYTHON DEVELOPER REMOTO",
+  "company": "Infortec Consultores",
+  "companyUrl": "https://remoteok.com/company/infortec-consultores",
+  "location": "Remote · Spain",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": ["python", "flask", "pandas", "numpy", "sql", "docker", "aws", "terraform", "snowflake", "datadog"],
+  "summary": {
+    "en": "Infortec Consultores is seeking an experienced Python Developer (5+ years) for a fully remote international project, building web applications with Flask and Plotly Dash, processing data with Pandas and NumPy, and working with SQL databases and CI/CD pipelines via GitHub Actions. Cloud skills in AWS, Terraform, and Snowflake are a bonus; English B2 is required.",
+    "lv": "Infortec Consultores meklē pieredzējušu Python izstrādātāju (5+ gadu pieredze) pilnīgi attālinātam starptautiskam projektam, veidojot Flask un Plotly Dash lietotnes un apstrādājot datus ar Pandas un NumPy. Papildu punkti par AWS, Terraform un Snowflake; nepieciešams angļu valodas B2 līmenis."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-python-developer-remoto-infortec-consultores-1135320",
+  "postedAt": "2026-07-21",
+  "expiresAt": "2026-10-19"
+}
