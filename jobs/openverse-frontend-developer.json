@@ -1,0 +1,18 @@
+{
+  "slug": "openverse-frontend-developer",
+  "title": "Frontend Developer",
+  "company": "Openverse",
+  "companyUrl": "https://remoteok.com/company/openverse",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": ["javascript", "react", "angular", "graphql", "web3", "typescript"],
+  "summary": {
+    "en": "Openverse is hiring a Frontend Developer to build intuitive user interfaces for its Web3 and blockchain decentralized applications. The role requires strong proficiency in JavaScript with React, Vue, or Angular and hands-on experience with Web3 libraries such as ethers.js or web3.js.",
+    "lv": "Openverse meklē frontend izstrādātāju, lai veidotu lietotāja saskarnes Web3 un blokķēdes decentralizētajām aplikācijām. Nepieciešamas zināšanas JavaScript ar React, Vue vai Angular un pieredze ar Web3 bibliotēkām kā ethers.js vai web3.js."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-frontend-developer-openverse-1135292",
+  "postedAt": "2026-07-17",
+  "expiresAt": "2026-10-15"
+}
