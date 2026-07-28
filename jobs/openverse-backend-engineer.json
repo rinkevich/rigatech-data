@@ -1,0 +1,18 @@
+{
+  "slug": "openverse-backend-engineer",
+  "title": "Backend Engineer",
+  "company": "Openverse",
+  "companyUrl": "https://remoteok.com/company/openverse",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": ["golang", "typescript", "graphql", "web3", "ethereum"],
+  "summary": {
+    "en": "Openverse is a Web3 startup building blockchain solutions and decentralized applications, seeking Backend Engineers at junior, mid, and senior levels. The role requires experience with Rust, Go, or TypeScript and blockchain development on platforms such as Ethereum or Solana.",
+    "lv": "Openverse ir Web3 uzņēmums, kas veido blokķēdes risinājumus un decentralizētas aplikācijas, meklējot backend inženierus dažādos pieredzes līmeņos. Amats prasa pieredzi ar Rust, Go vai TypeScript un blokķēdes izstrādi platformās kā Ethereum vai Solana."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-backend-engineer-openverse-1135477",
+  "postedAt": "2026-07-17",
+  "expiresAt": "2026-10-15"
+}
