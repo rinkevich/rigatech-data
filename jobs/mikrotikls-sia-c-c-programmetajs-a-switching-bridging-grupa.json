@@ -1,0 +1,19 @@
+{
+  "slug": "mikrotikls-sia-c-c-programmetajs-a-switching-bridging-grupa",
+  "title": "C/C++ programmētājs/-a (switching & bridging grupā)",
+  "company": "Mikrotīkls SIA",
+  "companyUrl": "https://mikrotik.com",
+  "location": "Ūnijas iela 2, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€4000–10000",
+  "stack": ["c", "c++", "linux", "switching", "bridging", "sonic", "sai"],
+  "summary": {
+    "lv": "Mikrotīkls SIA meklē C/C++ programmētāju Switching/Bridging grupai, kura pienākumi ietver tīkla protokolu pētniecību, Linux kodola tīkla apakšsistēmu izstrādi un draiveru portēšanu.",
+    "en": "MikroTik is hiring a C/C++ programmer for the Switching/Bridging team to research and implement network protocols, develop Linux kernel networking subsystems, and port drivers."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1628581/mikrotikls-sia/c-c-programmetajs-a-switching-un-bridging-grupa",
+  "postedAt": "2026-07-28",
+  "expiresAt": "2026-08-28"
+}
