@@ -1,0 +1,19 @@
+{
+  "slug": "suppline-sia-vadosais-izstradatajs-lead-developer",
+  "title": "Vadošais izstrādātājs / Lead Developer",
+  "company": "Suppline SIA",
+  "companyUrl": "https://www.spinwise.com",
+  "location": "Cēsu iela 31, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "lead",
+  "salaryRange": "€5000",
+  "stack": ["nextjs", "react", "typescript", "redux", "websocket", "ssr", "docker", "kubernetes", "ci-cd"],
+  "summary": {
+    "lv": "Spinwise (iGaming platforma) meklē vadošo izstrādātāju, kurš atbildēs par Core Web Vitals uzlabošanu, SSR/ISR optimizāciju, Redux un WebSocket veiktspēju, kā arī mentorēs komandu.",
+    "en": "Spinwise (iGaming platform) seeks a Lead Developer to own performance across their high-traffic Next.js/React/TypeScript platform, optimizing Core Web Vitals, SSR/ISR rendering, Redux and WebSocket performance while mentoring the team."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1629339/suppline-sia/vadosais-izstradatajs-lead-developer",
+  "postedAt": "2026-07-29",
+  "expiresAt": "2026-08-29"
+}
