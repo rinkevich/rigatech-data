@@ -1,0 +1,19 @@
+{
+  "slug": "it-camp-python-developer-testing-network-for-swisscom",
+  "title": "Python developer (Testing / Network) for Swisscom",
+  "company": "IT Camp",
+  "companyUrl": "https://cv.lv/lv/search/employer/it-camp?employerId=11583",
+  "location": "Verde, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3900–5200",
+  "stack": ["python", "test-automation", "networking", "tcp-ip", "dns", "ipsec", "vpn", "rag", "mcp", "ai"],
+  "summary": {
+    "lv": "IT Camp / Swisscom meklē Python izstrādātāju, kurš strādās pie Python bāzētas e2e testa automatizācijas ietvara virtuālo tīkla komponentu pārbaudei un veidojot iekšējo AI rīku infrastruktūru, ieskaitot MCP vārteju un RAG/hibrīdās izguves cauruļvadus.",
+    "en": "IT Camp / Swisscom seeks a Python Developer to build and extend a Python-based e2e test automation framework for virtual network components while also developing internal AI tooling including an authenticated MCP gateway and RAG/hybrid retrieval pipelines."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1629501/it-camp/python-developer-testing-network-for-swisscom",
+  "postedAt": "2026-07-29",
+  "expiresAt": "2026-08-29"
+}
