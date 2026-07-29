@@ -1,0 +1,19 @@
+{
+  "slug": "aox-trade-datu-zinatnieks-ce-quantitative-researcher",
+  "title": "Datu zinātnieks/-ce/ Quantitative researcher",
+  "company": "AOX Trade",
+  "companyUrl": "https://cv.lv/lv/search/employer/aox-trade?employerId=110562",
+  "location": "Vesetas iela 7, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2000–4000",
+  "stack": ["python", "pandas", "numpy", "scikit-learn", "pytorch", "tensorflow", "sql", "postgresql", "mongodb"],
+  "summary": {
+    "lv": "AOX Trade meklē datu zinātnieku, kurš izstrādātu prognozēšanas modeļus atjaunojamās elektroenerģijas ražotāju portfelim un elektroenerģijas biržas tirdzniecības modeļus.",
+    "en": "AOX Trade seeks a Data Scientist / Quantitative Researcher to develop forecasting models for one of the largest renewable energy producer portfolios in the Baltics and build energy exchange trading models."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1629316/aox-trade/datu-zinatnieks-ce-quantitative-researcher",
+  "postedAt": "2026-07-29",
+  "expiresAt": "2026-08-26"
+}
