@@ -1,0 +1,19 @@
+{
+  "slug": "bigbank-as-latvijas-filiale-platform-engineer-platformas-inzenieris-e",
+  "title": "Platform Engineer (Platformas inženieris/-e)",
+  "company": "Bigbank AS Latvijas filiāle",
+  "companyUrl": "https://cv.lv/lv/search/employer/bigbank-as-latvijas-filiale?employerId=72009",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€5000–8000",
+  "stack": ["kubernetes", "gitops", "ci-cd", "terraform", "platform-engineering", "sre", "docker"],
+  "summary": {
+    "lv": "Bigbank meklē platformas inženieri, kurš projektēs un optimizēs platformas infrastruktūru, izveidos GitOps bāzētas programmatūras piegādes procesus un nodrošinās Bigbank pakalpojumu mērogojamību un uzticamību.",
+    "en": "Bigbank seeks a Platform Engineer to design and optimize platform infrastructure, build GitOps-based software delivery processes and ensure scalability and reliability of Bigbank services."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1629247/bigbank-as-latvijas-filiale/platform-engineer-platformas-inzenieris-e",
+  "postedAt": "2026-07-29",
+  "expiresAt": "2026-08-26"
+}
