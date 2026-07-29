@@ -1,0 +1,19 @@
+{
+  "slug": "luminor-bank-as-latvijas-filiale-devops-inzenieris-e-klientu-pieredze-un-dati",
+  "title": "DevOps inženieris/-e (Klientu pieredze un dati)",
+  "company": "Luminor Bank AS Latvijas filiāle",
+  "companyUrl": "https://cv.lv/lv/search/employer/luminor-bank-as-latvijas-filiale?employerId=20836",
+  "location": "Skanstes iela 12, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3180–4780",
+  "stack": ["kubernetes", "kafka", "flink", "spark", "iceberg", "aws", "grafana", "prometheus", "terraform", "ci-cd"],
+  "summary": {
+    "lv": "Luminor Bank meklē DevOps inženieri Datu platformas nodaļā, kurš nodrošinās datu platformu uzticamību un mērogojamību, izmantojot Kubernetes, Kafka, Flink, Spark, Iceberg un AWS pakalpojumus.",
+    "en": "Luminor Bank seeks a DevOps Engineer for the Data Platform Unit to ensure reliability and scalability of data platforms using Kubernetes, Kafka, Flink, Spark, Iceberg and AWS services."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1629373/luminor-bank-as-latvijas-filiale/devops-inzenieris-e-klientu-pieredze-un-dati",
+  "postedAt": "2026-07-29",
+  "expiresAt": "2026-08-09"
+}
