@@ -1,0 +1,19 @@
+{
+  "slug": "bluor-bank-as-android-izstradatajs-a",
+  "title": "Android izstrādātājs/-a",
+  "company": "BluOr Bank AS",
+  "companyUrl": "https://bluorbank.lv",
+  "location": "Smilšu iela 6, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3500–5000",
+  "stack": ["kotlin", "java", "android", "api", "json", "git"],
+  "summary": {
+    "lv": "BluOr Bank meklē Android izstrādātāju, kurš attīstīs esošās informācijas sistēmas, izstrādās un testēs mobilās lietotnes un sadarbosies ar analītiķiem, dizaineriem un servera daļas izstrādātājiem.",
+    "en": "BluOr Bank seeks an Android Developer to develop and test mobile applications, improve existing information systems and collaborate with analysts, designers and backend developers."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1628693/bluor-bank-as/android-izstradatajs-a",
+  "postedAt": "2026-07-28",
+  "expiresAt": "2026-08-28"
+}
