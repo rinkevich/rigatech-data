@@ -1,0 +1,19 @@
+{
+  "slug": "signet-bank-as-jaunakais-it-sistemu-administrators-e",
+  "title": "Jaunākais IT sistēmu administrators/-e",
+  "company": "Signet Bank AS",
+  "companyUrl": "https://signetbank.com",
+  "location": "Antonijas iela 3, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€2400–3000",
+  "stack": ["windows-server", "linux", "active-directory", "microsoft-365", "tcp-ip", "dns", "dhcp", "vpn"],
+  "summary": {
+    "lv": "Signet Bank meklē jaunāko IT sistēmu administratoru, kurš administrēs Windows un Linux serverus, uzturēs IT infrastruktūru un datortīklus, administrēs Active Directory un Microsoft 365 vidi.",
+    "en": "Signet Bank seeks a Junior IT Systems Administrator to manage Windows and Linux servers, maintain IT infrastructure and networks, administer Active Directory and Microsoft 365 environments."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1628758/signet-bank-as/jaunakais-it-sistemu-administrators-e",
+  "postedAt": "2026-07-28",
+  "expiresAt": "2026-08-28"
+}
