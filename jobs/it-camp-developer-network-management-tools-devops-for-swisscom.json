@@ -1,0 +1,19 @@
+{
+  "slug": "it-camp-developer-network-management-tools-devops-for-swisscom",
+  "title": "Developer (Network management tools DevOps) for Swisscom",
+  "company": "IT Camp",
+  "companyUrl": "https://cv.lv/lv/search/employer/it-camp?employerId=11583",
+  "location": "Verde, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3000–5500",
+  "stack": ["devops", "ci-cd", "automation", "python", "monitoring", "oss-systems"],
+  "summary": {
+    "lv": "IT Camp / Swisscom meklē DevOps izstrādātāju tīkla pārvaldības rīku komandai, kurš izstrādās automatizācijas rīkus, apkalpos OSS sistēmas un pilnveidos CI/CD cauruļvadus tīkla pārvaldības jomā.",
+    "en": "IT Camp / Swisscom seeks a DevOps Developer for the network management tools team to develop automation tools, operate OSS systems and improve CI/CD pipelines in the network management domain."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1629490/it-camp/developer-network-management-tools-devops-for-swisscom",
+  "postedAt": "2026-07-29",
+  "expiresAt": "2026-08-29"
+}
