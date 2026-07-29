@@ -1,0 +1,19 @@
+{
+  "slug": "valsts-nekustamie-ipasumi-vas-vecakais-it-administrators-e",
+  "title": "Vecākais IT administrators/-e",
+  "company": "Valsts nekustamie īpašumi VAS",
+  "companyUrl": "https://www.vni.lv",
+  "location": "Talejas iela 1, Rīga",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€2500",
+  "stack": ["windows-server", "linux", "virtualization", "networking", "cybersecurity", "disaster-recovery"],
+  "summary": {
+    "lv": "VNI meklē vecāko IT administratoru ar 5+ gadu pieredzi, kurš administrēs IT infrastruktūru (serveri, virtualizācija, tīkls), nodrošinās kiberdrošību un ieviesīs DR risinājumus ar iespēju strādāt attālināti.",
+    "en": "VNI (State Real Estate) seeks a Senior IT Administrator with 5+ years of experience to manage IT infrastructure (servers, virtualization, networking), ensure cybersecurity compliance and implement disaster recovery solutions, with remote work option."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1629130/valsts-nekustamie-ipasumi-vas/vecakais-it-administrators-e",
+  "postedAt": "2026-07-29",
+  "expiresAt": "2026-08-29"
+}
