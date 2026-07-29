@@ -1,0 +1,19 @@
+{
+  "slug": "seb-system-administrator-sistemu-administrators-in-data-enablers-team-seb-riga",
+  "title": "System Administrator / Sistēmu administrators in Data Enablers team | SEB, Riga",
+  "company": "SEB",
+  "companyUrl": "https://www.seb.lv/en/career",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2250–3250",
+  "stack": ["sap-iq", "apache-airflow", "apache-nifi", "sql", "linux", "bash", "python", "webfocus"],
+  "summary": {
+    "lv": "SEB meklē Sistēmu administratoru Data Enablers komandā, kurš izstrādās un uzturēs ETL procesus SAP IQ, Apache Airflow un Nifi vidē, risinās incidentus un piedalīsies dažādos projektos.",
+    "en": "SEB is looking for a System Administrator to join the Data Enablers team, responsible for developing and maintaining ETL processes in SAP IQ, Apache Airflow and Nifi, handling incidents and participating in various projects."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1629591/seb/system-administrator-sistemu-administrators-in-data-enablers-team-vai-seb-riga",
+  "postedAt": "2026-07-29",
+  "expiresAt": "2026-08-28"
+}
