@@ -1,0 +1,18 @@
+{
+  "slug": "wakacje-pl-software-engineer-go",
+  "title": "Software Engineer GO",
+  "company": "Wakacje.pl",
+  "companyUrl": "https://remoteok.com/company/wakacje-pl",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": ["golang", "api"],
+  "summary": {
+    "en": "Wakacje.pl, a market-leading travel agency within an international holding, is looking for a Golang backend engineer to build robust API integrations between tour operator partner systems.",
+    "lv": "Wakacje.pl, starptautiskas grupas vadošā ceļojumu aģentūra, meklē Golang aizmugursistēmas inženieri, kurš veidotu stabilas API integrācijas starp tūroperatoru partneru sistēmām."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+  "postedAt": "2026-07-29",
+  "expiresAt": "2026-10-27"
+}
