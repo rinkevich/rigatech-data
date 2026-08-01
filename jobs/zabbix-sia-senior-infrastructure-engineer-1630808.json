@@ -1,0 +1,28 @@
+{
+  "slug": "zabbix-sia-senior-infrastructure-engineer-1630808",
+  "title": "Senior Infrastructure Engineer",
+  "company": "ZABBIX SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/zabbix-sia?employerId=10587",
+  "location": "Gustava Zemgala gatve 74",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "linux",
+    "aws",
+    "gcp",
+    "azure",
+    "terraform",
+    "ansible",
+    "cloudflare",
+    "networking"
+  ],
+  "summary": {
+    "lv": "ZABBIX SIA meklē vecāko infrastruktūras inženieri, kurš pārvaldīs serveru un mākoņu infrastruktūru (AWS/GCP/Azure), Ansible/Terraform automatizāciju un nodrošinās sistēmu stabilitāti.",
+    "en": "Zabbix seeks a Senior Infrastructure Engineer to manage core server and cloud infrastructure across AWS/GCP/Azure, automate with Ansible/Terraform, handle networking and backups, and ensure system reliability."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1630808/zabbix-sia/senior-infrastructure-engineer",
+  "postedAt": "2026-07-31",
+  "expiresAt": "2026-08-31",
+  "salaryRange": "€3700–4200"
+}
