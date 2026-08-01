@@ -1,0 +1,25 @@
+{
+  "slug": "workingday-latvia-monitoringa-risinajumu-inzenieris-e",
+  "title": "Monitoringa risinājumu inženieris/-e",
+  "company": "LMT (WorkingDay Latvia)",
+  "companyUrl": "https://cv.lv/lv/search/employer/workingday-latvia?employerId=1205",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "sql",
+    "linux",
+    "python",
+    "monitoring",
+    "it-operations"
+  ],
+  "summary": {
+    "lv": "LMT meklē Monitoringa risinājumu inženieri/-i, kurš/-a nodrošinās LMT pakalpojumu tehnisko kvalitāti, attīstīs uzraudzības sistēmas un izstrādās automatizētus kvalitātes kontroles risinājumus.",
+    "en": "LMT (via WorkingDay Latvia) seeks a Monitoring Solutions Engineer to ensure service quality, develop monitoring and observability systems, and build automated quality assurance solutions using SQL, Linux, and Python."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1630686/workingday-latvia/monitoringa-risinajumu-inzenieris-e",
+  "postedAt": "2026-07-31",
+  "expiresAt": "2026-08-31",
+  "salaryRange": "€2400–2900"
+}
