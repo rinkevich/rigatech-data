@@ -1,0 +1,26 @@
+{
+  "slug": "ubiquiti-latvia-sia-back-end-developer-go",
+  "title": "Back-End Developer (Go)",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/ubiquiti-latvia-sia?employerId=30898",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "go",
+    "golang",
+    "rest-api",
+    "networking",
+    "embedded-systems",
+    "c++"
+  ],
+  "summary": {
+    "lv": "Ubiquiti Latvia meklē Back-End izstrādātāju (Go), kurš/-a projektēs un ieviesos RESTful API, strādās ar iebūvētajām platformām un tīkla programmēšanu, nodrošinot veiktspējīgu un drošu backend arhitektūru.",
+    "en": "Ubiquiti Latvia is hiring a Back-End Developer (Go) to design and implement scalable RESTful APIs, develop applications on embedded platforms, and handle network programming and system-level integration."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1630092/ubiquiti-latvia-sia/back-end-developer-go",
+  "postedAt": "2026-07-30",
+  "expiresAt": "2026-08-30",
+  "salaryRange": "€4000–7000"
+}
