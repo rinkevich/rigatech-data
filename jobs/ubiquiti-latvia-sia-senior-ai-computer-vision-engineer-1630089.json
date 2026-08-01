@@ -1,0 +1,27 @@
+{
+  "slug": "ubiquiti-latvia-sia-senior-ai-computer-vision-engineer-1630089",
+  "title": "Senior AI/Computer Vision Engineer",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/ubiquiti-latvia-sia?employerId=30898",
+  "location": "Akmeņu iela 14",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "python",
+    "c++",
+    "computer-vision",
+    "machine-learning",
+    "mlops",
+    "edge-ai",
+    "pytorch"
+  ],
+  "summary": {
+    "lv": "Ubiquiti Latvia meklē vecāko AI/Computer Vision inženieri, kurš/-a veidos AI sistēmas no gala līdz galam — no datu prasību definēšanas un modeļu apmācīšanas līdz izvietošanai uz edge ierīcēm un integrācijai C++ konveijeros.",
+    "en": "Ubiquiti Latvia seeks a Senior AI/Computer Vision Engineer to build end-to-end AI systems — from problem definition and data collection to model training, validation, edge deployment, and integration into C++ pipelines."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1630089/ubiquiti-latvia-sia/senior-ai-computer-vision-engineer",
+  "postedAt": "2026-07-30",
+  "expiresAt": "2026-08-30",
+  "salaryRange": "€5000–8000"
+}
