@@ -1,0 +1,25 @@
+{
+  "slug": "balticom-as-windows-system-administrators-e",
+  "title": "Windows System administrators/-e",
+  "company": "Balticom AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/balticom-as?employerId=25836",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "windows-server",
+    "active-directory",
+    "powershell",
+    "hyper-v",
+    "microsoft-365"
+  ],
+  "summary": {
+    "lv": "Balticom meklē Windows sistēmu administratoru, kurš uzturēs un attīstīs Windows Server infrastruktūru, Active Directory, Microsoft 365, Hyper-V virtualizāciju un tīkla servisus vadošajā telekomunikāciju uzņēmumā.",
+    "en": "Balticom, Latvia's leading telecom, is hiring a Windows System Administrator to manage and develop Windows Server infrastructure, Active Directory, Microsoft 365, Hyper-V virtualization, and network services."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1630593/balticom-as/windows-system-administrators-e",
+  "postedAt": "2026-07-31",
+  "expiresAt": "2026-08-15",
+  "salaryRange": "€2400–2800"
+}
