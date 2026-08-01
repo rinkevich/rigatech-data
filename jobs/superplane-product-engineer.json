@@ -1,0 +1,19 @@
+{
+  "slug": "superplane-product-engineer",
+  "title": "Product Engineer",
+  "company": "SuperPlane",
+  "companyUrl": "https://remoteok.com/company/superplane",
+  "location": "Remote · Anywhere",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€4600–6900",
+  "stack": ["golang", "javascript", "react", "ai"],
+  "summary": {
+    "en": "SuperPlane is building an AI-powered software factory engine and is hiring a full-stack Product Engineer to own features end to end — from backend API work to polishing React UIs — working remotely across GMT+2 to GMT-3.",
+    "lv": "SuperPlane veido ar mākslīgo intelektu darbināmu programmatūras fabrikas dzinēju un meklē pilna steka Product Engineer, kurš patstāvīgi vadītu funkcionalitātes izstrādi — no aizmugursistēmas API līdz React saskarnes uzlabošanai, strādājot attālināti GMT+2 līdz GMT-3 joslā."
+  },
+  "applyUrl": "https://remoteok.com/remote-jobs/remote-product-engineer-superplane-1135739",
+  "postedAt": "2026-07-31",
+  "expiresAt": "2026-10-29"
+}
