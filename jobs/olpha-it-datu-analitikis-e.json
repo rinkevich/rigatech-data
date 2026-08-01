@@ -1,0 +1,27 @@
+{
+  "slug": "olpha-it-datu-analitikis-e",
+  "title": "IT DATU ANALĪTIĶIS/-E",
+  "company": "Olpha",
+  "companyUrl": "https://cv.lv/lv/search/employer/olpha?employerId=17111",
+  "location": "Rūpnīcu iela 5, Olaine, Olaines novads, LV-2114, Latvija",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "power-bi",
+    "microsoft-fabric",
+    "dynamics-365",
+    "postgresql",
+    "t-sql",
+    "etl",
+    "ai-ml"
+  ],
+  "summary": {
+    "lv": "Olpha meklē IT Datu analītiķi, kurš/-a uzturēs biznesa datu pārvaldības sistēmu, analizēs informāciju, veidosies atskaites (Power BI, Microsoft Fabric) un piedalīsies digitalizācijas projektos.",
+    "en": "Olpha is seeking an IT Data Analyst to maintain the business data management system, produce reports and analytics using Power BI and Microsoft Fabric, and participate in digitalization and process automation projects."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1630144/olpha/it-datu-analitikis-e",
+  "postedAt": "2026-07-30",
+  "expiresAt": "2026-08-30",
+  "salaryRange": "€2700–2900"
+}
