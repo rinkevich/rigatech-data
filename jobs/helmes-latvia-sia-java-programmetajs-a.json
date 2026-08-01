@@ -1,0 +1,28 @@
+{
+  "slug": "helmes-latvia-sia-java-programmetajs-a",
+  "title": "Java programmētājs/-a",
+  "company": "HELMES LATVIA SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/helmes-latvia-sia?employerId=29201",
+  "location": "Dēļu iela 2",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "java",
+    "oracle",
+    "react",
+    "rest-api",
+    "weblogic",
+    "git",
+    "linux",
+    "pl/sql"
+  ],
+  "summary": {
+    "lv": "Helmes Latvia meklē Java programmētāju/-a, kurš/-a izstrādās programmatūru Java vidē, risinās problēmziņojumus, sadarbosies ar klientiem un nodrošinās risinājumu atbilstību sistēmas arhitektūrai.",
+    "en": "Helmes Latvia is hiring a Java Developer to build software using Java 8+, Oracle DB, ReactJS, and REST/SOAP services, resolve incidents, and collaborate with clients within defined project scope."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1630141/helmes-latvia-sia/java-programmetajs-a",
+  "postedAt": "2026-07-30",
+  "expiresAt": "2026-08-30",
+  "salaryRange": "€2300–5000"
+}
