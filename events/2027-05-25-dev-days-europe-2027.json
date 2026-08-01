@@ -1,0 +1,20 @@
+{
+  "slug": "2027-05-25-dev-days-europe-2027",
+  "title": {
+    "en": "DevDays Europe 2027",
+    "lv": "DevDays Europe 2027"
+  },
+  "date": "2027-05-25",
+  "endDate": "2027-05-28",
+  "location": "Rīga",
+  "venue": "Apollo Kino Akropole",
+  "url": "https://devdayseurope.eu",
+  "organizer": "DevDays Europe",
+  "kind": "conference",
+  "techTags": ["software-development", "ai", "devops", "cloud"],
+  "audienceTags": ["engineers", "developers"],
+  "summary": {
+    "en": "DevDays Europe 2027 is the 9th edition of the international software development conference coming to Rīga on May 25–28, 2027 — workshops at the National Library of Latvia on May 25, and the main conference at Apollo Kino Akropole from May 26–28, featuring 100+ speakers and 6 tracks.",
+    "lv": "DevDays Europe 2027 ir 9. starptautiskās programmatūras izstrādes konferences izdevums, kas notiks Rīgā 2027. gada 25.–28. maijā — darbnīcas Latvijas Nacionālajā bibliotēkā 25. maijā un galvenā konference Apollo Kino Akropole no 26. līdz 28. maijam, ar 100+ runātājiem un 6 tematiskajiem ceļiem."
+  }
+}
