@@ -1,0 +1,25 @@
+{
+  "slug": "databank-sia-php-backend-izstradatajs",
+  "title": "PHP backend izstrādātājs",
+  "company": "Databank SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/databank-sia?employerId=41140",
+  "location": "Vienības gatve 109, Rīga, Latvija",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "php",
+    "laravel",
+    "postgresql",
+    "javascript",
+    "vue"
+  ],
+  "summary": {
+    "lv": "Databank SIA meklē PHP backend izstrādātāju ar pieredzi Laravel un PostgreSQL, kurš/-a veiks programmatūras izstrādi OOP pieejā un strādās ar JavaScript (Vue) frontend uzdevumiem.",
+    "en": "Databank SIA is hiring a PHP Backend Developer with Laravel and PostgreSQL experience to build software using OOP principles, write SQL queries, and handle JavaScript (Vue) tasks."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1630010/databank-sia/php-backend-izstradatajs",
+  "postedAt": "2026-07-30",
+  "expiresAt": "2026-10-29",
+  "salaryRange": "€1500–3000"
+}
