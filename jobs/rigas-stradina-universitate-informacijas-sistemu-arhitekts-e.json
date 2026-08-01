@@ -1,0 +1,27 @@
+{
+  "slug": "rigas-stradina-universitate-informacijas-sistemu-arhitekts-e",
+  "title": "Informācijas sistēmu arhitekts/-e",
+  "company": "Rīgas Stradiņa universitāte",
+  "companyUrl": "https://cv.lv/lv/search/employer/rigas-stradina-universitate?employerId=30249",
+  "location": "Dzirciema iela 16, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "azure",
+    "c#",
+    "sql-server",
+    "office-365",
+    "microservices",
+    "api-design",
+    "microsoft-ecosystem"
+  ],
+  "summary": {
+    "lv": "Rīgas Stradiņa universitāte meklē IS arhitektu/-i ar 5+ gadu pieredzi, kurš/-a projektēs informācijas sistēmu arhitektūru, nodrošinās sistēmu integrācijas un vadīs Microsoft ekosistēmas risinājumu attīstību.",
+    "en": "Rīgas Stradiņa University is hiring an Information Systems Architect with 5+ years of experience to design IS architecture, lead system integrations, and drive Microsoft ecosystem (Azure, SQL Server, Office 365) solutions."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1630206/rigas-stradina-universitate/informacijas-sistemu-arhitekts-e",
+  "postedAt": "2026-07-30",
+  "expiresAt": "2026-08-30",
+  "salaryRange": "€3900"
+}
