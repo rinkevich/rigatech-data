@@ -1,0 +1,27 @@
+{
+  "slug": "sia-aerones-engineering-ai-native-devops-engineer",
+  "title": "AI Native DevOps Engineer",
+  "company": "SIA Aerones Engineering",
+  "companyUrl": "https://apply.workable.com/aerones/",
+  "location": "Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€2500–6000",
+  "stack": [
+    "gcp",
+    "kubernetes",
+    "docker",
+    "terraform",
+    "ci-cd",
+    "python",
+    "bash"
+  ],
+  "summary": {
+    "lv": "Aerones Engineering meklē AI Native DevOps inženieri, kurš uzturēs un uzlabos R&D un inženieru komandu infrastruktūru, automatizēs CI/CD cauruļvadus un pārvaldīs konteinerizētas aplikācijas Google Cloud un edge vidēs.",
+    "en": "Aerones Engineering is looking for an AI Native DevOps Engineer to build and maintain infrastructure for R&D and engineering teams, streamline CI/CD pipelines, and manage containerized applications across Google Cloud and edge environments."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1631290/sia-aerones-engineering/ai-native-devops-engineer",
+  "postedAt": "2026-08-03",
+  "expiresAt": "2026-09-03"
+}
