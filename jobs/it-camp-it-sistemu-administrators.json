@@ -1,0 +1,29 @@
+{
+  "slug": "it-camp-it-sistemu-administrators",
+  "title": "IT sistēmu administrators",
+  "company": "IT Camp",
+  "companyUrl": "https://cv.lv/lv/search/employer/it-camp?employerId=14478",
+  "location": "Grānita iela, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€2800–3300",
+  "stack": [
+    "windows",
+    "linux",
+    "active-directory",
+    "azure",
+    "mysql",
+    "mssql",
+    "fortigate",
+    "vpn",
+    "networking"
+  ],
+  "summary": {
+    "lv": "IT Camp meklē IT sistēmu administratoru Latvijas lielākajam pārtikas ražošanas uzņēmumam — administrēt Windows/Linux infrastruktūru, Active Directory, MS Azure un tīkla iekārtas.",
+    "en": "IT Camp is recruiting an IT Systems Administrator for Latvia's largest food production company to manage Windows/Linux infrastructure, Active Directory, MS Azure, and network equipment including Fortigate."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1631106/it-camp/it-sistemu-administrators",
+  "postedAt": "2026-08-01",
+  "expiresAt": "2026-09-01"
+}
