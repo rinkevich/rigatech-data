@@ -1,0 +1,26 @@
+{
+  "slug": "sia-aerones-engineering-senior-python-engineer",
+  "title": "Senior Python Engineer",
+  "company": "SIA Aerones Engineering",
+  "companyUrl": "https://apply.workable.com/aerones/",
+  "location": "Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€4500–6000",
+  "stack": [
+    "python",
+    "django",
+    "postgresql",
+    "ai-agents",
+    "claude-code",
+    "cursor"
+  ],
+  "summary": {
+    "lv": "Aerones Engineering, globālais vēja turbīnu apkopes robotu līderis 30+ valstīs, meklē Senior Python inženieri, kurš ar Django, PostgreSQL un AI kodēšanas aģentiem izstrādās backend pakalpojumus un datu cauruļvadus.",
+    "en": "Aerones Engineering, the global leader in robotic wind turbine maintenance across 30+ countries, seeks a Senior Python Engineer to build backend services and data pipelines using Django, PostgreSQL, and AI coding agents as the primary development tool."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1631288/sia-aerones-engineering/senior-python-engineer",
+  "postedAt": "2026-08-03",
+  "expiresAt": "2026-09-03"
+}
