@@ -1,0 +1,25 @@
+{
+  "slug": "ingain-technologies-sia-qa-engineer-manual-automation",
+  "title": "QA Engineer (Manual & Automation)",
+  "company": "Ingain Technologies SIA",
+  "companyUrl": "https://www.ingain.com",
+  "location": "Skanstes iela 25, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3000–3500",
+  "stack": [
+    "manual-testing",
+    "test-automation",
+    "sql",
+    "ci-cd",
+    "databases"
+  ],
+  "summary": {
+    "lv": "inGain, Latvijas B2B fintech SaaS platforma, meklē QA Engineer (Manual & Automation) ar 4+ gadu pieredzi, kurš līdzsvaros manuālo un automatizēto testēšanu un vadīs testēšanas standartus.",
+    "en": "inGain, a Latvian B2B fintech SaaS platform for lending operations, is seeking a QA Engineer (Manual & Automation) with 4+ years of experience to balance manual and automated testing and guide QA standards company-wide."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1627400/ingain-technologies-sia/qa-engineer-manual-automation",
+  "postedAt": "2026-07-27",
+  "expiresAt": "2026-08-27"
+}
