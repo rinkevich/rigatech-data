@@ -8,12 +8,7 @@
   "employment": "full-time",
   "seniority": "lead",
   "salaryRange": "€4200–5200",
-  "stack": [
-    "linux",
-    "windows-server",
-    "vmware",
-    "networking"
-  ],
+  "stack": ["linux", "windows-server", "vmware", "networking"],
   "summary": {
     "lv": "BluOr Bank aicina darbā IT infrastruktūras nodaļas vadītāju bankas serveru, tīklu un drošības risinājumu pārvaldībai.",
     "en": "BluOr Bank seeks an IT Infrastructure Department Head to manage the bank's servers, networks, and security solutions."
