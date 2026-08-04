@@ -1,0 +1,27 @@
+{
+  "slug": "sia-vendon-jaunakais-a-php-programmetajs-a",
+  "title": "Jaunākais/-ā PHP programmētājs/-a",
+  "company": "SIA Vendon",
+  "companyUrl": "https://cv.lv/lv/search/employer/sia-vendon?employerId=26972",
+  "location": "Republikas laukums 2a, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "junior",
+  "salaryRange": "€1900–2200",
+  "stack": [
+    "php",
+    "mariadb",
+    "mysql",
+    "mongodb",
+    "git",
+    "linux",
+    "rest-api"
+  ],
+  "summary": {
+    "lv": "SIA Vendon aicina darbā jaunāko PHP programmētāju ar MySQL/MariaDB un REST API prasmēm starptautiskajā izstrādes komandā.",
+    "en": "SIA Vendon is hiring a Junior PHP Developer with MySQL/MariaDB and REST API skills to join their international development team."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1632522/sia-vendon/jaunakais-a-php-programmetajs-a",
+  "postedAt": "2026-08-04",
+  "expiresAt": "2026-09-04"
+}
