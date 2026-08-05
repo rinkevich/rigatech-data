@@ -1,0 +1,19 @@
+{
+  "slug": "mintos-senior-android-engineer",
+  "title": "Senior Android Engineer",
+  "company": "Mintos",
+  "companyUrl": "https://cv.lv/lv/search/employer/mintos?employerId=27299",
+  "location": "Skanstes iela 52, Riga, LV-1013, Latvia",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€5150–5690",
+  "stack": ["android", "kotlin", "java", "jetpack-compose"],
+  "summary": {
+    "lv": "Mintos meklē Senior Android inženieri, kurš veidos mērogojamu Android lietotni FinTech platformai ar miljoniem investoru visā Eiropā, strādājot pie maksājumu infrastruktūras un dalīto komponentu uzlabošanas.",
+    "en": "Mintos is looking for a Senior Android Engineer to build a scalable, high-quality Android experience for their FinTech platform serving millions of investors across Europe, focusing on payment infrastructure and shared engineering components."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1633646/mintos/senior-android-engineer",
+  "postedAt": "2026-08-05",
+  "expiresAt": "2026-09-05"
+}
