@@ -1,0 +1,19 @@
+{
+  "slug": "starbridge-sia-qa-automatizacijas-inzenieris-e-qa-automation-engineer",
+  "title": "QA Automatizācijas Inženieris/-e (QA Automation Engineer)",
+  "company": "Starbridge SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/starbridge-sia?employerId=27004",
+  "location": "Aspazijas bulvāris 24",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€3400–3600",
+  "stack": ["javascript", "java", "rest-api", "ci-cd", "jenkins", "gitlab-ci", "github-actions", "selenium"],
+  "summary": {
+    "lv": "Starbridge SIA meklē QA Automatizācijas Inženieri ar 3–5 gadu pieredzi testēšanas automatizācijā, kas izstrādās un uzturēs automatizētos testus, izmantojot JavaScript vai Java, un strādās ar CI/CD rīkiem FinTech vidē.",
+    "en": "Starbridge SIA seeks a QA Automation Engineer with 3–5 years of experience to develop and maintain automated tests using JavaScript or Java, working with CI/CD tools in a FinTech environment."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1633590/starbridge-sia/qa-automatizacijas-inzenieris-e-qa-automation-engineer",
+  "postedAt": "2026-08-05",
+  "expiresAt": "2026-09-05"
+}
