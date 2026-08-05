@@ -1,0 +1,19 @@
+{
+  "slug": "atea-global-services-data-engineer",
+  "title": "Data Engineer",
+  "company": "Atea Global Services",
+  "companyUrl": "https://cv.lv/lv/search/employer/atea-global-services?employerId=27059",
+  "location": "Antonijas iela 17, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–4500",
+  "stack": ["microsoft-fabric", "azure-synapse", "azure-data-factory", "azure-data-lake", "microsoft-purview", "sql", "python"],
+  "summary": {
+    "lv": "Atea Global Services meklē Data Engineer ar 5+ gadu pieredzi, kurš izstrādās un uzturēs datu cauruļvadus un ETL/ELT procesus Microsoft Fabric platformā, atbalstot uzņēmuma pāreju uz datu vadītu un MI iespējotu organizāciju.",
+    "en": "Atea Global Services seeks a Data Engineer with 5+ years of experience to build and maintain data pipelines and ETL/ELT processes on Microsoft Fabric, supporting the company's transformation toward a data-driven and AI-enabled organization."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1633382/atea-global-services/data-engineer",
+  "postedAt": "2026-08-05",
+  "expiresAt": "2026-09-05"
+}
