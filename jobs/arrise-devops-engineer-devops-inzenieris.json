@@ -1,0 +1,28 @@
+{
+  "slug": "arrise-devops-engineer-devops-inzenieris",
+  "title": "DevOps Engineer(DevOps Inženieris)",
+  "company": "ARRISE",
+  "companyUrl": "https://cv.lv/lv/search/employer/arrise?employerId=74985",
+  "location": "VEF kvartāls, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "devops",
+    "kubernetes",
+    "docker",
+    "ci-cd",
+    "terraform",
+    "aws",
+    "monitoring",
+    "linux"
+  ],
+  "summary": {
+    "lv": "ARRISE meklē DevOps Engineer, kas nodrošinās CI/CD procesu automatizāciju, infrastruktūras pārvaldību un konteineru orķestrāciju.",
+    "en": "ARRISE seeks a DevOps Engineer to automate CI/CD processes, manage infrastructure, and handle container orchestration."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1636094/arrise/devops-engineer-devops-inzenieris",
+  "postedAt": "2026-08-10",
+  "salaryRange": "€5000–8000",
+  "expiresAt": "2026-09-10"
+}
