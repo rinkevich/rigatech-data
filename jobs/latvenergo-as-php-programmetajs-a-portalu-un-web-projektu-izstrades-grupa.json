@@ -1,0 +1,32 @@
+{
+  "slug": "latvenergo-as-php-programmetajs-a-portalu-un-web-projektu-izstrades-grupa",
+  "title": "PHP programmētājs/-a (Portālu un Web projektu izstrādes grupā)",
+  "company": "Latvenergo AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/latvenergo-as?employerId=10468",
+  "location": "Rīga",
+  "remote": "remote",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "php",
+    "laravel",
+    "sql",
+    "html",
+    "css",
+    "javascript",
+    "bootstrap",
+    "vue",
+    "docker",
+    "kubernetes",
+    "git",
+    "ci-cd"
+  ],
+  "summary": {
+    "lv": "Latvenergo meklē PHP programmētāju web portālu izstrādes grupā, kas strādās ar Laravel, Vue.js un Docker tehnoloģijām, nodrošinot enerģētikas nozares digitālos pakalpojumus.",
+    "en": "Latvenergo seeks a PHP Developer for its web portals development group to work with Laravel, Vue.js, and Docker, supporting digital services in the energy sector."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1635305/latvenergo-as/php-programmetajs-a-portalu-un-web-projektu-izstrades-grupa",
+  "postedAt": "2026-08-07",
+  "salaryRange": "€2700–3300",
+  "expiresAt": "2026-09-06"
+}
