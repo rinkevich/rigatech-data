@@ -1,0 +1,27 @@
+{
+  "slug": "sia-aerones-engineering-senior-erp-admin",
+  "title": "Senior ERP Admin",
+  "company": "SIA Aerones Engineering",
+  "companyUrl": "https://aerones.com",
+  "location": "Katlakalna iela 11e, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "netsuite",
+    "erp",
+    "suiteflow",
+    "suitescript",
+    "salesforce",
+    "erp-admin",
+    "integrations"
+  ],
+  "summary": {
+    "lv": "Aerones Engineering meklē Senior ERP Admin ar dziļu NetSuite pieredzi, kas vadīs sistēmas administrēšanu, optimizēšanu un integrāciju ar Salesforce un citiem rīkiem.",
+    "en": "Aerones Engineering seeks a Senior ERP Admin with deep NetSuite expertise to lead system administration, optimisation, and integrations with Salesforce and other tools."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1637055/sia-aerones-engineering/senior-erp-admin",
+  "postedAt": "2026-08-11",
+  "salaryRange": "€3000–5500",
+  "expiresAt": "2026-09-11"
+}
