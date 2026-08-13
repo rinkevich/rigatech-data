@@ -1,0 +1,19 @@
+{
+  "slug": "clarity-labs-sia-automation-qa-consultant",
+  "title": "Automation QA Consultant",
+  "company": "Clarity Labs SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/clarity-labs-sia?employerId=28423",
+  "location": "Skanstes iela 7/1",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "salaryRange": "€1250–1700",
+  "stack": ["tosca", "playwright", "java", "python", "csharp", "git", "jira", "azure-devops", "sql", "rest", "soap"],
+  "summary": {
+    "lv": "Clarity Labs SIA meklē Automation QA konsultantu/-i ar pieredzi Tricentis Tosca un Playwright rīkos, kurš/-a veiks automatizētu testu izstrādi un uzturēšanu, funkcionālo un API testēšanu CI/CD vidē.",
+    "en": "Clarity Labs SIA is hiring an Automation QA Consultant with hands-on Tricentis Tosca and Playwright experience to design, develop, and maintain automated test suites covering functional, API, and regression testing within CI/CD pipelines."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1638851/clarity-labs-sia/automation-qa-consultant",
+  "postedAt": "2026-08-13",
+  "expiresAt": "2026-09-13"
+}
