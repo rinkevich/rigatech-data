@@ -1,0 +1,27 @@
+{
+  "slug": "ubiquiti-latvia-sia-senior-site-reliability-engineer-devops-1637721",
+  "title": "Senior Site Reliability Engineer / DevOps",
+  "company": "Ubiquiti (Latvia) SIA",
+  "companyUrl": "https://cv.lv/lv/search/employer/ubiquiti-latvia-sia?employerId=30898",
+  "location": "Akmeņu iela 14, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "devops",
+    "sre",
+    "kubernetes",
+    "ci-cd",
+    "monitoring",
+    "linux",
+    "cloud"
+  ],
+  "summary": {
+    "lv": "Ubiquiti Latvia meklē Senior SRE/DevOps inženieri, kas uzturēs un uzlabos uzņēmuma infrastruktūru un nodrošinās augstu pieejamību.",
+    "en": "Ubiquiti Latvia seeks a Senior SRE/DevOps Engineer to maintain and improve company infrastructure while ensuring high availability."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1637721/ubiquiti-latvia-sia/senior-site-reliability-engineer-devops",
+  "postedAt": "2026-08-12",
+  "salaryRange": "€3000–6000",
+  "expiresAt": "2026-09-12"
+}
