@@ -1,0 +1,19 @@
+{
+  "slug": "eleving-consumer-finance-as-senior-data-engineer",
+  "title": "Senior Data Engineer",
+  "company": "Eleving Consumer Finance AS",
+  "companyUrl": "https://cv.lv/lv/search/employer/eleving-consumer-finance-as?employerId=65857",
+  "location": "Skanstes iela 52, Rīga, LV-1013",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "senior",
+  "salaryRange": "€3500–4200",
+  "stack": ["python", "postgresql", "kafka", "spark", "dbt", "airflow", "kubernetes"],
+  "summary": {
+    "lv": "Eleving Consumer Finance meklē pieredzējušu datu inženieri, kurš izveidos un uzturēs CDC konveijierus no PostgreSQL uz datu platformu, izmantojot Spark, Kafka un Airflow, un veidos DBT modeļus biznesa analītikai.",
+    "en": "Eleving Consumer Finance is seeking a senior data engineer to build and maintain CDC pipelines from PostgreSQL, develop streaming pipelines with Spark Structured Streaming and Kafka, and create DBT models for business reporting using a medallion architecture."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1638983/eleving-consumer-finance-as/senior-data-engineer",
+  "postedAt": "2026-08-13",
+  "expiresAt": "2026-09-13"
+}
