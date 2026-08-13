@@ -1,0 +1,27 @@
+{
+  "slug": "mfd-veselibas-grupa-vecakais-datorsistemu-administrators",
+  "title": "Vecākais datorsistēmu administrators",
+  "company": "MFD Veselības grupa",
+  "companyUrl": "https://cv.lv/lv/search/employer/mfd-veselibas-grupa?employerId=28361",
+  "location": "Latgales iela 322, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "senior",
+  "stack": [
+    "windows-server",
+    "active-directory",
+    "hyper-v",
+    "powershell",
+    "linux",
+    "networking",
+    "vpn"
+  ],
+  "summary": {
+    "lv": "MFD Veselības grupa meklē Vecāko datorsistēmu administratoru, kurš administrēs serveru infrastruktūru, tīklu un medicīniskās sistēmas lielākajā privātajā veselības aprūpes uzņēmumā Latvijā.",
+    "en": "MFD Veselības grupa seeks a Senior Systems Administrator to manage server infrastructure, networks, and medical systems at Latvia's largest private healthcare company."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1637147/mfd-veselibas-grupa/vecakais-datorsistemu-administrators",
+  "postedAt": "2026-08-11",
+  "salaryRange": "€2500",
+  "expiresAt": "2026-09-11"
+}
