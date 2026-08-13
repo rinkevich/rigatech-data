@@ -1,0 +1,26 @@
+{
+  "slug": "indexo-banka-as-mobilas-aplikacijas-izstradatajs-react-native",
+  "title": "Mobilās aplikācijas izstrādātājs (React Native)",
+  "company": "INDEXO Banka AS",
+  "companyUrl": "https://www.indexo.lv",
+  "location": "Roberta Hirša iela 1, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "react-native",
+    "typescript",
+    "mobile",
+    "ios",
+    "android",
+    "fintech"
+  ],
+  "summary": {
+    "lv": "INDEXO Banka aicina pievienoties React Native izstrādātāju, kas uzturēs un pilnveidos bankas mobilo lietotni ar pilnu atbildību par lietotnes ciklu.",
+    "en": "INDEXO Banka invites a React Native Developer to maintain and improve the bank's mobile app with full ownership of the application lifecycle."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1636189/indexo-banka-as/mobilas-aplikacijas-izstradatajs-react-native",
+  "postedAt": "2026-08-10",
+  "salaryRange": "€3500–4700",
+  "expiresAt": "2026-08-24"
+}
