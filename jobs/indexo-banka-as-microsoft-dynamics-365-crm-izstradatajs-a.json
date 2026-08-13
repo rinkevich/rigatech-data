@@ -1,0 +1,31 @@
+{
+  "slug": "indexo-banka-as-microsoft-dynamics-365-crm-izstradatajs-a",
+  "title": "Microsoft Dynamics 365 CRM izstrādātājs/-a",
+  "company": "INDEXO Banka AS",
+  "companyUrl": "https://www.indexo.lv",
+  "location": "Roberta Hirša iela 1, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "dynamics-365",
+    "c#",
+    ".net",
+    "azure",
+    "power-platform",
+    "azure-functions",
+    "logic-apps",
+    "api",
+    "event-driven",
+    "bicep",
+    "arm-templates"
+  ],
+  "summary": {
+    "lv": "INDEXO Banka meklē MS Dynamics 365 CRM izstrādātāju, kurš veidos un pielāgos CRM risinājumus, izmantojot Azure, Power Platform un API integrācijas.",
+    "en": "INDEXO Banka seeks a Microsoft Dynamics 365 CRM Developer to build and customise CRM solutions using Azure, Power Platform, and API/event-driven integrations."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1638060/indexo-banka-as/microsoft-dynamics-365-crm-izstradatajs-a",
+  "postedAt": "2026-08-12",
+  "salaryRange": "€3300–4500",
+  "expiresAt": "2026-08-26"
+}
