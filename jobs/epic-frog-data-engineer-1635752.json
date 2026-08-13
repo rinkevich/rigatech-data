@@ -1,0 +1,28 @@
+{
+  "slug": "epic-frog-data-engineer-1635752",
+  "title": "Data Engineer",
+  "company": "Epic Frog",
+  "companyUrl": "https://cv.lv/lv/search/employer/epic-frog?employerId=65312",
+  "location": "Ķelnes iela 1, Rīga",
+  "remote": "onsite",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "python",
+    "sql",
+    "postgresql",
+    "aws-redshift",
+    "etl",
+    "data-warehouse",
+    "git",
+    "bi"
+  ],
+  "summary": {
+    "lv": "Epic Frog meklē Data Engineer, kurš veidos datu integrācijas risinājumus, optimizēs ETL procesus un uzturēs datu noliktavas infrastruktūru.",
+    "en": "Epic Frog seeks a Data Engineer to build data integration solutions, optimise ETL pipelines, and maintain data warehouse infrastructure."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1635752/epic-frog/data-engineer",
+  "postedAt": "2026-08-10",
+  "salaryRange": "€3500–6000",
+  "expiresAt": "2026-09-10"
+}
