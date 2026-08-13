@@ -1,0 +1,26 @@
+{
+  "slug": "indexo-banka-as-front-end-izstradatajs",
+  "title": "Front - End izstrādātājs",
+  "company": "INDEXO Banka AS",
+  "companyUrl": "https://www.indexo.lv",
+  "location": "Roberta Hirša iela 1, Rīga",
+  "remote": "hybrid",
+  "employment": "full-time",
+  "seniority": "mid",
+  "stack": [
+    "react",
+    "typescript",
+    "frontend",
+    "javascript",
+    "css",
+    "html"
+  ],
+  "summary": {
+    "lv": "INDEXO Banka meklē Front-End izstrādātāju ar React/TypeScript pieredzi, kas izstrādās jaunas funkcijas bankas web platformām un portāliem.",
+    "en": "INDEXO Banka seeks a Front-End Developer with React/TypeScript experience to build new features for the bank's web platforms and portals."
+  },
+  "applyUrl": "https://cv.lv/vacancy/1636166/indexo-banka-as/front-end-izstradatajs",
+  "postedAt": "2026-08-10",
+  "salaryRange": "€3300–4500",
+  "expiresAt": "2026-08-24"
+}
